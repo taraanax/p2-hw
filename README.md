@@ -1,27 +1,27 @@
 #  C Homework
 
-> written with love.
+> Written with love.
 <pre length>    
               /\_/\                                type
              (  .ω.)   ____    type    
                  つ__/      /             type
   </pre>
 
-##  built with
+## ⚙︎ built with
 - C
 - gcc
 - emotional support printf
 
-##  run
+##  [ ▶︎ ] run
 ```
 gcc main.c -o program
 ./program
 ```
 
-```
-   
-   compiling...
-   pls no errors.
-```
+<pre length>
+   ദ്ദി ༎ຶ‿༎ຶ )
+  compiling...
+ pls no errors.
+</pre>
 
-may your pointers behave 
+╰┈➤. may your pointers behave 
