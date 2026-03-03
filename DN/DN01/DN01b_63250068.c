@@ -30,9 +30,10 @@ int main() {
     printf("enice: %d\n", enice);
     printf("dolzina: %d\n", dolzina);
     
-    //logaritem pri potencah št. 2
+    //logaritem pri potencah z osnovo 2
     if (enice == 1) {
         poStevkah(dolzina - 1);
+    //logaritem pri usem drugem
     } else {
         poStevkah(dolzina);
     }
