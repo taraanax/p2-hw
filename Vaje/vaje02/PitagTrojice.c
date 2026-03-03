@@ -5,34 +5,52 @@ int readint();
 
 int main() {
 
-    int m;
-    int n;
-
-    //&m <- naslov spodne meje
-    scanf("%d%d", &m, &n);
-    
+    int m = readint();
+    //printf("m: %d\n", m);
+    int n = readint();
+    //printf("n: %d\n", n);
     int count = 0;
+    int c = m;
+    int a = 1;
     int b = 1; 
-    int prejsni = -1;
 
     for (int c = m; c <= n; c++) {
         printf("c: %d\n", c);
-        for (int a = 1; a < n; a++) {
+        a = 1;
+        while (a < n) {
             //printf("a: %d\n", a);
+            b = 1;
             while (b < n) {
                 //printf("b: %d\n", b);
-                b = 1;
-                if ((a*a + b*b) == c*c && b != prejsni) {
+
+                if ((a*a + b*b) == c*c) {
                     count = count + 1;
                     printf("count vmes: %d\n", count);
-                    prejsni = a;
-                }
-                b++; 
+                } 
+                b++;
             }
+            a++;
         }
     }
     
     printf("%d\n", count);
 
     return 0;
+}
+
+int readint() {
+    
+    int c;
+    int i = 0;
+
+    while (true) {
+        c= getchar();
+
+        if(('0' <= c) && (c <= '9')) {
+            i = i * 10 + (c - '0');
+        }
+        if (c == ' ') break;
+    }
+
+    return i;
 }
