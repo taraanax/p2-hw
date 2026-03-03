@@ -56,12 +56,6 @@ int poStevkah(int stevilo) {
     for (int i = dolzina(stevilo) ; i > 0; i--) {
         //printf("i: %d\n", i);
         
-        if (i == 1){ 
-           ostanek = stevilo % powie(10, i);
-           putchar(ostanek + '0');
-           break;
-        }
-        
         ostanek = stevilo % powie(10, i);
         stevka = ostanek / powie(10, i-1);
        //printf("stevka: %d\n", stevka);
