@@ -1,56 +1,45 @@
 #include <stdio.h>
-#include <stdbool.h>
+#include <math.h>
 
-int readint();
 
 int main() {
 
-    int m = readint();
-    //printf("m: %d\n", m);
-    int n = readint();
-    //printf("n: %d\n", n);
-    int count = 0;
-    int c = m;
-    int a = 1;
+    int m;
+    int n;
+
+    scanf("%d%d", &m, &n);
+
+    int steviloc = 0;
     int b = 1; 
 
     for (int c = m; c <= n; c++) {
-        printf("c: %d\n", c);
-        a = 1;
-        while (a < n) {
-            //printf("a: %d\n", a);
-            b = 1;
-            while (b < n) {
-                //printf("b: %d\n", b);
-
+        int count = 0;
+        
+        for (int a = 1; a < c && !count; a++) {
+        /* O(n^3) scary shit
+            b = a;
+            while (b < c) {
                 if ((a*a + b*b) == c*c) {
-                    count = count + 1;
-                    printf("count vmes: %d\n", count);
+                    steviloc = steviloc + 1;
+                    count = 1;
+                    break;
                 } 
                 b++;
             }
             a++;
+        */
+        //preverjam, če je popoln kvadrat
+            int b2 = c*c - a*a;
+            int b = sqrt(b2);
+
+            if (b > 0 && b*b == b2) {
+                steviloc++;
+                count = 1;
+            }
         }
     }
     
-    printf("%d\n", count);
+    printf("%d\n", steviloc);
 
     return 0;
-}
-
-int readint() {
-    
-    int c;
-    int i = 0;
-
-    while (true) {
-        c= getchar();
-
-        if(('0' <= c) && (c <= '9')) {
-            i = i * 10 + (c - '0');
-        }
-        if (c == ' ') break;
-    }
-
-    return i;
 }
