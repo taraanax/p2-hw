@@ -68,17 +68,10 @@ int poStevkah(int stevilo) {
     for (int i = dolzina(stevilo) ; i > 0; i--) {
         //printf("i: %d\n", i);
         
-        if (i == 1){ 
-           ostanek = stevilo % powie(10, i);
-           putchar(ostanek + '0');
-           break;
-        }
-        
         ostanek = stevilo % powie(10, i);
         stevka = ostanek / powie(10, i-1);
        //printf("stevka: %d\n", stevka);
         putchar(stevka + '0');
-        //stevilo = stevilo - stevka*powie(10, i);
         
     }
     return 0;
@@ -86,7 +79,7 @@ int poStevkah(int stevilo) {
 
 int powie(int osnova, int eksponent) {
     int rezultat = osnova;
-    if (eksponent== 0) return osnova;
+    if (eksponent== 0) return 1;
     for (int i = 1; i < eksponent; i++) {
         rezultat = rezultat * osnova;
     }
