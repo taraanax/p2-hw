@@ -1,87 +1,40 @@
 #include <stdio.h>
+#include <ctype.h>
 #include <stdbool.h>
-
-int readint();
-int dolzina(int stevilo);
-int poStevkah(int stevilo);
-int powie(int osnova, int eksponent);
-
+#include <stdlib.h>
 
 int main() {
 
-    int a  = readint();
-    int b = readint();
-    int vsota = a + b;
+    int jeInt = 1;
+    int zacetek = 1;
+    int samoNula = 0;
+    int niz;
+    
+    while ((niz = getchar()) != '\n') {
+        
+        if (niz == ' ' || niz == '\n') {
+            putchar(jeInt + '0');
+            //printf("%d", jeInt);
+            
+            jeInt = 1;
+            zacetek = 1;
+            samoNula = 0;
 
-    //printf("%d\n", poStevkah(vsota));
-    //printf("po stevkah: %d\n", poStevkah(1234));
-    poStevkah(vsota);
+        } else {
+            if (zacetek) { //preverjam ce je prva cifra 0
+                if (niz == '0') samoNula = 1;
+                else if (niz >= '1' && niz <= '9') samoNula = 0;
+                else jeInt = 0;
+                
+                zacetek = 0;
+
+            } else { //preverjam ce je int
+                if (samoNula) jeInt = 0;
+                if (!isdigit(niz)) jeInt = 0;
+            }
+        }
+
+    }
 
     return 0;  
-}
-
-int readint() {
-    
-    int c;
-    int i = 0;
-    int predznak = 1;
-
-    while (true) {
-        c= getchar();
-
-        if (c == '-') {
-            predznak = -1;
-        }
-
-        if(('0' <= c) && (c <= '9')) {
-            i = i * 10 + (c - '0');
-        }
-        if (c == '\n') break;
-    }
-
-    return i*predznak;
-}
-
-int dolzina(int stevilo) {
-    int dolzina = 1;
-
-    for (int i = 1; i > 0; i++) {
-        if (stevilo % powie(10, i) == stevilo) {
-            dolzina = i;
-            //printf("dolzina: %d\n", i);
-            return dolzina;
-        }
-    }
-}
-
-int poStevkah(int stevilo) {
-    int predznak = 1;
-
-    int stevka = 0;
-    int ostanek = 0;
-    if (stevilo < 0) {
-        predznak = -1;
-        stevilo = stevilo*predznak;
-        putchar('-');
-    }
-
-    for (int i = dolzina(stevilo) ; i > 0; i--) {
-        //printf("i: %d\n", i);
-        
-        ostanek = stevilo % powie(10, i);
-        stevka = ostanek / powie(10, i-1);
-       //printf("stevka: %d\n", stevka);
-        putchar(stevka + '0');
-        
-    }
-    return 0;
-}
-
-int powie(int osnova, int eksponent) {
-    int rezultat = osnova;
-    if (eksponent== 0) return 1;
-    for (int i = 1; i < eksponent; i++) {
-        rezultat = rezultat * osnova;
-    }
-    return rezultat;
 }
