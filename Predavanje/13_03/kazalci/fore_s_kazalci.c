@@ -7,7 +7,7 @@ int inc1(int n) {
     return n;
 }
 
-int inc2(int *n) {
+int inc2(int* n) {
     *n = *n + 1;
     return *n;
 }

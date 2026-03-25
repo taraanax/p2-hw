@@ -11,7 +11,7 @@ int f() {
 
 int main () {
 
-    int *p;
+    int* p;
     p = &n;
     printf("%p\n", p);
 
