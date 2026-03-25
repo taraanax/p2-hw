@@ -5,12 +5,23 @@
 #include "naloga.h"
 
 int vsota(int* zac, int* kon) {
-    for (int i = 0; )
-    return -1;
+    int vsota = 0;
+    
+    for (int* p = zac; p <= kon; p++) {
+        vsota = vsota + *p;
+    }
+    
+    return vsota;
 }
 
 void indeksInKazalec(int* t, int* indeks, int** kazalec) {
-    // dopolnite ...
+    
+    if (*indeks == -1) {
+        *indeks = (*kazalec - t);
+    } else {
+        *kazalec = &(t[*indeks]);
+    }
+
 }
 
 void frekvenceCrk(char* niz, int** frekvence) {
@@ -20,7 +31,8 @@ void frekvenceCrk(char* niz, int** frekvence) {
 #ifndef test
 
 int main() {
-    // koda za ro"cno testiranje (po "zelji)
+    
+
 
     return 0;
 }
