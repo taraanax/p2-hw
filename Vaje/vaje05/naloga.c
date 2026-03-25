@@ -25,7 +25,9 @@ void indeksInKazalec(int* t, int* indeks, int** kazalec) {
 }
 
 void frekvenceCrk(char* niz, int** frekvence) {
-    // dopolnite ...
+    
+    *frekvence = (int*)calloc(26, sizeof(int)); //tabela črk
+
 }
 
 #ifndef test
