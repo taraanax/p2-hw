@@ -29,13 +29,14 @@ void frekvenceCrk(char* niz, int** frekvence) {
     *frekvence = (int*)calloc(26, sizeof(int)); //calloc --> use nastau na 0
     
     for (int i = 0; niz[i] != '\0'; i++) {
-        
-        if (niz[i] >= 'A' && niz[i] <= 'Z') {
-            niz[i] = niz[i] + 32;
+        char c = niz[i];
+
+        if (c >= 'A' && c <= 'Z') {
+            c = c + 32;
         }
         
-        if (niz[i] >= 'a' && niz[i] <= 'z') {
-            int indeks = niz[i] - 'a';
+        if (c >= 'a' && c <= 'z') {
+            int indeks = c - 'a';
             (*frekvence)[indeks]++;
         }
     }
@@ -44,10 +45,9 @@ void frekvenceCrk(char* niz, int** frekvence) {
 #ifndef test
 
 int main() {
-    
-
-
+    //za teste
     return 0;
 }
+
 
 #endif
