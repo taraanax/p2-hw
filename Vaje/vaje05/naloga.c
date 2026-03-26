@@ -26,8 +26,19 @@ void indeksInKazalec(int* t, int* indeks, int** kazalec) {
 
 void frekvenceCrk(char* niz, int** frekvence) {
     
-    *frekvence = (int*)calloc(26, sizeof(int)); //tabela črk
-
+    *frekvence = (int*)calloc(26, sizeof(int)); //calloc --> use nastau na 0
+    
+    for (int i = 0; niz[i] != '\0'; i++) {
+        
+        if (niz[i] >= 'A' && niz[i] <= 'Z') {
+            niz[i] = niz[i] + 32;
+        }
+        
+        if (niz[i] >= 'a' && niz[i] <= 'z') {
+            int indeks = niz[i] - 'a';
+            (*frekvence)[indeks]++;
+        }
+    }
 }
 
 #ifndef test
