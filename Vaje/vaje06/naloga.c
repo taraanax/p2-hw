@@ -37,8 +37,33 @@ char* kopirajDoZnaka(char* niz, char znak) {
 }
 
 char** razcleni(char* niz, char locilo, int* stOdsekov) {
-    // popravite / dopolnite ...
-    return NULL;
+    //stOdsekov
+    int count = 1;
+    for (int i = 0; niz[i] != '\0'; i++) {
+        if (niz[i] == locilo) {
+            count++;
+        }
+    }
+    *stOdsekov = count;
+
+    char** tabela = malloc(count * sizeof(char*));
+
+    int i = 0;
+    while (*niz != '\0') {
+        tabela[i] = kopirajDoZnaka(niz, locilo);
+        
+        //premik naprej
+        int len = 0;
+        while (niz[len] != '\0' && niz[len] != locilo) {
+            len++;
+        }
+        if (niz[len] == '\0') break;
+
+        niz = &(niz[len + 1]);
+        i++;
+    }
+
+    return tabela;
 }
 
 #ifndef test
