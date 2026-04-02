@@ -7,12 +7,19 @@
 #include "naloga.h"
 
 int steviloZnakov(char* niz, char znak) {
-    // popravite / dopolnite ...
-    return -1;
+    
+    int count = 0;
+    for (int i = 0; niz[i] != '\0'; i++) {
+        if (niz[i] == znak) count++;
+    }
+
+    return count;
 }
 
 char* kopirajDoZnaka(char* niz, char znak) {
-    // popravite / dopolnite ...
+    
+    
+    
     return NULL;
 }
 
