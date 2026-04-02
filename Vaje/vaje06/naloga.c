@@ -18,11 +18,13 @@ int steviloZnakov(char* niz, char znak) {
 
 char* kopirajDoZnaka(char* niz, char znak) {
     
+    //za dolzino dobit
     int dolzina = 0;
     while (niz[dolzina] != '\0' && niz[dolzina] != znak) {
         dolzina++;
     }
 
+    //nova tabela
     char* p = malloc((dolzina + 1) * sizeof(char));
     
     
