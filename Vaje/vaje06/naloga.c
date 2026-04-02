@@ -18,9 +18,20 @@ int steviloZnakov(char* niz, char znak) {
 
 char* kopirajDoZnaka(char* niz, char znak) {
     
+    int dolzina = 0;
+    while (niz[dolzina] != '\0' && niz[dolzina] != znak) {
+        dolzina++;
+    }
+
+    char* p = malloc((dolzina + 1) * sizeof(char));
     
     
-    return NULL;
+    for (int i = 0; i < dolzina; i++) {
+        p[i] = niz[i];
+    }
+    p[dolzina] = '\0';
+
+    return p;
 }
 
 char** razcleni(char* niz, char locilo, int* stOdsekov) {
