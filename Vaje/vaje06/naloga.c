@@ -49,7 +49,7 @@ char** razcleni(char* niz, char locilo, int* stOdsekov) {
     char** tabela = malloc(count * sizeof(char*));
 
     int i = 0;
-    while (*niz != '\0') {
+    while (1) {
         tabela[i] = kopirajDoZnaka(niz, locilo);
         
         //premik naprej
@@ -57,10 +57,10 @@ char** razcleni(char* niz, char locilo, int* stOdsekov) {
         while (niz[len] != '\0' && niz[len] != locilo) {
             len++;
         }
-        if (niz[len] == '\0') break;
-
-        niz = &(niz[len + 1]);
         i++;
+        
+        if (niz[len] == '\0') break;
+        niz = &(niz[len + 1]);
     }
 
     return tabela;
@@ -68,9 +68,25 @@ char** razcleni(char* niz, char locilo, int* stOdsekov) {
 
 #ifndef test
 
-int main() {
-    // koda za ro"cno testiranje (po "zelji)
+void pozeni(char* niz, char locilo) {
+    int stOdsekov = 0;
+    char** odseki = razcleni(niz, locilo, &stOdsekov);
+    for (int i = 0;  i < stOdsekov;  i++) {
+        printf("%d: <%s>\n", i + 1, odseki[i]);
+        free(odseki[i]);
+    }
+    free(odseki);
+    printf("----------\n");
+}
 
+int main() {
+    char* niz1 = "";
+    char* niz2 = ";";
+
+    pozeni(niz1, ';');
+    pozeni(niz2, ';');
+
+    exit(0);
     return 0;
 }
 
