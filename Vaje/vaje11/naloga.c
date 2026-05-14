@@ -42,8 +42,17 @@ Vozlisce* vstaviUrejenoI(Vozlisce* zacetek, int element) {
 }
 
 Vozlisce* vstaviUrejenoR(Vozlisce* zacetek, int element) {
-    if (element < zacetek->podatek) return zacetek;
-    return vstaviUrejenoR(zacetek->naslednje, element);
+
+    if (zacetek == NULL || element < zacetek->podatek) {
+        Vozlisce* novo = malloc(sizeof(Vozlisce));
+        novo->podatek = element;
+        novo->naslednje = zacetek;
+        return novo;
+    }
+
+    zacetek->naslednje = vstaviUrejenoR(zacetek->naslednje, element);
+
+    return zacetek;
 }
 
 #ifndef test
