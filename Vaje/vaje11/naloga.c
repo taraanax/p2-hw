@@ -31,13 +31,13 @@ Vozlisce* vstaviUrejenoI(Vozlisce* zacetek, int element) {
         return novo;
     }
     
-    Vozlisce* max = zacetek->naslednje;
-    while (max != NULL && element > max->podatek) {
-        printf("  |test:%d < [%d]|  ", element, max->podatek);
-        zacetek = max->naslednje;
+    Vozlisce* max = zacetek;
+    while (max->naslednje != NULL && element > max->naslednje->podatek) {
+        //printf("  |test:%d < [%d]|  ", element, max->naslednje->podatek);
+        max = max->naslednje;
     }
-    novo->naslednje = max;
-    zacetek->naslednje = novo;
+    novo->naslednje = max->naslednje;
+    max->naslednje = novo;
     return zacetek;
 }
 
