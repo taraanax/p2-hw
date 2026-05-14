@@ -30,7 +30,7 @@ int main () {
     int sum = 0;
 
     for(int i = 0; i < v; i++) {
-        printf("i: %d\n", i);
+        //printf("i: %d\n", i);
         B[i] = sum;
         int nevem = 0;
         for(int j = 0; j < s; j++) {
