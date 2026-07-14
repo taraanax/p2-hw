@@ -22,13 +22,12 @@ long inverz(long y, long a, long b) {
     if (y == f(a)) return a;
     if (y == f(b)) return b;
 
-    long offset = (b - a)/2;
-    
-    long mid = a + offset;
+    long mid = a + (b - a)/2;
     long x_nov = f(mid);
 
-    if (y < x_nov) return inverz(y, a, mid);
-    if (y > x_nov) return inverz(y, mid, b);
+    if (y == x_nov) return mid;
+    if (y < x_nov) return inverz(y, a, mid - 1);
+    if (y > x_nov) return inverz(y, mid + 1, b);
 
     return -1;
 }
