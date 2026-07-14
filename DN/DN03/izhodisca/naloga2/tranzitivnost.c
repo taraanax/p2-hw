@@ -14,8 +14,27 @@ gcc -o test01 test01.c tranzitivnost.c -lm
 #include "tranzitivnost.h"
 
 int tranzitivnost(int a, int b) {
-    // popravite / dopolnite ...
-    return -1;
+
+    bool trans = true;
+    bool antitrans = true;
+
+    for (int x = a; x <= b; x++) {
+        for (int y = a; y <= b; y++) {
+            if (!f(x, y)) continue;
+
+            for (int z = a; z <= b; z++) {
+                if (!f(y, z)) continue;
+
+                if (f(x, z)) antitrans = false;
+                else trans = false;
+            }
+        }
+    }
+    
+    if (trans == true && antitrans == true) return 1;
+    if (trans == true && antitrans == false) return 2;
+    if (trans == false && antitrans == true) return 3;
+    if (trans == false && antitrans == false) return 1;
 }
 
 // Ta datoteka NE SME vsebovati funkcij main in f!
