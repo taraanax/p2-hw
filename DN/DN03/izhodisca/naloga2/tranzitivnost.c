@@ -34,7 +34,7 @@ int tranzitivnost(int a, int b) {
     if (trans == true && antitrans == true) return 1;
     if (trans == true && antitrans == false) return 2;
     if (trans == false && antitrans == true) return 3;
-    if (trans == false && antitrans == false) return 1;
+    if (trans == false && antitrans == false) return 4;
 }
 
 // Ta datoteka NE SME vsebovati funkcij main in f!
