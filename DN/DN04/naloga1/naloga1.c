@@ -25,7 +25,7 @@ int main() {
     int j = 0;
 
     while (i < n) {
-        if (arr1[i] == arr1[j]) {
+        if (arr2[i] == arr1[j]) {
             j++;
             lps[i] = j;
             i++;
@@ -45,32 +45,37 @@ int main() {
     int k = 0;
     for (int i = 0; i < n; i++) {
         curr = lps[i];
+
         if (curr > max) {
             max = curr;
-            k = i;
+            k = i - curr + 1;
+        } else {
+            continue;
         }
     }
 
     printf("%d ", k);
-    /*
-    printf(" \n");
 
+    /*printf(" \n");
+
+    printf("arr1: ");
     for (int i = 0; i < n; i++) {
-        printf(" [%d] ", arr1[i]);
+        printf("[%d] ", arr1[i]);
     }
 
     printf(" \n");
 
+    printf("arr2: ");
     for (int i = 0; i < n; i++) {
-        printf(" [%d] ", arr2[i]);
+        printf("[%d] ", arr2[i]);
     }
-
+ 
     printf(" \n");
     
+    printf("lps:  ");
     for (int i = 0; i < n; i++) {
-        printf(" [%d] ", lps[i]);
-    }
-    */
-
+        printf("[%d] ", lps[i]);
+    }*/
+   
     return -1;
 }
