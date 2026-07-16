@@ -21,21 +21,18 @@ int main() {
     int* lps;
     lps = (int*)calloc(n, sizeof(int));
 
-    int i = 1;
+    int i = 0;
     int j = 0;
 
     while (i < n) {
-        if (arr2[i] == arr1[j]) {
+        if (arr1[i] == arr2[j]) {
             j++;
             lps[i] = j;
             i++;
         } else {
-            if (j != 0) {
-                j = lps[j - 1];
-            } else {
-                lps[i] = 0;
-                i++;
-            }
+            lps[i] = 0;
+            i++;
+            
         }
         
     }
@@ -75,7 +72,7 @@ int main() {
     printf("lps:  ");
     for (int i = 0; i < n; i++) {
         printf("[%d] ", lps[i]);
-    }*/
-   
+    }
+   */
     return -1;
 }
