@@ -40,6 +40,18 @@ int main() {
         
     }
 
+    int curr = 0;
+    int max = 0;
+    int k = 0;
+    for (int i = 0; i < n; i++) {
+        curr = lps[i];
+        if (curr > max) {
+            max = curr;
+            k = i;
+        }
+    }
+
+    printf("%d ", k);
     /*
     printf(" \n");
 
