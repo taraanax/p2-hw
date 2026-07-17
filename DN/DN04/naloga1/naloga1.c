@@ -5,6 +5,7 @@
 
 int main() {
 
+//input
     int n;
     scanf("%d", &n);
 
@@ -19,10 +20,10 @@ int main() {
     }
 
     int* arr = malloc((2*n)*sizeof(int));
-    
     memcpy(arr, arr1, n * sizeof(int));
     memcpy(arr + n, arr1, n * sizeof(int));
 
+//lps
     int* lps;
     lps = (int*)calloc(n, sizeof(int));
 
@@ -30,7 +31,7 @@ int main() {
     int j = 0;
 
     while (i < n) {
-        if (arr1[i] == arr1[j]) {
+        if (arr2[i] == arr2[j]) {
             j++;
             lps[i] = j;
             i++;
@@ -45,26 +46,34 @@ int main() {
         
     }
 
-    int curr = 0;
-    int max = 0;
-    int k = 0;
-    for (int i = 0; i < n; i++) {
-        curr = lps[i];
+//iskanje k
+    i = 0;
+    j = 0;
 
-        if (curr > max) {
-            max = curr;
-            k = i - curr + 1;
-        } else if (curr == max){
-            int kandidat = i - curr + 1;
-                if (kandidat < k) {
-                    k = kandidat;
+    while (i < (2*n)) {
+        if (arr[i] == arr2[j]) {
+            j++;
+            i++;
+            
+            if (j == n) {
+                int k = i - n;
+
+                if (k < n) {
+                    printf("%d\n", k);
+                    return 0;
                 }
+
+                j = lps[j - 1];
             }
+
+        } else {
+            if (j != 0) j = lps[j - 1];
+            else i++;
         }
+        
+    }
 
-    printf("%d ", k);
-
-
+/*debugging
     printf(" \n");
 
     printf("arr1: ");
@@ -89,9 +98,9 @@ int main() {
     printf(" \n");
     
     printf("lps:  ");
-    for (int i = 0; i < n; i++) {
+    for (int i = 0; i < (n); i++) {
         printf("[%d] ", lps[i]);
     }
-
+*/
     return -1;
 }
