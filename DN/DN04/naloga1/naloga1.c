@@ -34,7 +34,6 @@ int main() {
             i++;
             
         }
-        
     }
 
     int curr = 0;
@@ -46,14 +45,18 @@ int main() {
         if (curr > max) {
             max = curr;
             k = i - curr + 1;
-        } else {
-            continue;
+        } else if (curr == max){
+            int kandidat = i - curr + 1;
+                if (kandidat < k) {
+                    k = kandidat;
+                }
+            }
         }
-    }
 
     printf("%d ", k);
 
-    /*printf(" \n");
+    /*
+    printf(" \n");
 
     printf("arr1: ");
     for (int i = 0; i < n; i++) {
@@ -73,6 +76,6 @@ int main() {
     for (int i = 0; i < n; i++) {
         printf("[%d] ", lps[i]);
     }
-   */
+    */
     return -1;
 }
