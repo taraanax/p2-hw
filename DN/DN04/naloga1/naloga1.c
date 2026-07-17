@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
-#include <math.h>
+#include <string.h>
 #include <stdlib.h>
 
 int main() {
@@ -17,6 +17,11 @@ int main() {
     for (int i = 0; i< n; i++) {
         scanf("%d", &arr2[i]);
     }
+
+    int* arr = malloc((2*n)*sizeof(int));
+    
+    memcpy(arr, arr1, n * sizeof(int));
+    memcpy(arr + n, arr1, n * sizeof(int));
 
     int* lps;
     lps = (int*)calloc(n, sizeof(int));
@@ -55,7 +60,7 @@ int main() {
 
     printf("%d ", k);
 
-    /*
+
     printf(" \n");
 
     printf("arr1: ");
@@ -64,18 +69,25 @@ int main() {
     }
 
     printf(" \n");
-
+/*
     printf("arr2: ");
     for (int i = 0; i < n; i++) {
         printf("[%d] ", arr2[i]);
     }
- 
+
     printf(" \n");
+*/
+    printf("arr:  ");
+    for (int i = 0; i < (2*n); i++) {
+        printf("[%d] ", arr[i]);
+    }
+ 
+ /*   printf(" \n");
     
     printf("lps:  ");
     for (int i = 0; i < n; i++) {
         printf("[%d] ", lps[i]);
     }
-    */
+*/
     return -1;
 }
