@@ -3,32 +3,6 @@
 #include <string.h>
 #include <stdlib.h>
 
-
-    int pari(int* desno, int* levo, int count, int k){
-        
-        /*if (n == 1) return count;
-        if (arr[0] > arr[n-1]) return count;
-
-        if ((arr[0] + arr[n-1]) == k) {
-            //printf(" (%d, %d) ", arr[0], arr[n-1]);
-            return pari(n - 1, arr, count + 1, k);
-        } 
-        
-        else if ((arr[0] + arr[n-1]) > k){
-            return pari(n-1, arr, count, k);
-        } 
-        
-        else if ((arr[0] + arr[n-1]) < k) {
-            return pari(n, arr + 1, count, k);
-        }
-*/
-
-        
-
-
-        return 0;
-    }
-
 int main() {
 
     //input
@@ -44,10 +18,18 @@ int main() {
     }
     
     int count = 0;
-    int* end = arr + (n - 1);
-    int sum = pari(end, arr, count, k);
+    int levo = 0;
+    int desno = n - 1;
+
+    while (levo < desno) {
+        int sum = arr[levo] + arr[desno];
+        if (sum == k) count++;
+        else if (sum >= k) {
+            desno--;
+        } else levo++;
+    }
     
-    printf("%d\n", sum);
+    printf("%d\n", count);
 
 /*debugging
     printf(" \n");
