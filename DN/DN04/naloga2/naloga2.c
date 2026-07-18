@@ -6,11 +6,11 @@
 int main() {
 
     //input
-    long n;
-    scanf("%ld", &n);
+    long long n;
+    scanf("%lld", &n);
 
-    long k;
-    scanf("%ld", &k);
+    long long k;
+    scanf("%lld", &k);
 
     int* arr = malloc(n*sizeof(int));
     for (int i = 0; i< n; i++) {
@@ -24,24 +24,24 @@ int main() {
     printf(" \n");
     */
 
-    long count = 0;
-    long levo = 0;
-    long desno = n - 1;
+    long long count = 0;
+    long long levo = 0;
+    long long desno = n - 1;
 
     while (levo < desno) {
-        long sum = arr[levo] + arr[desno];
+        long long sum = arr[levo] + arr[desno];
         
         if (sum == k) {
             //printf("(%d, %d) ", arr[levo], arr[desno]);
 
             if(arr[levo] != arr[desno]){
-                int levoEnaki = 1;
+                long levoEnaki = 1;
                 while (levo + 1 < desno && arr[levo+1] == arr[levo]) {
                     levoEnaki++;
                     levo++;
                 }
 
-                int desnoEnaki = 1;
+                long desnoEnaki = 1;
                 while (levo < desno - 1 && arr[desno-1] == arr[desno]) {
                     desnoEnaki++;
                     desno--;
@@ -52,7 +52,7 @@ int main() {
                 desno--;
 
             } else {
-                long m = desno - levo + 1;
+                long long m = desno - levo + 1;
                 count = count + (m * (m - 1)) / 2;
                 break;
             }
@@ -62,7 +62,7 @@ int main() {
         } else levo++;
     }
     //printf(" \n");
-    printf("%ld\n", count);
+    printf("%lld\n", count);
 
     return -1;
 }
