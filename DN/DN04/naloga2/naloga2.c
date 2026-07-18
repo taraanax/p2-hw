@@ -35,13 +35,13 @@ int main() {
             //printf("(%d, %d) ", arr[levo], arr[desno]);
 
             if(arr[levo] != arr[desno]){
-                int levoEnaki = 0;
+                int levoEnaki = 1;
                 while (levo + 1 < desno && arr[levo+1] == arr[levo]) {
                     levoEnaki++;
                     levo++;
                 }
 
-                int desnoEnaki = 0;
+                int desnoEnaki = 1;
                 while (levo < desno - 1 && arr[desno-1] == arr[desno]) {
                     desnoEnaki++;
                     desno--;
@@ -52,7 +52,8 @@ int main() {
                 desno--;
 
             } else {
-                count = (n * (n - 1)) / 2;
+                int m = desno - levo + 1;
+                count = (m * (m - 1)) / 2;
                 break;
             }
             
