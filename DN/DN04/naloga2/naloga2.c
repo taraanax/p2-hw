@@ -53,11 +53,11 @@ int main() {
 
             } else {
                 int m = desno - levo + 1;
-                count = (m * (m - 1)) / 2;
+                count = count + (m * (m - 1)) / 2;
                 break;
             }
             
-        } else if (sum >= k) {
+        } else if (sum > k) {
             desno--;
         } else levo++;
     }
