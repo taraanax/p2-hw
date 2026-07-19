@@ -14,7 +14,17 @@ gcc -D=test test01.c naloga1.c
 #include "naloga1.h"
 
 int* poisci(int* t, int* dolzina, int** konec) {
-    // popravite / dopolnite ...
+    
+    //leva nicla
+    int i = 0;
+    while (t[i] != 0) i--;
+
+    //desna nicla
+    int j = 0;
+    while (t[j] != 0) j++;
+
+    dolzina[0] = i + j + 1;
+
     return NULL;
 }
 
