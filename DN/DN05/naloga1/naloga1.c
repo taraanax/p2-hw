@@ -19,19 +19,22 @@ int* poisci(int* t, int* dolzina, int** konec) {
     int i = 0;
     while (t[i] != 0) {
         i--;
-        printf("\n i: %d | t[i] : %d", i, t[i]);
+        //printf("\n i: %d | t[i] : %d", i, t[i]);
     }
 
     //desna nicla
     int j = 0;
     while (t[j] != 0) {
         j++;
-        printf("\n j: %d | t[j] : %d", j, t[j]);
+        //printf("\n j: %d | t[j] : %d", j, t[j]);
     }
     dolzina[0] = abs(i) + abs(j) - 1;
-    printf("\n");
+    konec[0] = t + abs(j) - 1;
+    int* zacetek = t - abs(i) + 1;
 
-    return NULL;
+    //printf("\n");
+
+    return zacetek;
 }
 
 #ifndef test
