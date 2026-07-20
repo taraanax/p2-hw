@@ -14,7 +14,9 @@ gcc -D=test test01.c naloga2.c
 #include "naloga2.h"
 
 void zamenjaj(int** a, int** b) {
-    // dopolnite ...
+    int* temp = a[0];
+    a[0] = b[0];
+    b[0] = temp;
 }
 
 void uredi(int** a, int** b, int** c) {
