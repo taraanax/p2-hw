@@ -1,1 +1,8 @@
-Binary files test01.res and test01.out differ
+1,5c1
+< [a]
+< [b]
+< [c]
+< [d]
+< <(null)>
+---
+> <a b c d>

@@ -11,8 +11,8 @@ char* zdruzi(char** nizi, char* locilo) {
     while(nizi[i] != NULL) {
         printf("[");
         int j = 0;
-        while(nizi[i][j] != locilo[0]) {
-            printf(" %c", nizi[i][j]);
+        while(nizi[i][j] != '\0') {
+            printf("%c", nizi[i][j]);
             j++;
         }
         printf("]\n");

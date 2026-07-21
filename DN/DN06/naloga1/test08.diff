@@ -1,1 +1,7 @@
-Binary files test08.res and test08.out differ
+1,4c1
+< [abc]
+< [ghi]
+< []
+< <(null)>
+---
+> <abcdefghidef>
