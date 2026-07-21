@@ -7,7 +7,17 @@
 #include "naloga1.h"
 
 char* zdruzi(char** nizi, char* locilo) {
-    // popravite / dopolnite ...
+    int i = 0;
+    while(nizi[i] != NULL) {
+        printf("[");
+        int j = 0;
+        while(nizi[i][j] != locilo[0]) {
+            printf(" %c", nizi[i][j]);
+            j++;
+        }
+        printf("]\n");
+        i++;
+    }
     return NULL;
 }
 
