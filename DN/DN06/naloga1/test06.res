@@ -1,7 +1,8 @@
-[C]
-[java]
-[python]
-[pascal]
-[javascript]
-[PHP]
+h [1] = h + j[1]
+h [5] = h + j[4]
+h [11] = h + j[6]
+h [17] = h + j[6]
+h [27] = h + j[10]
+h [30] = h + j[3]
+len[31] = h[30] + (i[6] - 1) * k[0] + 1
 <(null)>

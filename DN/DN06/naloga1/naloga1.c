@@ -7,6 +7,7 @@
 #include "naloga1.h"
 
 char* zdruzi(char** nizi, char* locilo) {
+    /*
     int i = 0;
     while(nizi[i] != NULL) {
         printf("[");
@@ -18,6 +19,26 @@ char* zdruzi(char** nizi, char* locilo) {
         printf("]\n");
         i++;
     }
+    */
+
+   //DOLZINA
+    int i = 0;
+    int h = 0;
+    while(nizi[i] != NULL) {
+        int j = 0;
+        while(nizi[i][j] != '\0') j++;
+        h = h + j;
+        //printf("h [%d] = h + j[%d]\n", h, j);
+        i++;
+    }
+
+    int k = 0;
+    while(locilo[k] != '\0') k++;
+
+    int len = h + (i - 1) * k + 1;
+    //printf("len[%d] = h[%d] + (i[%d] - 1) * k[%d] + 1\n", len, h, i, k);
+
+    
     return NULL;
 }
 
