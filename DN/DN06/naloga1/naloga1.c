@@ -38,7 +38,10 @@ char* zdruzi(char** nizi, char* locilo) {
     int len = h + (i - 1) * k + 1;
     //printf("len[%d] = h[%d] + (i[%d] - 1) * k[%d] + 1\n", len, h, i, k);
 
-    
+    char* nov = malloc(len * sizeof(char));
+    for (int i = 0; i < len; i++){
+        
+    }
     return NULL;
 }
 
