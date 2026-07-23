@@ -21,6 +21,13 @@ char* zdruzi(char** nizi, char* locilo) {
     }
     */
 
+    //prazna tabela
+    if (nizi[0] == NULL) {
+        char* nov = malloc(sizeof(char));
+        nov[0] = '\0';
+        return nov;
+    }
+
    //DOLZINA
     int i = 0;
     int h = 0;
@@ -39,10 +46,22 @@ char* zdruzi(char** nizi, char* locilo) {
     //printf("len[%d] = h[%d] + (i[%d] - 1) * k[%d] + 1\n", len, h, i, k);
 
     char* nov = malloc(len * sizeof(char));
-    for (int i = 0; i < len; i++){
+
+    strcpy(nov, nizi[0]);
+
+    for (int i = 1; nizi != NULL; i++){
+        strcat(nov, locilo);
+        strcat(nov, nizi[i]);
         
+    }   
+    
+    printf("[");
+    for (int i = 0; i < len; i++){
+        printf("%c ", nov[i]);
     }
-    return NULL;
+    printf("]");
+
+    return nov;
 }
 
 #ifndef test
