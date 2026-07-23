@@ -49,18 +49,20 @@ char* zdruzi(char** nizi, char* locilo) {
 
     strcpy(nov, nizi[0]);
 
-    for (int i = 1; nizi != NULL; i++){
+    for (int i = 1; nizi[i] != NULL; i++){
         strcat(nov, locilo);
         strcat(nov, nizi[i]);
         
     }   
     
+    /*
     printf("[");
     for (int i = 0; i < len; i++){
         printf("%c ", nov[i]);
     }
     printf("]");
-
+    */
+    
     return nov;
 }
 
