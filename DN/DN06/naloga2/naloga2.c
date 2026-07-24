@@ -19,12 +19,21 @@ int** ap2pp(int(*kazalec)[N], int izvornoStVrstic, int ciljnoStVrstic) {
             k++;
        } 
     }
-
     return resitev;
 }
 
 int (*pp2ap(int** kazalec, int izvornoStVrstic, int* ciljnoStVrstic))[N] {
-    // popravite / dopolnite
+    int stElementov = 0;
+
+    for (int i = 0; i < izvornoStVrstic; i++) {
+        int j = 0;
+        while (kazalec[i][j] != 0) {
+            stElementov++;
+            j++;
+        }
+    }
+    printf("max indeks elementov: %d\n", stElementov);
+
     return NULL;
 }
 
