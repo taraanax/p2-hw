@@ -36,11 +36,22 @@ int (*pp2ap(int** kazalec, int izvornoStVrstic, int* ciljnoStVrstic))[N] {
     ciljnoStVrstic[0] = stElementov / N;
     if (stElementov % N != 0) ciljnoStVrstic[0] = ciljnoStVrstic[0] + 1;
 
-    //int resitev[ciljnoStVrstic[0]][N];
+    int (*resitev)[N] = calloc(*ciljnoStVrstic, sizeof(*resitev));
     printf("ciljnoStVrstic: %d\n", ciljnoStVrstic[0]);
 
+    for (int i = 0; i < izvornoStVrstic; i++) {
+        int j = 0;
+        while (kazalec[i][j] != 0) {
+            for (int k = 0; k < ciljnoStVrstic[0]; k++) {
+                for (int h = 0; h < N - 1; h++) {
+                    resitev[k][h] = kazalec[i][j];
+                }
+            }
+            j++;
+        }
+    }
 
-    return NULL;
+    return resitev;
 }
 
 #ifndef test

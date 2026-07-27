@@ -1,0 +1,2 @@
+ciljnoStVrstic: 1
+  6  6  6  6  6  0
