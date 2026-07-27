@@ -1,1 +1,1 @@
-št. elementov: 6
+max indeks elementov: 6

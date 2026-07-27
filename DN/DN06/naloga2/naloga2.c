@@ -32,7 +32,7 @@ int (*pp2ap(int** kazalec, int izvornoStVrstic, int* ciljnoStVrstic))[N] {
             j++;
         }
     }
-    printf("max indeks elementov: %d\n", stElementov);
+    printf("stElementov: %d\n", stElementov);
 
     return NULL;
 }
