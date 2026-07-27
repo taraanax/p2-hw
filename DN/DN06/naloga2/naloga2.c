@@ -32,7 +32,13 @@ int (*pp2ap(int** kazalec, int izvornoStVrstic, int* ciljnoStVrstic))[N] {
             j++;
         }
     }
-    printf("stElementov: %d\n", stElementov);
+    //printf("stElementov: %d\n", stElementov);
+    ciljnoStVrstic[0] = stElementov / N;
+    if (stElementov % N != 0) ciljnoStVrstic[0] = ciljnoStVrstic[0] + 1;
+
+    //int resitev[ciljnoStVrstic[0]][N];
+    printf("ciljnoStVrstic: %d\n", ciljnoStVrstic[0]);
+
 
     return NULL;
 }
