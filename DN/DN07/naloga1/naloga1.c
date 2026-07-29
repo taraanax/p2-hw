@@ -3,14 +3,26 @@
 #include <string.h>
 #include <stdbool.h>
 
+typedef struct _node {
+        int value;
+        struct _node* levo;
+        struct _node* desno;
+    } node;
+
 int main () {
 
     int n = scanf("%d", &n);
 
-    int* arr = malloc(n*sizeof(int));
-    for (int i = 0; i < n; i++)  {
-        arr[i] = scanf("%d", &arr[i]);
+    node* koren = malloc(sizeof(node));
+    koren->value = 0;
+    koren->levo = scanf("%d", &koren->levo);
+    koren->desno = scanf("%d", &koren->desno);
+    
+    for (int i = 2; i < n; i++)  {
+        
     }
+
+
 
     return 0;
 }
