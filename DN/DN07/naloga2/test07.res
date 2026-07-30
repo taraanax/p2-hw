@@ -1,0 +1,5 @@
+[Danes] 
+[je] 
+[res] 
+[lep] 
+[dan!] 

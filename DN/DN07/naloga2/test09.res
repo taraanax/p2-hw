@@ -1,0 +1,6 @@
+[O,] 
+[Vrba!] 
+[srecna,] 
+[draga] 
+[vas] 
+[domaca!] 

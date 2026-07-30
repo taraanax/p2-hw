@@ -1,0 +1,6 @@
+[FRI] 
+[Vecna] 
+[pot] 
+[113] 
+[SI-1000] 
+[Ljubljana] 
