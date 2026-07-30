@@ -41,7 +41,7 @@ int main () {
 
     node* koren = vozlisca[0];
 
-    int dolzina = visina(koren);
+    int dolzina = visina(koren) - 1;
     printf("%d", dolzina);
 
 
