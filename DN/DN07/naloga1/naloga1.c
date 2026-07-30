@@ -8,6 +8,16 @@ typedef struct _node {
         struct _node* desno;
     } node;
 
+int max(int a, int b) {
+    if (a > b) return a;
+    else return b;
+}
+
+int visina (node* koren) {
+    if (koren == NULL) return 0;
+    return 1 + max(visina(koren->levo), visina(koren->desno));
+}
+
 int main () {
 
     int n; 
@@ -31,7 +41,8 @@ int main () {
 
     node* koren = vozlisca[0];
 
-    
+    int dolzina = visina(koren);
+    printf("%d", dolzina);
 
 
 
