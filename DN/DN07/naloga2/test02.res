@@ -1,1 +1,1 @@
-[programiranje] 
+programiranje

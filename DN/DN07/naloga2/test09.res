@@ -1,6 +1,1 @@
-[O,] 
-[Vrba!] 
-[srecna,] 
-[draga] 
-[vas] 
-[domaca!] 
+OVsdvd,rrrao

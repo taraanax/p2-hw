@@ -23,6 +23,7 @@ int main () {
         nizi[i][j] = '\0';
     }
 
+    /*
     for(int i = 0; i < n; i++) {
         j = 0;
         printf("[");
@@ -32,7 +33,15 @@ int main () {
         }
         printf("] \n");
     }
-    
+    */
+
+    int i = 0; j = 0;
+    while(nizi[i][j] != '\0') {
+        for (int i = 0; i < n; i++) {
+            printf("%c", nizi[i][j]);
+        }
+        j++;
+    }
 
     return 0;
 }
