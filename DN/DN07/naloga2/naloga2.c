@@ -3,6 +3,19 @@
 #include <string.h>
 #include <stdbool.h>
 
+void kartezicniProd(char** nizi, int n, int row, char* trenutni) {
+    if (row == n) {
+        trenutni[n] = '\0';
+        printf("%s\n", trenutni);
+        return;
+    } else {
+        for (int i = 0; nizi[row][i] != '\0'; i++) {
+            trenutni[row] = nizi[row][i];
+            kartezicniProd(nizi, n, row + 1, trenutni);
+        }
+    }
+}
+
 int main () {
 
     int n; 
@@ -35,13 +48,8 @@ int main () {
     }
     */
 
-    int i = 0; j = 0;
-    while(nizi[i][j] != '\0') {
-        for (int i = 0; i < n; i++) {
-            printf("%c", nizi[i][j]);
-        }
-        j++;
-    }
+    char *trenutni = malloc(n + 1);
+    kartezicniProd(nizi, n, 0, trenutni);
 
     return 0;
 }
