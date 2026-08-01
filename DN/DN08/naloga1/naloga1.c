@@ -33,7 +33,6 @@ int resitev(int n, int k, int r, int* zap) {
                 swap(zap, n, r, i, j);
                 count += resitev(n, k-1, r, zap);
                 swap(zap, n, r, i, j);
-                count += resitev(n, k, r, zap);
             }
         }
         return count;
@@ -54,10 +53,7 @@ int main () {
         printf("%d ", zap[i]);
     }
 */
-    for (int j = 0 + r; j < n - r + 1; j++) {
-        swap(zap, n, r, 0, j);
-    }
-    //printf("%d", resitev(n, k, r, zap, 0));
+    printf("%d", resitev(n, k, r, zap));
 
 
     return 0;
