@@ -25,8 +25,10 @@ void swap(int* zap, int n, int r, int index, int j){
 
 int resitev(int n, int k, int r, int* zap) {
     int count = 0;
-    if (isSorted(zap, n)) return 1;
-    if (k == 0) return 0;
+    if (isSorted(zap, n)) {
+        count += 1;
+    }
+    if (k == 0) return count;
     else {
         for (int i = 0; i < n - r + 1; i++) {
             for (int j = i + r; j < n - r + 1; j++) {
