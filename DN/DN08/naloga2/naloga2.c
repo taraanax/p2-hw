@@ -29,10 +29,6 @@ void back(int* poteze, int poteza) {
 }
 
 void resitev(int n, int k, bool beli, int* poteze) {
-    /*if (n == 0 && beli == true) {
-        printf("CRNI");
-        return;
-    }
     if (n == 0 && beli == false) {
         printf("%d", poteze[0]);
         int i = 1;
@@ -43,22 +39,7 @@ void resitev(int n, int k, bool beli, int* poteze) {
         printf("\n");
         return;
     }
-    */
-    if (n == 0) {
-        if (beli == false) {
-            printf("%d", poteze[0]);
-            int i = 1;
-            while (poteze[i+1] != 0) {
-                printf(" -> [%d] -> %d", poteze[i], poteze[i+1]);
-                i = i + 2;
-            }
-            printf("\n");
-            return;
-        } else {
-            printf("CRNI");
-            return;
-        }
-    }
+
     if (beli == true) {
         for (int i = 1; i < k + 1 && i < n + 1; i++) {
             if (!zmaga(n - i, k)) {
@@ -70,11 +51,9 @@ void resitev(int n, int k, bool beli, int* poteze) {
     }
     if (beli == false) {
         for (int i = 1; i < k + 1 && i < n + 1; i++) {
-            if (zmaga(n - i, k)) {
                 append(poteze, i);
                 resitev(n - i, k, !beli, poteze);
                 back(poteze, i);
-            }
         }
     }
 }
@@ -83,9 +62,12 @@ int main () {
     int n, k;
     scanf("%d %d", &n, &k);
 
-    int* poteze = calloc(n, sizeof(int));
-
-    resitev(n,k,true,poteze);
+    int* poteze = calloc(n + 1, sizeof(int));
+    if (!zmaga(n, k)) {
+        printf("CRNI\n");
+    } else {
+        resitev(n, k, true, poteze);
+    }
 
     free(poteze);
 
