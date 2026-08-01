@@ -11,17 +11,26 @@ bool isSorted(int* zap, int n) {
     return true;
 }
 
-int* swap(int* zap, int n, int r, int index){
-    
+void swap(int* zap, int n, int r, int index){
+    int* temp = malloc(r * sizeof(int));
+    for (int i = 0; i < r; i++) {
+        temp[i] = zap[index + i];
+        zap[index + i] = zap[index + r + i];
+        zap[index + r + i] = temp[i];
+    }
+    for (int i = 0; i < n; i++) {
+        printf("%d ", zap[i]);
+    }
 }
 
 int resitev(int n, int k, int r, int* zap, int index) {
     if (isSorted(zap, n) && k >= 0) return 1;
     if (isSorted(zap, n) && k < 0) return 0;
     else {
-
+        swap(zap, n, r, index);
+        k = k - 1;
+        return 1 + resitev(n, k, r, zap, index + 1);
     }
-    return 0;
 }
 
 int main () {
@@ -33,12 +42,13 @@ int main () {
     for (int i = 0; i < n; i++) {
         scanf("%d", &zap[i]);
     }
-
+/*
     for (int i = 0; i < n; i++) {
         printf("%d ", zap[i]);
     }
-
-    resitev(n, k, r, zap, 0);
+*/
+    swap(zap, n, r, 0);
+    //printf("%d", resitev(n, k, r, zap, 0));
 
 
     return 0;
