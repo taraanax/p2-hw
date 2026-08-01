@@ -29,7 +29,7 @@ void back(int* poteze, int poteza) {
 }
 
 void resitev(int n, int k, bool beli, int* poteze) {
-    if (n == 0 && beli == true) {
+    /*if (n == 0 && beli == true) {
         printf("CRNI");
         return;
     }
@@ -42,6 +42,22 @@ void resitev(int n, int k, bool beli, int* poteze) {
         }
         printf("\n");
         return;
+    }
+    */
+    if (n == 0) {
+        if (beli == false) {
+            printf("%d", poteze[0]);
+            int i = 1;
+            while (poteze[i+1] != 0) {
+                printf(" -> [%d] -> %d", poteze[i], poteze[i+1]);
+                i = i + 2;
+            }
+            printf("\n");
+            return;
+        } else {
+            printf("CRNI");
+            return;
+        }
     }
     if (beli == true) {
         for (int i = 1; i < k + 1 && i < n + 1; i++) {
