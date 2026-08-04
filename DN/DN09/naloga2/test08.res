@@ -1,357 +1,147 @@
-jazbec, ki jazbec, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnonetopirjakrtapujsakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  srnonetopirjakrtapujsakuro.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  medvedanetopirjakrtapujsakuro.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnokrtapujsakuro.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnonetopirjapujsakuro.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnonetopirjakrtakuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnonetopirjakrtapujsa.
-.
- vidi gleda opazuje hrani nagovarja razume opozarja  medveda, ki medved, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  srnonetopirjakrtapujsakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  netopirjakrtapujsakuro.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  srnokrtapujsakuro.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  srnonetopirjapujsakuro.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  srnonetopirjakrtakuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  srnonetopirjakrtapujsa.
-.
-srno, ki srna, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  medvedanetopirjakrtapujsakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  netopirjakrtapujsakuro.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  medvedakrtapujsakuro.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  medvedanetopirjapujsakuro.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  medvedanetopirjakrtakuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  medvedanetopirjakrtapujsa.
-.
-netopirja, ki netopir, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnokrtapujsakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  srnokrtapujsakuro.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  medvedakrtapujsakuro.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnopujsakuro.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnokrtakuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnokrtapujsa.
-.
-krta, ki krt, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnonetopirjapujsakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  srnonetopirjapujsakuro.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  medvedanetopirjapujsakuro.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnopujsakuro.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnonetopirjakuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnonetopirjapujsa.
-.
-pujsa, ki pujs, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnonetopirjakrtakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  srnonetopirjakrtakuro.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  medvedanetopirjakrtakuro.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnokrtakuro.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnonetopirjakuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnonetopirjakrta.
-.
-kuro, ki kura, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnonetopirjakrtapujsa.
- vidi gleda opazuje hrani nagovarja razume opozarja  medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  srnonetopirjakrtapujsa.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  medvedanetopirjakrtapujsa.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnokrtapujsa.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnonetopirjapujsa.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnonetopirjakrta.
-.
-.
-medved, ki medved, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnonetopirjakrtapujsakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  srnonetopirjakrtapujsakuro.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  jazbecanetopirjakrtapujsakuro.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnokrtapujsakuro.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnonetopirjapujsakuro.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnonetopirjakrtakuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnonetopirjakrtapujsa.
-.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  srnonetopirjakrtapujsakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  netopirjakrtapujsakuro.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  srnokrtapujsakuro.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  srnonetopirjapujsakuro.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  srnonetopirjakrtakuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  srnonetopirjakrtapujsa.
-.
-srno, ki srna, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  jazbecanetopirjakrtapujsakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  netopirjakrtapujsakuro.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  jazbecakrtapujsakuro.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  jazbecanetopirjapujsakuro.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  jazbecanetopirjakrtakuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  jazbecanetopirjakrtapujsa.
-.
-netopirja, ki netopir, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnokrtapujsakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  srnokrtapujsakuro.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  jazbecakrtapujsakuro.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnopujsakuro.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnokrtakuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnokrtapujsa.
-.
-krta, ki krt, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnonetopirjapujsakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  srnonetopirjapujsakuro.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  jazbecanetopirjapujsakuro.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnopujsakuro.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnonetopirjakuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnonetopirjapujsa.
-.
-pujsa, ki pujs, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnonetopirjakrtakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  srnonetopirjakrtakuro.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  jazbecanetopirjakrtakuro.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnokrtakuro.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnonetopirjakuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnonetopirjakrta.
-.
-kuro, ki kura, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnonetopirjakrtapujsa.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  srnonetopirjakrtapujsa.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  jazbecanetopirjakrtapujsa.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnokrtapujsa.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnonetopirjapujsa.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnonetopirjakrta.
-.
-.
-srna, ki srna, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedanetopirjakrtapujsakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  medvedanetopirjakrtapujsakuro.
-medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  jazbecanetopirjakrtapujsakuro.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedakrtapujsakuro.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedanetopirjapujsakuro.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedanetopirjakrtakuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedanetopirjakrtapujsa.
-.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  medvedanetopirjakrtapujsakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  netopirjakrtapujsakuro.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  medvedakrtapujsakuro.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  medvedanetopirjapujsakuro.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  medvedanetopirjakrtakuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  medvedanetopirjakrtapujsa.
-.
-medveda, ki medved, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  jazbecanetopirjakrtapujsakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  netopirjakrtapujsakuro.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  jazbecakrtapujsakuro.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  jazbecanetopirjapujsakuro.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  jazbecanetopirjakrtakuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  jazbecanetopirjakrtapujsa.
-.
-netopirja, ki netopir, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedakrtapujsakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  medvedakrtapujsakuro.
-medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  jazbecakrtapujsakuro.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedapujsakuro.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedakrtakuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedakrtapujsa.
-.
-krta, ki krt, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedanetopirjapujsakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  medvedanetopirjapujsakuro.
-medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  jazbecanetopirjapujsakuro.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedapujsakuro.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedanetopirjakuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedanetopirjapujsa.
-.
-pujsa, ki pujs, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedanetopirjakrtakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  medvedanetopirjakrtakuro.
-medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  jazbecanetopirjakrtakuro.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedakrtakuro.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedanetopirjakuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedanetopirjakrta.
-.
-kuro, ki kura, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedanetopirjakrtapujsa.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  medvedanetopirjakrtapujsa.
-medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  jazbecanetopirjakrtapujsa.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedakrtapujsa.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedanetopirjapujsa.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedanetopirjakrta.
-.
-.
-netopir, ki netopir, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnokrtapujsakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnokrtapujsakuro.
-medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnokrtapujsakuro.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedakrtapujsakuro.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnopujsakuro.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnokrtakuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnokrtapujsa.
-.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnokrtapujsakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  srnokrtapujsakuro.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  medvedakrtapujsakuro.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnopujsakuro.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnokrtakuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnokrtapujsa.
-.
-medveda, ki medved, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnokrtapujsakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  srnokrtapujsakuro.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  jazbecakrtapujsakuro.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnopujsakuro.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnokrtakuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnokrtapujsa.
-.
-srno, ki srna, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedakrtapujsakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  medvedakrtapujsakuro.
-medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  jazbecakrtapujsakuro.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedapujsakuro.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedakrtakuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedakrtapujsa.
-.
-krta, ki krt, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnopujsakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnopujsakuro.
-medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnopujsakuro.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedapujsakuro.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnokuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnopujsa.
-.
-pujsa, ki pujs, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnokrtakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnokrtakuro.
-medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnokrtakuro.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedakrtakuro.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnokuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnokrta.
-.
-kuro, ki kura, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnokrtapujsa.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnokrtapujsa.
-medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnokrtapujsa.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedakrtapujsa.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnopujsa.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnokrta.
-.
-.
-krt, ki krt, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnonetopirjapujsakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnonetopirjapujsakuro.
-medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnonetopirjapujsakuro.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedanetopirjapujsakuro.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnopujsakuro.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnonetopirjakuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnonetopirjapujsa.
-.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnonetopirjapujsakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  srnonetopirjapujsakuro.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  medvedanetopirjapujsakuro.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnopujsakuro.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnonetopirjakuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnonetopirjapujsa.
-.
-medveda, ki medved, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnonetopirjapujsakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  srnonetopirjapujsakuro.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  jazbecanetopirjapujsakuro.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnopujsakuro.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnonetopirjakuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnonetopirjapujsa.
-.
-srno, ki srna, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedanetopirjapujsakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  medvedanetopirjapujsakuro.
-medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  jazbecanetopirjapujsakuro.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedapujsakuro.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedanetopirjakuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedanetopirjapujsa.
-.
-netopirja, ki netopir, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnopujsakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnopujsakuro.
-medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnopujsakuro.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedapujsakuro.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnokuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnopujsa.
-.
-pujsa, ki pujs, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnonetopirjakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnonetopirjakuro.
-medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnonetopirjakuro.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedanetopirjakuro.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnokuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnonetopirja.
-.
-kuro, ki kura, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnonetopirjapujsa.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnonetopirjapujsa.
-medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnonetopirjapujsa.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedanetopirjapujsa.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnopujsa.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnonetopirja.
-.
-.
-pujs, ki pujs, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnonetopirjakrtakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnonetopirjakrtakuro.
-medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnonetopirjakrtakuro.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedanetopirjakrtakuro.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnokrtakuro.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnonetopirjakuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnonetopirjakrta.
-.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnonetopirjakrtakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  srnonetopirjakrtakuro.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  medvedanetopirjakrtakuro.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnokrtakuro.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnonetopirjakuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnonetopirjakrta.
-.
-medveda, ki medved, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnonetopirjakrtakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  srnonetopirjakrtakuro.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  jazbecanetopirjakrtakuro.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnokrtakuro.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnonetopirjakuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnonetopirjakrta.
-.
-srno, ki srna, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedanetopirjakrtakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  medvedanetopirjakrtakuro.
-medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  jazbecanetopirjakrtakuro.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedakrtakuro.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedanetopirjakuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedanetopirjakrta.
-.
-netopirja, ki netopir, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnokrtakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnokrtakuro.
-medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnokrtakuro.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedakrtakuro.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnokuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnokrta.
-.
-krta, ki krt, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnonetopirjakuro.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnonetopirjakuro.
-medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnonetopirjakuro.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedanetopirjakuro.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnokuro.
-kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnonetopirja.
-.
-kuro, ki kura, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnonetopirjakrta.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnonetopirjakrta.
-medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnonetopirjakrta.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedanetopirjakrta.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnokrta.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnonetopirja.
-.
-.
-kura, ki kura, ki kura vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnonetopirjakrtapujsa.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnonetopirjakrtapujsa.
-medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnonetopirjakrtapujsa.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedanetopirjakrtapujsa.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnokrtapujsa.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnonetopirjapujsa.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnonetopirjakrta.
-.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnonetopirjakrtapujsa.
- vidi gleda opazuje hrani nagovarja razume opozarja  medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  srnonetopirjakrtapujsa.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  medvedanetopirjakrtapujsa.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnokrtapujsa.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnonetopirjapujsa.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnonetopirjakrta.
-.
-medveda, ki medved, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnonetopirjakrtapujsa.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  srnonetopirjakrtapujsa.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  jazbecanetopirjakrtapujsa.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnokrtapujsa.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnonetopirjapujsa.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnonetopirjakrta.
-.
-srno, ki srna, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedanetopirjakrtapujsa.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  medvedanetopirjakrtapujsa.
-medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  jazbecanetopirjakrtapujsa.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedakrtapujsa.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedanetopirjapujsa.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedanetopirjakrta.
-.
-netopirja, ki netopir, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnokrtapujsa.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnokrtapujsa.
-medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnokrtapujsa.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedakrtapujsa.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnopujsa.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnokrta.
-.
-krta, ki krt, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnonetopirjapujsa.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnonetopirjapujsa.
-medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnonetopirjapujsa.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedanetopirjapujsa.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnopujsa.
-pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnonetopirja.
-.
-pujsa, ki pujs, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnonetopirjakrta.
- vidi gleda opazuje hrani nagovarja razume opozarja  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja  medvedasrnonetopirjakrta.
-medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja  jazbecasrnonetopirjakrta.
-srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedanetopirjakrta.
-netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnokrta.
-krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja  jazbecamedvedasrnonetopirja.
-.
-.
+Jazbec vidi medveda.
+Jazbec vidi srno.
+Jazbec vidi netopirja.
+Jazbec vidi krta.
+Jazbec vidi pujsa.
+Jazbec vidi kuro.
+Jazbec gleda medveda.
+Jazbec gleda srno.
+Jazbec gleda netopirja.
+Jazbec gleda krta.
+Jazbec gleda pujsa.
+Jazbec gleda kuro.
+Jazbec opazuje medveda.
+Jazbec opazuje srno.
+Jazbec opazuje netopirja.
+Jazbec opazuje krta.
+Jazbec opazuje pujsa.
+Jazbec opazuje kuro.
+Jazbec hrani medveda.
+Jazbec hrani srno.
+Jazbec hrani netopirja.
+Jazbec hrani krta.
+Jazbec hrani pujsa.
+Jazbec hrani kuro.
+Jazbec nagovarja medveda.
+Jazbec nagovarja srno.
+Jazbec nagovarja netopirja.
+Jazbec nagovarja krta.
+Jazbec nagovarja pujsa.
+Jazbec nagovarja kuro.
+Jazbec razume medveda.
+Jazbec razume srno.
+Jazbec razume netopirja.
+Jazbec razume krta.
+Jazbec razume pujsa.
+Jazbec razume kuro.
+Jazbec opozarja medveda.
+Jazbec opozarja srno.
+Jazbec opozarja netopirja.
+Jazbec opozarja krta.
+Jazbec opozarja pujsa.
+Jazbec opozarja kuro.
+Medved vidi srno.
+Medved vidi netopirja.
+Medved vidi krta.
+Medved vidi pujsa.
+Medved vidi kuro.
+Medved gleda srno.
+Medved gleda netopirja.
+Medved gleda krta.
+Medved gleda pujsa.
+Medved gleda kuro.
+Medved opazuje srno.
+Medved opazuje netopirja.
+Medved opazuje krta.
+Medved opazuje pujsa.
+Medved opazuje kuro.
+Medved hrani srno.
+Medved hrani netopirja.
+Medved hrani krta.
+Medved hrani pujsa.
+Medved hrani kuro.
+Medved nagovarja srno.
+Medved nagovarja netopirja.
+Medved nagovarja krta.
+Medved nagovarja pujsa.
+Medved nagovarja kuro.
+Medved razume srno.
+Medved razume netopirja.
+Medved razume krta.
+Medved razume pujsa.
+Medved razume kuro.
+Medved opozarja srno.
+Medved opozarja netopirja.
+Medved opozarja krta.
+Medved opozarja pujsa.
+Medved opozarja kuro.
+Srna vidi netopirja.
+Srna vidi krta.
+Srna vidi pujsa.
+Srna vidi kuro.
+Srna gleda netopirja.
+Srna gleda krta.
+Srna gleda pujsa.
+Srna gleda kuro.
+Srna opazuje netopirja.
+Srna opazuje krta.
+Srna opazuje pujsa.
+Srna opazuje kuro.
+Srna hrani netopirja.
+Srna hrani krta.
+Srna hrani pujsa.
+Srna hrani kuro.
+Srna nagovarja netopirja.
+Srna nagovarja krta.
+Srna nagovarja pujsa.
+Srna nagovarja kuro.
+Srna razume netopirja.
+Srna razume krta.
+Srna razume pujsa.
+Srna razume kuro.
+Srna opozarja netopirja.
+Srna opozarja krta.
+Srna opozarja pujsa.
+Srna opozarja kuro.
+Netopir vidi krta.
+Netopir vidi pujsa.
+Netopir vidi kuro.
+Netopir gleda krta.
+Netopir gleda pujsa.
+Netopir gleda kuro.
+Netopir opazuje krta.
+Netopir opazuje pujsa.
+Netopir opazuje kuro.
+Netopir hrani krta.
+Netopir hrani pujsa.
+Netopir hrani kuro.
+Netopir nagovarja krta.
+Netopir nagovarja pujsa.
+Netopir nagovarja kuro.
+Netopir razume krta.
+Netopir razume pujsa.
+Netopir razume kuro.
+Netopir opozarja krta.
+Netopir opozarja pujsa.
+Netopir opozarja kuro.
+Krt vidi pujsa.
+Krt vidi kuro.
+Krt gleda pujsa.
+Krt gleda kuro.
+Krt opazuje pujsa.
+Krt opazuje kuro.
+Krt hrani pujsa.
+Krt hrani kuro.
+Krt nagovarja pujsa.
+Krt nagovarja kuro.
+Krt razume pujsa.
+Krt razume kuro.
+Krt opozarja pujsa.
+Krt opozarja kuro.
+Pujs vidi kuro.
+Pujs gleda kuro.
+Pujs opazuje kuro.
+Pujs hrani kuro.
+Pujs nagovarja kuro.
+Pujs razume kuro.
+Pujs opozarja kuro.

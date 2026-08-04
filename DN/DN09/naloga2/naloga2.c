@@ -3,64 +3,25 @@
 #include <stdlib.h>
 #include <string.h>
 
-void izpisiSam(bool osebek, int index, int m, int s, int g, char** im,
-                char** toz, char** povedek, bool* usedS, bool* usedP);
-
-void izpisiStavek(int index, int m, int s, int g, char** im, char** toz,
-                    char** povedek, bool* usedS, bool* usedP) {
-    //osebek
-    izpisiSam(true, index, m, s, g, im, toz, povedek, usedS, usedP);
-    
-    printf(" ");
-
-    //glagol
-    for (int j = 0; j < g; j++) {
-            if (usedP[j] == false){
-                usedP[j] = true;
-                printf("%s ", povedek[j]);
-                usedP[j] = false;
-            }
-        }
-
-    printf(" ");
-
-    //predmet
-    for (int i = 0; i < s; i++) {
-        if (!usedS[i]) {
-            usedS[i] = true;
-            izpisiSam(false, i, m, s, g, im, toz, povedek, usedS, usedP);
-            usedS[i] = false;
-        }
+void izpis (int s, char* im, char** toz, int g, char* povedek, int start) {
+    im[0] = im[0] - 32;
+    for (int i = start + 1; i < s; i++) {
+        
+        printf("%s %s %s.\n", im, povedek, toz[i]);
     }
-
-    printf(".\n");
-
+    im[0] = im[0] + 32;
     return;
 }
 
-void izpisiSam(bool osebek, int index, int m, int s, int g, char** im,
-                char** toz, char** povedek, bool* usedS, bool* usedP) {
-
-    if (osebek)
-        printf("%s", im[index]);
-    else
-        printf("%s", toz[index]);
-
-    if (m == 0 || s == 2) return;
-
-    printf(", ki ");
-    izpisiStavek(index, m - 1, s, g, im, toz, povedek, usedS, usedP);
-
-}
-
-
-void resitev(int s, char** im, char** toz, int g, char** povedek,
-             int m, bool* usedS, bool* usedP) {
-    
-    for (int i = 0; i < s; i++) {
-        usedS[i] = true;
-        izpisiStavek(i, m, s, g, im, toz, povedek, usedS, usedP);
-        usedS[i] = false;
+void resitev(int s, char** im, char** toz, int g, char** povedek, int m, bool* usedS, bool* usedP, int start) {
+    if (start == s) return;
+    if (usedS[start] == true) {
+        for (int i = 0; i < g; i++) {
+            izpis (s, im[start], toz, g, povedek[i], start);
+            usedP[i] = false;
+        }
+        usedS[start] = false;
+        resitev(s, im, toz, g, povedek, m, usedS, usedP, start + 1);
     }
     return;
 }
@@ -95,15 +56,15 @@ int main() {
 
     bool usedS[s];
     for (int i = 0; i < s; i++) {
-        usedS[i] = false;
+        usedS[i] = true;
     }
 
     bool usedP[g];
     for (int i = 0; i < g; i++) {
-        usedP[i] = false;
+        usedP[i] = true;
     }
 
-    resitev(s, im, toz, g, povedek, m, usedS, usedP);
+    resitev(s, im, toz, g, povedek, m, usedS, usedP, 0);
 
     return 0;
 }
