@@ -3,7 +3,27 @@
 #include <stdlib.h>
 #include <string.h>
 
+void izpis (int s, char* im, char** toz, int g, char* povedek, int start) {
 
+    for (int i = start + 1; i < s; i++) {
+        im[0] = im[0] - 32;
+        printf("%s %s %s.", im, povedek, toz[i]);
+    }
+    return;
+}
+
+void resitev(int s, char** im, char** toz, int g, char** povedek, int m, bool* usedS, bool* usedP, int start) {
+    if (start == s) return;
+    if (usedS[start] == true) {
+        for (int i = 0; i < g; i++) {
+            izpis (s, im[start], toz, g, povedek[i], start);
+            usedP[i] = false;
+        }
+        usedS[start] = false;
+        resitev(s, im, toz, g, povedek, m, usedS, usedP, start + 1);
+    }
+    return;
+}
 
 int main() {
 
@@ -34,7 +54,16 @@ int main() {
     scanf("%d", &m);
 
     bool usedS[s];
+    for (int i = 0; i < s; i++) {
+        usedS[i] = true;
+    }
+
     bool usedP[g];
+    for (int i = 0; i < g; i++) {
+        usedP[i] = true;
+    }
+
+    resitev(s, im, toz, g, povedek, m, usedS, usedP, 0);
 
     return 0;
 }
