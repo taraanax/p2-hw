@@ -42,36 +42,37 @@ bool jeVsota(int* podmn, int* M, int n, int k) {
     else return false;
 }
 
-void izpis (int* podmn, int n) {
-    printf("{");
-    int i = 0;
-    if (podmn[1] == 0) {
-        printf("%d}", podmn[0]);
-        return;
+void izpis (int** podmn, int n, int k) {
+    for (int i = 0; i < k; i++) {
+        printf("{");
+
+        int len = 0;
+        while (podmn[i][len] != 0) len++;
+        for (int j = 0; j < len - 2; j++) {
+            printf("%d, ", podmn[i][j]);
+        }
+
+        printf("%d}}\n", podmn[i][len-1]);
     }
-    while (podmn[i] != 0) {
-        printf("%d, ", podmn[i]);
-        i++;
-    }
-    printf("}");
-    return;
 }
 
-void razbitje(int n, int k, int* M, int** podmn, int index, bool* used, int start) {
-    if (k == 0) return;
-    if (index >= n) return;
+void razbitje(int n, int k, int K, int* M, int** podmn, int index, bool* used, int start) {
+    if (k == 0) {
+        izpis(podmn, n, K);
+        return;
+    }
+    if (index >= K) return;
 
     for (int i = start; i < n; i++) {
         if (used[i] == false) continue;
 
         append(podmn[index], M[i], used, i);
-        if (jeVsota(podmn[index], M, n, k)) {
-            izpis(podmn[index], n);
-            razbitje (n, k-1, M, podmn, index+1, used, i + 1);
+        if (jeVsota(podmn[index], M, n, K)) {
+            razbitje (n, k-1, K, M, podmn, index+1, used, 0);
         } else {
-            razbitje(n, k, M, podmn, index, used, i+1);
+            razbitje(n, k, K, M, podmn, index, used, i+1);
         }
-        
+
         back(podmn[index], used, i);
     }
 
@@ -96,7 +97,7 @@ int main () {
     for (int i = 0; i < n; i++) {
         used[i] = true;
     } 
-    razbitje(n, k, M, podmn, 0, used, 0);
+    razbitje(n, k, k, M, podmn, 0, used, 0);
 
     free(M);
     free(podmn);
