@@ -1,1 +1,30 @@
-Medved vidi srno.-edved vidi tigra.edved vidi kozo.Ìedved gleda srno.Õedved gleda tigra.≠edved gleda kozo.çedved motri srno.medved motri tigra.Medved motri kozo.-edved hrani srno.edved hrani tigra.Ìedved hrani kozo.Õedved neguje srno.≠edved neguje tigra.çedved neguje kozo.Srna vidi tigra.3rna vidi kozo.rna gleda tigra.Ûrna gleda kozo.”rna motri tigra.≥rna motri kozo.ìrna hrani tigra.srna hrani kozo.Srna neguje tigra.3rna neguje kozo.Tiger vidi kozo.4iger gleda kozo.iger motri kozo.Ùiger hrani kozo.‘iger neguje kozo.
+Medved vidi srno.
+Medved vidi tigra.
+Medved vidi kozo.
+Medved gleda srno.
+Medved gleda tigra.
+Medved gleda kozo.
+Medved motri srno.
+Medved motri tigra.
+Medved motri kozo.
+Medved hrani srno.
+Medved hrani tigra.
+Medved hrani kozo.
+Medved neguje srno.
+Medved neguje tigra.
+Medved neguje kozo.
+Srna vidi tigra.
+Srna vidi kozo.
+Srna gleda tigra.
+Srna gleda kozo.
+Srna motri tigra.
+Srna motri kozo.
+Srna hrani tigra.
+Srna hrani kozo.
+Srna neguje tigra.
+Srna neguje kozo.
+Tiger vidi kozo.
+Tiger gleda kozo.
+Tiger motri kozo.
+Tiger hrani kozo.
+Tiger neguje kozo.

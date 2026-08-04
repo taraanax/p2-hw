@@ -1,7 +1,4 @@
-1c1,3465
-< Slon gleda leva.3lon gleda psa.lon gleda muco.ólon gleda tigra.Ólon gleda ribo.³lon lovi leva.“lon lovi psa.slon lovi muco.Slon lovi tigra.3lon lovi ribo.lon hrani leva.ólon hrani psa.Ólon hrani muco.³lon hrani tigra.“lon hrani ribo.slon vidi leva.Slon vidi psa.3lon vidi muco.lon vidi tigra.ólon vidi ribo.Ólon nadzira leva.³lon nadzira psa.“lon nadzira muco.slon nadzira tigra.Slon nadzira ribo.3lon prebuja leva.lon prebuja psa.ólon prebuja muco.Ólon prebuja tigra.³lon prebuja ribo.“lon pozdravlja leva.slon pozdravlja psa.Slon pozdravlja muco.3lon pozdravlja tigra.lon pozdravlja ribo.Lev gleda psa.,ev gleda muco.ev gleda tigra.ìev gleda ribo.Ìev lovi psa.¬ev lovi muco.Œev lovi tigra.lev lovi ribo.Lev hrani psa.,ev hrani muco.ev hrani tigra.ìev hrani ribo.Ìev vidi psa.¬ev vidi muco.Œev vidi tigra.lev vidi ribo.Lev nadzira psa.,ev nadzira muco.ev nadzira tigra.ìev nadzira ribo.Ìev prebuja psa.¬ev prebuja muco.Œev prebuja tigra.lev prebuja ribo.Lev pozdravlja psa.,ev pozdravlja muco.ev pozdravlja tigra.ìev pozdravlja ribo.Pes gleda muco.0es gleda tigra.es gleda ribo.ðes lovi muco.Ðes lovi tigra.°es lovi ribo.es hrani muco.pes hrani tigra.Pes hrani ribo.0es vidi muco.es vidi tigra.ðes vidi ribo.Ðes nadzira muco.°es nadzira tigra.es nadzira ribo.pes prebuja muco.Pes prebuja tigra.0es prebuja ribo.es pozdravlja muco.ðes pozdravlja tigra.Ðes pozdravlja ribo.Muca gleda tigra.-uca gleda ribo.uca lovi tigra.íuca lovi ribo.Íuca hrani tigra.­uca hrani ribo.uca vidi tigra.muca vidi ribo.Muca nadzira tigra.-uca nadzira ribo.uca prebuja tigra.íuca prebuja ribo.Íuca pozdravlja tigra.­uca pozdravlja ribo.Tiger gleda ribo.4iger lovi ribo.iger hrani ribo.ôiger vidi ribo.Ôiger nadzira ribo.´iger prebuja ribo.”iger pozdravlja ribo.
----
-> Lev gleda muco.
+1a2,28
 > Lev gleda muco, ki hrani ribo.
 > Lev gleda muco, ki hrani tigra.
 > Lev gleda muco, ki hrani tigra, ki nadzira ribo.
@@ -29,7 +26,7 @@
 > Lev gleda muco, ki vidi tigra, ki nadzira ribo.
 > Lev gleda muco, ki vidi tigra, ki pozdravlja ribo.
 > Lev gleda muco, ki vidi tigra, ki prebuja ribo.
-> Lev gleda psa.
+2a30,112
 > Lev gleda psa, ki hrani muco.
 > Lev gleda psa, ki hrani muco, ki nadzira ribo.
 > Lev gleda psa, ki hrani muco, ki nadzira tigra.
@@ -113,15 +110,14 @@
 > Lev gleda psa, ki vidi tigra, ki nadzira ribo.
 > Lev gleda psa, ki vidi tigra, ki pozdravlja ribo.
 > Lev gleda psa, ki vidi tigra, ki prebuja ribo.
-> Lev gleda ribo.
-> Lev gleda tigra.
+4a115,120
 > Lev gleda tigra, ki hrani ribo.
 > Lev gleda tigra, ki lovi ribo.
 > Lev gleda tigra, ki nadzira ribo.
 > Lev gleda tigra, ki pozdravlja ribo.
 > Lev gleda tigra, ki prebuja ribo.
 > Lev gleda tigra, ki vidi ribo.
-> Lev hrani muco.
+5a122,135
 > Lev hrani muco, ki nadzira ribo.
 > Lev hrani muco, ki nadzira tigra.
 > Lev hrani muco, ki nadzira tigra, ki pozdravlja ribo.
@@ -136,7 +132,7 @@
 > Lev hrani muco, ki vidi tigra, ki nadzira ribo.
 > Lev hrani muco, ki vidi tigra, ki pozdravlja ribo.
 > Lev hrani muco, ki vidi tigra, ki prebuja ribo.
-> Lev hrani psa.
+6a137,170
 > Lev hrani psa, ki nadzira muco.
 > Lev hrani psa, ki nadzira muco, ki pozdravlja ribo.
 > Lev hrani psa, ki nadzira muco, ki pozdravlja tigra.
@@ -171,8 +167,7 @@
 > Lev hrani psa, ki vidi tigra, ki nadzira ribo.
 > Lev hrani psa, ki vidi tigra, ki pozdravlja ribo.
 > Lev hrani psa, ki vidi tigra, ki prebuja ribo.
-> Lev hrani ribo.
-> Lev hrani tigra.
+8a173,687
 > Lev hrani tigra, ki nadzira ribo.
 > Lev hrani tigra, ki pozdravlja ribo.
 > Lev hrani tigra, ki prebuja ribo.
@@ -688,7 +683,7 @@
 > Lev, ki vidi tigra, nadzira ribo.
 > Lev, ki vidi tigra, pozdravlja ribo.
 > Lev, ki vidi tigra, prebuja ribo.
-> Lev lovi muco.
+9a689,708
 > Lev lovi muco, ki hrani ribo.
 > Lev lovi muco, ki hrani tigra.
 > Lev lovi muco, ki hrani tigra, ki nadzira ribo.
@@ -709,7 +704,7 @@
 > Lev lovi muco, ki vidi tigra, ki nadzira ribo.
 > Lev lovi muco, ki vidi tigra, ki pozdravlja ribo.
 > Lev lovi muco, ki vidi tigra, ki prebuja ribo.
-> Lev lovi psa.
+10a710,764
 > Lev lovi psa, ki hrani muco.
 > Lev lovi psa, ki hrani muco, ki nadzira ribo.
 > Lev lovi psa, ki hrani muco, ki nadzira tigra.
@@ -765,20 +760,19 @@
 > Lev lovi psa, ki vidi tigra, ki nadzira ribo.
 > Lev lovi psa, ki vidi tigra, ki pozdravlja ribo.
 > Lev lovi psa, ki vidi tigra, ki prebuja ribo.
-> Lev lovi ribo.
-> Lev lovi tigra.
+12a767,771
 > Lev lovi tigra, ki hrani ribo.
 > Lev lovi tigra, ki nadzira ribo.
 > Lev lovi tigra, ki pozdravlja ribo.
 > Lev lovi tigra, ki prebuja ribo.
 > Lev lovi tigra, ki vidi ribo.
-> Lev nadzira muco.
+13a773,777
 > Lev nadzira muco, ki pozdravlja ribo.
 > Lev nadzira muco, ki pozdravlja tigra.
 > Lev nadzira muco, ki prebuja ribo.
 > Lev nadzira muco, ki prebuja tigra.
 > Lev nadzira muco, ki prebuja tigra, ki pozdravlja ribo.
-> Lev nadzira psa.
+14a779,787
 > Lev nadzira psa, ki pozdravlja muco.
 > Lev nadzira psa, ki pozdravlja ribo.
 > Lev nadzira psa, ki pozdravlja tigra.
@@ -788,25 +782,19 @@
 > Lev nadzira psa, ki prebuja ribo.
 > Lev nadzira psa, ki prebuja tigra.
 > Lev nadzira psa, ki prebuja tigra, ki pozdravlja ribo.
-> Lev nadzira ribo.
-> Lev nadzira tigra.
+16a790,791
 > Lev nadzira tigra, ki pozdravlja ribo.
 > Lev nadzira tigra, ki prebuja ribo.
-> Lev pozdravlja muco.
-> Lev pozdravlja psa.
-> Lev pozdravlja ribo.
-> Lev pozdravlja tigra.
-> Lev prebuja muco.
+21a797,798
 > Lev prebuja muco, ki pozdravlja ribo.
 > Lev prebuja muco, ki pozdravlja tigra.
-> Lev prebuja psa.
+22a800,802
 > Lev prebuja psa, ki pozdravlja muco.
 > Lev prebuja psa, ki pozdravlja ribo.
 > Lev prebuja psa, ki pozdravlja tigra.
-> Lev prebuja ribo.
-> Lev prebuja tigra.
+24a805
 > Lev prebuja tigra, ki pozdravlja ribo.
-> Lev vidi muco.
+25a807,815
 > Lev vidi muco, ki nadzira ribo.
 > Lev vidi muco, ki nadzira tigra.
 > Lev vidi muco, ki nadzira tigra, ki pozdravlja ribo.
@@ -816,7 +804,7 @@
 > Lev vidi muco, ki prebuja ribo.
 > Lev vidi muco, ki prebuja tigra.
 > Lev vidi muco, ki prebuja tigra, ki pozdravlja ribo.
-> Lev vidi psa.
+26a817,835
 > Lev vidi psa, ki nadzira muco.
 > Lev vidi psa, ki nadzira muco, ki pozdravlja ribo.
 > Lev vidi psa, ki nadzira muco, ki pozdravlja tigra.
@@ -836,21 +824,18 @@
 > Lev vidi psa, ki prebuja ribo.
 > Lev vidi psa, ki prebuja tigra.
 > Lev vidi psa, ki prebuja tigra, ki pozdravlja ribo.
-> Lev vidi ribo.
-> Lev vidi tigra.
+28a838,840
 > Lev vidi tigra, ki nadzira ribo.
 > Lev vidi tigra, ki pozdravlja ribo.
 > Lev vidi tigra, ki prebuja ribo.
-> Muca gleda ribo.
-> Muca gleda tigra.
+30a843,848
 > Muca gleda tigra, ki hrani ribo.
 > Muca gleda tigra, ki lovi ribo.
 > Muca gleda tigra, ki nadzira ribo.
 > Muca gleda tigra, ki pozdravlja ribo.
 > Muca gleda tigra, ki prebuja ribo.
 > Muca gleda tigra, ki vidi ribo.
-> Muca hrani ribo.
-> Muca hrani tigra.
+32a851,875
 > Muca hrani tigra, ki nadzira ribo.
 > Muca hrani tigra, ki pozdravlja ribo.
 > Muca hrani tigra, ki prebuja ribo.
@@ -876,28 +861,22 @@
 > Muca, ki vidi tigra, nadzira ribo.
 > Muca, ki vidi tigra, pozdravlja ribo.
 > Muca, ki vidi tigra, prebuja ribo.
-> Muca lovi ribo.
-> Muca lovi tigra.
+34a878,882
 > Muca lovi tigra, ki hrani ribo.
 > Muca lovi tigra, ki nadzira ribo.
 > Muca lovi tigra, ki pozdravlja ribo.
 > Muca lovi tigra, ki prebuja ribo.
 > Muca lovi tigra, ki vidi ribo.
-> Muca nadzira ribo.
-> Muca nadzira tigra.
+36a885,886
 > Muca nadzira tigra, ki pozdravlja ribo.
 > Muca nadzira tigra, ki prebuja ribo.
-> Muca pozdravlja ribo.
-> Muca pozdravlja tigra.
-> Muca prebuja ribo.
-> Muca prebuja tigra.
+40a891
 > Muca prebuja tigra, ki pozdravlja ribo.
-> Muca vidi ribo.
-> Muca vidi tigra.
+42a894,896
 > Muca vidi tigra, ki nadzira ribo.
 > Muca vidi tigra, ki pozdravlja ribo.
 > Muca vidi tigra, ki prebuja ribo.
-> Pes gleda muco.
+43a898,924
 > Pes gleda muco, ki hrani ribo.
 > Pes gleda muco, ki hrani tigra.
 > Pes gleda muco, ki hrani tigra, ki nadzira ribo.
@@ -925,15 +904,14 @@
 > Pes gleda muco, ki vidi tigra, ki nadzira ribo.
 > Pes gleda muco, ki vidi tigra, ki pozdravlja ribo.
 > Pes gleda muco, ki vidi tigra, ki prebuja ribo.
-> Pes gleda ribo.
-> Pes gleda tigra.
+45a927,932
 > Pes gleda tigra, ki hrani ribo.
 > Pes gleda tigra, ki lovi ribo.
 > Pes gleda tigra, ki nadzira ribo.
 > Pes gleda tigra, ki pozdravlja ribo.
 > Pes gleda tigra, ki prebuja ribo.
 > Pes gleda tigra, ki vidi ribo.
-> Pes hrani muco.
+46a934,947
 > Pes hrani muco, ki nadzira ribo.
 > Pes hrani muco, ki nadzira tigra.
 > Pes hrani muco, ki nadzira tigra, ki pozdravlja ribo.
@@ -948,8 +926,7 @@
 > Pes hrani muco, ki vidi tigra, ki nadzira ribo.
 > Pes hrani muco, ki vidi tigra, ki pozdravlja ribo.
 > Pes hrani muco, ki vidi tigra, ki prebuja ribo.
-> Pes hrani ribo.
-> Pes hrani tigra.
+48a950,1086
 > Pes hrani tigra, ki nadzira ribo.
 > Pes hrani tigra, ki pozdravlja ribo.
 > Pes hrani tigra, ki prebuja ribo.
@@ -1087,7 +1064,7 @@
 > Pes, ki vidi tigra, nadzira ribo.
 > Pes, ki vidi tigra, pozdravlja ribo.
 > Pes, ki vidi tigra, prebuja ribo.
-> Pes lovi muco.
+49a1088,1107
 > Pes lovi muco, ki hrani ribo.
 > Pes lovi muco, ki hrani tigra.
 > Pes lovi muco, ki hrani tigra, ki nadzira ribo.
@@ -1108,33 +1085,27 @@
 > Pes lovi muco, ki vidi tigra, ki nadzira ribo.
 > Pes lovi muco, ki vidi tigra, ki pozdravlja ribo.
 > Pes lovi muco, ki vidi tigra, ki prebuja ribo.
-> Pes lovi ribo.
-> Pes lovi tigra.
+51a1110,1114
 > Pes lovi tigra, ki hrani ribo.
 > Pes lovi tigra, ki nadzira ribo.
 > Pes lovi tigra, ki pozdravlja ribo.
 > Pes lovi tigra, ki prebuja ribo.
 > Pes lovi tigra, ki vidi ribo.
-> Pes nadzira muco.
+52a1116,1120
 > Pes nadzira muco, ki pozdravlja ribo.
 > Pes nadzira muco, ki pozdravlja tigra.
 > Pes nadzira muco, ki prebuja ribo.
 > Pes nadzira muco, ki prebuja tigra.
 > Pes nadzira muco, ki prebuja tigra, ki pozdravlja ribo.
-> Pes nadzira ribo.
-> Pes nadzira tigra.
+54a1123,1124
 > Pes nadzira tigra, ki pozdravlja ribo.
 > Pes nadzira tigra, ki prebuja ribo.
-> Pes pozdravlja muco.
-> Pes pozdravlja ribo.
-> Pes pozdravlja tigra.
-> Pes prebuja muco.
+58a1129,1130
 > Pes prebuja muco, ki pozdravlja ribo.
 > Pes prebuja muco, ki pozdravlja tigra.
-> Pes prebuja ribo.
-> Pes prebuja tigra.
+60a1133
 > Pes prebuja tigra, ki pozdravlja ribo.
-> Pes vidi muco.
+61a1135,1143
 > Pes vidi muco, ki nadzira ribo.
 > Pes vidi muco, ki nadzira tigra.
 > Pes vidi muco, ki nadzira tigra, ki pozdravlja ribo.
@@ -1144,12 +1115,11 @@
 > Pes vidi muco, ki prebuja ribo.
 > Pes vidi muco, ki prebuja tigra.
 > Pes vidi muco, ki prebuja tigra, ki pozdravlja ribo.
-> Pes vidi ribo.
-> Pes vidi tigra.
+63a1146,1148
 > Pes vidi tigra, ki nadzira ribo.
 > Pes vidi tigra, ki pozdravlja ribo.
 > Pes vidi tigra, ki prebuja ribo.
-> Slon gleda leva.
+64a1150,1358
 > Slon gleda leva, ki hrani muco.
 > Slon gleda leva, ki hrani muco, ki nadzira ribo.
 > Slon gleda leva, ki hrani muco, ki nadzira tigra.
@@ -1359,7 +1329,7 @@
 > Slon gleda leva, ki vidi tigra, ki nadzira ribo.
 > Slon gleda leva, ki vidi tigra, ki pozdravlja ribo.
 > Slon gleda leva, ki vidi tigra, ki prebuja ribo.
-> Slon gleda muco.
+65a1360,1386
 > Slon gleda muco, ki hrani ribo.
 > Slon gleda muco, ki hrani tigra.
 > Slon gleda muco, ki hrani tigra, ki nadzira ribo.
@@ -1387,7 +1357,7 @@
 > Slon gleda muco, ki vidi tigra, ki nadzira ribo.
 > Slon gleda muco, ki vidi tigra, ki pozdravlja ribo.
 > Slon gleda muco, ki vidi tigra, ki prebuja ribo.
-> Slon gleda psa.
+66a1388,1470
 > Slon gleda psa, ki hrani muco.
 > Slon gleda psa, ki hrani muco, ki nadzira ribo.
 > Slon gleda psa, ki hrani muco, ki nadzira tigra.
@@ -1471,15 +1441,14 @@
 > Slon gleda psa, ki vidi tigra, ki nadzira ribo.
 > Slon gleda psa, ki vidi tigra, ki pozdravlja ribo.
 > Slon gleda psa, ki vidi tigra, ki prebuja ribo.
-> Slon gleda ribo.
-> Slon gleda tigra.
+68a1473,1478
 > Slon gleda tigra, ki hrani ribo.
 > Slon gleda tigra, ki lovi ribo.
 > Slon gleda tigra, ki nadzira ribo.
 > Slon gleda tigra, ki pozdravlja ribo.
 > Slon gleda tigra, ki prebuja ribo.
 > Slon gleda tigra, ki vidi ribo.
-> Slon hrani leva.
+69a1480,1548
 > Slon hrani leva, ki nadzira muco.
 > Slon hrani leva, ki nadzira muco, ki pozdravlja ribo.
 > Slon hrani leva, ki nadzira muco, ki pozdravlja tigra.
@@ -1549,7 +1518,7 @@
 > Slon hrani leva, ki vidi tigra, ki nadzira ribo.
 > Slon hrani leva, ki vidi tigra, ki pozdravlja ribo.
 > Slon hrani leva, ki vidi tigra, ki prebuja ribo.
-> Slon hrani muco.
+70a1550,1563
 > Slon hrani muco, ki nadzira ribo.
 > Slon hrani muco, ki nadzira tigra.
 > Slon hrani muco, ki nadzira tigra, ki pozdravlja ribo.
@@ -1564,7 +1533,7 @@
 > Slon hrani muco, ki vidi tigra, ki nadzira ribo.
 > Slon hrani muco, ki vidi tigra, ki pozdravlja ribo.
 > Slon hrani muco, ki vidi tigra, ki prebuja ribo.
-> Slon hrani psa.
+71a1565,1598
 > Slon hrani psa, ki nadzira muco.
 > Slon hrani psa, ki nadzira muco, ki pozdravlja ribo.
 > Slon hrani psa, ki nadzira muco, ki pozdravlja tigra.
@@ -1599,8 +1568,7 @@
 > Slon hrani psa, ki vidi tigra, ki nadzira ribo.
 > Slon hrani psa, ki vidi tigra, ki pozdravlja ribo.
 > Slon hrani psa, ki vidi tigra, ki prebuja ribo.
-> Slon hrani ribo.
-> Slon hrani tigra.
+73a1601,3123
 > Slon hrani tigra, ki nadzira ribo.
 > Slon hrani tigra, ki pozdravlja ribo.
 > Slon hrani tigra, ki prebuja ribo.
@@ -3124,7 +3092,7 @@
 > Slon, ki vidi tigra, nadzira ribo.
 > Slon, ki vidi tigra, pozdravlja ribo.
 > Slon, ki vidi tigra, prebuja ribo.
-> Slon lovi leva.
+74a3125,3249
 > Slon lovi leva, ki hrani muco.
 > Slon lovi leva, ki hrani muco, ki nadzira ribo.
 > Slon lovi leva, ki hrani muco, ki nadzira tigra.
@@ -3250,7 +3218,7 @@
 > Slon lovi leva, ki vidi tigra, ki nadzira ribo.
 > Slon lovi leva, ki vidi tigra, ki pozdravlja ribo.
 > Slon lovi leva, ki vidi tigra, ki prebuja ribo.
-> Slon lovi muco.
+75a3251,3270
 > Slon lovi muco, ki hrani ribo.
 > Slon lovi muco, ki hrani tigra.
 > Slon lovi muco, ki hrani tigra, ki nadzira ribo.
@@ -3271,7 +3239,7 @@
 > Slon lovi muco, ki vidi tigra, ki nadzira ribo.
 > Slon lovi muco, ki vidi tigra, ki pozdravlja ribo.
 > Slon lovi muco, ki vidi tigra, ki prebuja ribo.
-> Slon lovi psa.
+76a3272,3326
 > Slon lovi psa, ki hrani muco.
 > Slon lovi psa, ki hrani muco, ki nadzira ribo.
 > Slon lovi psa, ki hrani muco, ki nadzira tigra.
@@ -3327,14 +3295,13 @@
 > Slon lovi psa, ki vidi tigra, ki nadzira ribo.
 > Slon lovi psa, ki vidi tigra, ki pozdravlja ribo.
 > Slon lovi psa, ki vidi tigra, ki prebuja ribo.
-> Slon lovi ribo.
-> Slon lovi tigra.
+78a3329,3333
 > Slon lovi tigra, ki hrani ribo.
 > Slon lovi tigra, ki nadzira ribo.
 > Slon lovi tigra, ki pozdravlja ribo.
 > Slon lovi tigra, ki prebuja ribo.
 > Slon lovi tigra, ki vidi ribo.
-> Slon nadzira leva.
+79a3335,3348
 > Slon nadzira leva, ki pozdravlja muco.
 > Slon nadzira leva, ki pozdravlja psa.
 > Slon nadzira leva, ki pozdravlja ribo.
@@ -3349,13 +3316,13 @@
 > Slon nadzira leva, ki prebuja ribo.
 > Slon nadzira leva, ki prebuja tigra.
 > Slon nadzira leva, ki prebuja tigra, ki pozdravlja ribo.
-> Slon nadzira muco.
+80a3350,3354
 > Slon nadzira muco, ki pozdravlja ribo.
 > Slon nadzira muco, ki pozdravlja tigra.
 > Slon nadzira muco, ki prebuja ribo.
 > Slon nadzira muco, ki prebuja tigra.
 > Slon nadzira muco, ki prebuja tigra, ki pozdravlja ribo.
-> Slon nadzira psa.
+81a3356,3364
 > Slon nadzira psa, ki pozdravlja muco.
 > Slon nadzira psa, ki pozdravlja ribo.
 > Slon nadzira psa, ki pozdravlja tigra.
@@ -3365,31 +3332,24 @@
 > Slon nadzira psa, ki prebuja ribo.
 > Slon nadzira psa, ki prebuja tigra.
 > Slon nadzira psa, ki prebuja tigra, ki pozdravlja ribo.
-> Slon nadzira ribo.
-> Slon nadzira tigra.
+83a3367,3368
 > Slon nadzira tigra, ki pozdravlja ribo.
 > Slon nadzira tigra, ki prebuja ribo.
-> Slon pozdravlja leva.
-> Slon pozdravlja muco.
-> Slon pozdravlja psa.
-> Slon pozdravlja ribo.
-> Slon pozdravlja tigra.
-> Slon prebuja leva.
+89a3375,3378
 > Slon prebuja leva, ki pozdravlja muco.
 > Slon prebuja leva, ki pozdravlja psa.
 > Slon prebuja leva, ki pozdravlja ribo.
 > Slon prebuja leva, ki pozdravlja tigra.
-> Slon prebuja muco.
+90a3380,3381
 > Slon prebuja muco, ki pozdravlja ribo.
 > Slon prebuja muco, ki pozdravlja tigra.
-> Slon prebuja psa.
+91a3383,3385
 > Slon prebuja psa, ki pozdravlja muco.
 > Slon prebuja psa, ki pozdravlja ribo.
 > Slon prebuja psa, ki pozdravlja tigra.
-> Slon prebuja ribo.
-> Slon prebuja tigra.
+93a3388
 > Slon prebuja tigra, ki pozdravlja ribo.
-> Slon vidi leva.
+94a3390,3423
 > Slon vidi leva, ki nadzira muco.
 > Slon vidi leva, ki nadzira muco, ki pozdravlja ribo.
 > Slon vidi leva, ki nadzira muco, ki pozdravlja tigra.
@@ -3424,7 +3384,7 @@
 > Slon vidi leva, ki prebuja ribo.
 > Slon vidi leva, ki prebuja tigra.
 > Slon vidi leva, ki prebuja tigra, ki pozdravlja ribo.
-> Slon vidi muco.
+95a3425,3433
 > Slon vidi muco, ki nadzira ribo.
 > Slon vidi muco, ki nadzira tigra.
 > Slon vidi muco, ki nadzira tigra, ki pozdravlja ribo.
@@ -3434,7 +3394,7 @@
 > Slon vidi muco, ki prebuja ribo.
 > Slon vidi muco, ki prebuja tigra.
 > Slon vidi muco, ki prebuja tigra, ki pozdravlja ribo.
-> Slon vidi psa.
+96a3435,3453
 > Slon vidi psa, ki nadzira muco.
 > Slon vidi psa, ki nadzira muco, ki pozdravlja ribo.
 > Slon vidi psa, ki nadzira muco, ki pozdravlja tigra.
@@ -3454,15 +3414,7 @@
 > Slon vidi psa, ki prebuja ribo.
 > Slon vidi psa, ki prebuja tigra.
 > Slon vidi psa, ki prebuja tigra, ki pozdravlja ribo.
-> Slon vidi ribo.
-> Slon vidi tigra.
+98a3456,3458
 > Slon vidi tigra, ki nadzira ribo.
 > Slon vidi tigra, ki pozdravlja ribo.
 > Slon vidi tigra, ki prebuja ribo.
-> Tiger gleda ribo.
-> Tiger hrani ribo.
-> Tiger lovi ribo.
-> Tiger nadzira ribo.
-> Tiger pozdravlja ribo.
-> Tiger prebuja ribo.
-> Tiger vidi ribo.

@@ -4,11 +4,12 @@
 #include <string.h>
 
 void izpis (int s, char* im, char** toz, int g, char* povedek, int start) {
-
+    im[0] = im[0] - 32;
     for (int i = start + 1; i < s; i++) {
-        im[0] = im[0] - 32;
-        printf("%s %s %s.", im, povedek, toz[i]);
+        
+        printf("%s %s %s.\n", im, povedek, toz[i]);
     }
+im[0] = im[0] + 32;
     return;
 }
 

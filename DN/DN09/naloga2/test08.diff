@@ -1,12 +1,4 @@
-1,6c1,5292
-< azbec gleda pujsa.êazbec gleda kuro.Êazbec opazuje medveda.ªazbec opazuje srno.Šazbec opazuje netopirja.jazbec opazuje krta.Jazbec opazuje pujsa.*azbec opazuje kuro.
-< azbec hrani medveda.êazbec hrani srno.Êazbec hrani netopirja.ªazbec hrani krta.Šazbec hrani pujsa.jazbec hrani kuro.Jazbec nagovarja medveda.*azbec nagovarja srno.
-< azbec nagovarja netopirja.êazbec nagovarja krta.Êazbec nagovarja pujsa.ªazbec nagovarja kuro.Šazbec razume medveda.jazbec razume srno.Jazbec razume netopirja.*azbec razume krta.
-< azbec razume pujsa.êazbec razume kuro.Êazbec opozarja medveda.ªazbec opozarja srno.Šazbec opozarja netopirja.jazbec opozarja krta.Jazbec opozarja pujsa.*azbec opozarja kuro.Medved vidi srno.-edved vidi netopirja.edved vidi krta.íedved vidi pujsa.Íedved vidi kuro.­edved gleda srno.edved gleda netopirja.medved gleda krta.Medved gleda pujsa.-edved gleda kuro.edved opazuje srno.íedved opazuje netopirja.Íedved opazuje krta.­edved opazuje pujsa.edved opazuje kuro.medved hrani srno.Medved hrani netopirja.-edved hrani krta.edved hrani pujsa.íedved hrani kuro.Íedved nagovarja srno.­edved nagovarja netopirja.edved nagovarja krta.medved nagovarja pujsa.Medved nagovarja kuro.-edved razume srno.edved razume netopirja.íedved razume krta.Íedved razume pujsa.­edved razume kuro.edved opozarja srno.medved opozarja netopirja.Medved opozarja krta.-edved opozarja pujsa.edved opozarja kuro.Srna vidi netopirja.3rna vidi krta.rna vidi pujsa.órna vidi kuro.Órna gleda netopirja.³rna gleda krta.“rna gleda pujsa.srna gleda kuro.Srna opazuje netopirja.3rna opazuje krta.rna opazuje pujsa.órna opazuje kuro.Órna hrani netopirja.³rna hrani krta.“rna hrani pujsa.srna hrani kuro.Srna nagovarja netopirja.3rna nagovarja krta.rna nagovarja pujsa.órna nagovarja kuro.Órna razume netopirja.³rna razume krta.“rna razume pujsa.srna razume kuro.Srna opozarja netopirja.3rna opozarja krta.rna opozarja pujsa.órna opozarja kuro.Netopir vidi krta..etopir vidi pujsa.etopir vidi kuro.îetopir gleda krta.Îetopir gleda pujsa.®etopir gleda kuro.Žetopir opazuje krta.netopir opazuje pujsa.Netopir opazuje kuro..etopir hrani krta.etopir hrani pujsa.îetopir hrani kuro.Îetopir nagovarja krta.®etopir nagovarja pujsa.Žetopir nagovarja kuro.netopir razume krta.Netopir razume pujsa..etopir razume kuro.etopir opozarja krta.îetopir opozarja pujsa.Îetopir opozarja kuro.Krt vidi pujsa.+rt vidi kuro.rt gleda pujsa.ërt gleda kuro.Ërt opazuje pujsa.«rt opazuje kuro.‹rt hrani pujsa.krt hrani kuro.Krt nagovarja pujsa.+rt nagovarja kuro.rt razume pujsa.ërt razume kuro.Ërt opozarja pujsa.«rt opozarja kuro.Pujs vidi kuro.0ujs gleda kuro.ujs opazuje kuro.ðujs hrani kuro.Ðujs nagovarja kuro.°ujs razume kuro.ujs opozarja kuro.
-< azbec vidi netopirja.êazbec vidi krta.Êazbec vidi pujsa.ªazbec vidi kuro.Šazbec gleda medveda.jazbec gleda srno.Jazbec gleda netopirja.*azbec gleda krta.
-< Jazbec vidi medveda.*azbec vidi srno.
----
-> Jazbec gleda krta.
+1a2,21
 > Jazbec gleda krta, ki hrani kuro.
 > Jazbec gleda krta, ki hrani pujsa.
 > Jazbec gleda krta, ki hrani pujsa, ki nagovarja kuro.
@@ -27,8 +19,7 @@
 > Jazbec gleda krta, ki razume kuro.
 > Jazbec gleda krta, ki razume pujsa.
 > Jazbec gleda krta, ki razume pujsa, ki opozarja kuro.
-> Jazbec gleda kuro.
-> Jazbec gleda medveda.
+3a24,148
 > Jazbec gleda medveda, ki hrani krta.
 > Jazbec gleda medveda, ki hrani krta, ki nagovarja kuro.
 > Jazbec gleda medveda, ki hrani krta, ki nagovarja pujsa.
@@ -154,7 +145,7 @@
 > Jazbec gleda medveda, ki razume srno, ki opozarja kuro.
 > Jazbec gleda medveda, ki razume srno, ki opozarja netopirja.
 > Jazbec gleda medveda, ki razume srno, ki opozarja pujsa.
-> Jazbec gleda netopirja.
+4a150,194
 > Jazbec gleda netopirja, ki hrani krta.
 > Jazbec gleda netopirja, ki hrani krta, ki nagovarja kuro.
 > Jazbec gleda netopirja, ki hrani krta, ki nagovarja pujsa.
@@ -200,13 +191,13 @@
 > Jazbec gleda netopirja, ki razume kuro.
 > Jazbec gleda netopirja, ki razume pujsa.
 > Jazbec gleda netopirja, ki razume pujsa, ki opozarja kuro.
-> Jazbec gleda pujsa.
+5a196,200
 > Jazbec gleda pujsa, ki hrani kuro.
 > Jazbec gleda pujsa, ki nagovarja kuro.
 > Jazbec gleda pujsa, ki opazuje kuro.
 > Jazbec gleda pujsa, ki opozarja kuro.
 > Jazbec gleda pujsa, ki razume kuro.
-> Jazbec gleda srno.
+6a202,281
 > Jazbec gleda srno, ki hrani krta.
 > Jazbec gleda srno, ki hrani krta, ki nagovarja kuro.
 > Jazbec gleda srno, ki hrani krta, ki nagovarja pujsa.
@@ -287,7 +278,7 @@
 > Jazbec gleda srno, ki razume netopirja, ki opozarja pujsa.
 > Jazbec gleda srno, ki razume pujsa.
 > Jazbec gleda srno, ki razume pujsa, ki opozarja kuro.
-> Jazbec hrani krta.
+7a283,291
 > Jazbec hrani krta, ki nagovarja kuro.
 > Jazbec hrani krta, ki nagovarja pujsa.
 > Jazbec hrani krta, ki nagovarja pujsa, ki opozarja kuro.
@@ -297,8 +288,7 @@
 > Jazbec hrani krta, ki razume kuro.
 > Jazbec hrani krta, ki razume pujsa.
 > Jazbec hrani krta, ki razume pujsa, ki opozarja kuro.
-> Jazbec hrani kuro.
-> Jazbec hrani medveda.
+9a294,338
 > Jazbec hrani medveda, ki nagovarja krta.
 > Jazbec hrani medveda, ki nagovarja krta, ki opozarja kuro.
 > Jazbec hrani medveda, ki nagovarja krta, ki opozarja pujsa.
@@ -344,7 +334,7 @@
 > Jazbec hrani medveda, ki razume srno, ki opozarja kuro.
 > Jazbec hrani medveda, ki razume srno, ki opozarja netopirja.
 > Jazbec hrani medveda, ki razume srno, ki opozarja pujsa.
-> Jazbec hrani netopirja.
+10a340,357
 > Jazbec hrani netopirja, ki nagovarja krta.
 > Jazbec hrani netopirja, ki nagovarja krta, ki opozarja kuro.
 > Jazbec hrani netopirja, ki nagovarja krta, ki opozarja pujsa.
@@ -363,11 +353,11 @@
 > Jazbec hrani netopirja, ki razume kuro.
 > Jazbec hrani netopirja, ki razume pujsa.
 > Jazbec hrani netopirja, ki razume pujsa, ki opozarja kuro.
-> Jazbec hrani pujsa.
+11a359,361
 > Jazbec hrani pujsa, ki nagovarja kuro.
 > Jazbec hrani pujsa, ki opozarja kuro.
 > Jazbec hrani pujsa, ki razume kuro.
-> Jazbec hrani srno.
+12a363,2107
 > Jazbec hrani srno, ki nagovarja krta.
 > Jazbec hrani srno, ki nagovarja krta, ki opozarja kuro.
 > Jazbec hrani srno, ki nagovarja krta, ki opozarja pujsa.
@@ -2113,14 +2103,13 @@
 > Jazbec, ki vidi srno, razume netopirja, ki opozarja pujsa.
 > Jazbec, ki vidi srno, razume pujsa.
 > Jazbec, ki vidi srno, razume pujsa, ki opozarja kuro.
-> Jazbec nagovarja krta.
+13a2109,2113
 > Jazbec nagovarja krta, ki opozarja kuro.
 > Jazbec nagovarja krta, ki opozarja pujsa.
 > Jazbec nagovarja krta, ki razume kuro.
 > Jazbec nagovarja krta, ki razume pujsa.
 > Jazbec nagovarja krta, ki razume pujsa, ki opozarja kuro.
-> Jazbec nagovarja kuro.
-> Jazbec nagovarja medveda.
+15a2116,2135
 > Jazbec nagovarja medveda, ki opozarja krta.
 > Jazbec nagovarja medveda, ki opozarja kuro.
 > Jazbec nagovarja medveda, ki opozarja netopirja.
@@ -2141,7 +2130,7 @@
 > Jazbec nagovarja medveda, ki razume srno, ki opozarja kuro.
 > Jazbec nagovarja medveda, ki razume srno, ki opozarja netopirja.
 > Jazbec nagovarja medveda, ki razume srno, ki opozarja pujsa.
-> Jazbec nagovarja netopirja.
+16a2137,2145
 > Jazbec nagovarja netopirja, ki opozarja krta.
 > Jazbec nagovarja netopirja, ki opozarja kuro.
 > Jazbec nagovarja netopirja, ki opozarja pujsa.
@@ -2151,10 +2140,10 @@
 > Jazbec nagovarja netopirja, ki razume kuro.
 > Jazbec nagovarja netopirja, ki razume pujsa.
 > Jazbec nagovarja netopirja, ki razume pujsa, ki opozarja kuro.
-> Jazbec nagovarja pujsa.
+17a2147,2148
 > Jazbec nagovarja pujsa, ki opozarja kuro.
 > Jazbec nagovarja pujsa, ki razume kuro.
-> Jazbec nagovarja srno.
+18a2150,2163
 > Jazbec nagovarja srno, ki opozarja krta.
 > Jazbec nagovarja srno, ki opozarja kuro.
 > Jazbec nagovarja srno, ki opozarja netopirja.
@@ -2169,7 +2158,7 @@
 > Jazbec nagovarja srno, ki razume netopirja, ki opozarja pujsa.
 > Jazbec nagovarja srno, ki razume pujsa.
 > Jazbec nagovarja srno, ki razume pujsa, ki opozarja kuro.
-> Jazbec opazuje krta.
+19a2165,2178
 > Jazbec opazuje krta, ki hrani kuro.
 > Jazbec opazuje krta, ki hrani pujsa.
 > Jazbec opazuje krta, ki hrani pujsa, ki nagovarja kuro.
@@ -2184,8 +2173,7 @@
 > Jazbec opazuje krta, ki razume kuro.
 > Jazbec opazuje krta, ki razume pujsa.
 > Jazbec opazuje krta, ki razume pujsa, ki opozarja kuro.
-> Jazbec opazuje kuro.
-> Jazbec opazuje medveda.
+21a2181,2260
 > Jazbec opazuje medveda, ki hrani krta.
 > Jazbec opazuje medveda, ki hrani krta, ki nagovarja kuro.
 > Jazbec opazuje medveda, ki hrani krta, ki nagovarja pujsa.
@@ -2266,7 +2254,7 @@
 > Jazbec opazuje medveda, ki razume srno, ki opozarja kuro.
 > Jazbec opazuje medveda, ki razume srno, ki opozarja netopirja.
 > Jazbec opazuje medveda, ki razume srno, ki opozarja pujsa.
-> Jazbec opazuje netopirja.
+22a2262,2291
 > Jazbec opazuje netopirja, ki hrani krta.
 > Jazbec opazuje netopirja, ki hrani krta, ki nagovarja kuro.
 > Jazbec opazuje netopirja, ki hrani krta, ki nagovarja pujsa.
@@ -2297,12 +2285,12 @@
 > Jazbec opazuje netopirja, ki razume kuro.
 > Jazbec opazuje netopirja, ki razume pujsa.
 > Jazbec opazuje netopirja, ki razume pujsa, ki opozarja kuro.
-> Jazbec opazuje pujsa.
+23a2293,2296
 > Jazbec opazuje pujsa, ki hrani kuro.
 > Jazbec opazuje pujsa, ki nagovarja kuro.
 > Jazbec opazuje pujsa, ki opozarja kuro.
 > Jazbec opazuje pujsa, ki razume kuro.
-> Jazbec opazuje srno.
+24a2298,2349
 > Jazbec opazuje srno, ki hrani krta.
 > Jazbec opazuje srno, ki hrani krta, ki nagovarja kuro.
 > Jazbec opazuje srno, ki hrani krta, ki nagovarja pujsa.
@@ -2355,34 +2343,27 @@
 > Jazbec opazuje srno, ki razume netopirja, ki opozarja pujsa.
 > Jazbec opazuje srno, ki razume pujsa.
 > Jazbec opazuje srno, ki razume pujsa, ki opozarja kuro.
-> Jazbec opozarja krta.
-> Jazbec opozarja kuro.
-> Jazbec opozarja medveda.
-> Jazbec opozarja netopirja.
-> Jazbec opozarja pujsa.
-> Jazbec opozarja srno.
-> Jazbec razume krta.
+31a2357,2358
 > Jazbec razume krta, ki opozarja kuro.
 > Jazbec razume krta, ki opozarja pujsa.
-> Jazbec razume kuro.
-> Jazbec razume medveda.
+33a2361,2365
 > Jazbec razume medveda, ki opozarja krta.
 > Jazbec razume medveda, ki opozarja kuro.
 > Jazbec razume medveda, ki opozarja netopirja.
 > Jazbec razume medveda, ki opozarja pujsa.
 > Jazbec razume medveda, ki opozarja srno.
-> Jazbec razume netopirja.
+34a2367,2369
 > Jazbec razume netopirja, ki opozarja krta.
 > Jazbec razume netopirja, ki opozarja kuro.
 > Jazbec razume netopirja, ki opozarja pujsa.
-> Jazbec razume pujsa.
+35a2371
 > Jazbec razume pujsa, ki opozarja kuro.
-> Jazbec razume srno.
+36a2373,2376
 > Jazbec razume srno, ki opozarja krta.
 > Jazbec razume srno, ki opozarja kuro.
 > Jazbec razume srno, ki opozarja netopirja.
 > Jazbec razume srno, ki opozarja pujsa.
-> Jazbec vidi krta.
+37a2378,2404
 > Jazbec vidi krta, ki gleda kuro.
 > Jazbec vidi krta, ki gleda pujsa.
 > Jazbec vidi krta, ki gleda pujsa, ki hrani kuro.
@@ -2410,8 +2391,7 @@
 > Jazbec vidi krta, ki razume kuro.
 > Jazbec vidi krta, ki razume pujsa.
 > Jazbec vidi krta, ki razume pujsa, ki opozarja kuro.
-> Jazbec vidi kuro.
-> Jazbec vidi medveda.
+39a2407,2586
 > Jazbec vidi medveda, ki gleda krta.
 > Jazbec vidi medveda, ki gleda krta, ki hrani kuro.
 > Jazbec vidi medveda, ki gleda krta, ki hrani pujsa.
@@ -2592,7 +2572,7 @@
 > Jazbec vidi medveda, ki razume srno, ki opozarja kuro.
 > Jazbec vidi medveda, ki razume srno, ki opozarja netopirja.
 > Jazbec vidi medveda, ki razume srno, ki opozarja pujsa.
-> Jazbec vidi netopirja.
+40a2588,2650
 > Jazbec vidi netopirja, ki gleda krta.
 > Jazbec vidi netopirja, ki gleda krta, ki hrani kuro.
 > Jazbec vidi netopirja, ki gleda krta, ki hrani pujsa.
@@ -2656,14 +2636,14 @@
 > Jazbec vidi netopirja, ki razume kuro.
 > Jazbec vidi netopirja, ki razume pujsa.
 > Jazbec vidi netopirja, ki razume pujsa, ki opozarja kuro.
-> Jazbec vidi pujsa.
+41a2652,2657
 > Jazbec vidi pujsa, ki gleda kuro.
 > Jazbec vidi pujsa, ki hrani kuro.
 > Jazbec vidi pujsa, ki nagovarja kuro.
 > Jazbec vidi pujsa, ki opazuje kuro.
 > Jazbec vidi pujsa, ki opozarja kuro.
 > Jazbec vidi pujsa, ki razume kuro.
-> Jazbec vidi srno.
+42a2659,2772
 > Jazbec vidi srno, ki gleda krta.
 > Jazbec vidi srno, ki gleda krta, ki hrani kuro.
 > Jazbec vidi srno, ki gleda krta, ki hrani pujsa.
@@ -2778,15 +2758,13 @@
 > Jazbec vidi srno, ki razume netopirja, ki opozarja pujsa.
 > Jazbec vidi srno, ki razume pujsa.
 > Jazbec vidi srno, ki razume pujsa, ki opozarja kuro.
-> Krt gleda kuro.
-> Krt gleda pujsa.
+44a2775,2779
 > Krt gleda pujsa, ki hrani kuro.
 > Krt gleda pujsa, ki nagovarja kuro.
 > Krt gleda pujsa, ki opazuje kuro.
 > Krt gleda pujsa, ki opozarja kuro.
 > Krt gleda pujsa, ki razume kuro.
-> Krt hrani kuro.
-> Krt hrani pujsa.
+46a2782,2805
 > Krt hrani pujsa, ki nagovarja kuro.
 > Krt hrani pujsa, ki opozarja kuro.
 > Krt hrani pujsa, ki razume kuro.
@@ -2811,30 +2789,24 @@
 > Krt, ki vidi pujsa, opazuje kuro.
 > Krt, ki vidi pujsa, opozarja kuro.
 > Krt, ki vidi pujsa, razume kuro.
-> Krt nagovarja kuro.
-> Krt nagovarja pujsa.
+48a2808,2809
 > Krt nagovarja pujsa, ki opozarja kuro.
 > Krt nagovarja pujsa, ki razume kuro.
-> Krt opazuje kuro.
-> Krt opazuje pujsa.
+50a2812,2815
 > Krt opazuje pujsa, ki hrani kuro.
 > Krt opazuje pujsa, ki nagovarja kuro.
 > Krt opazuje pujsa, ki opozarja kuro.
 > Krt opazuje pujsa, ki razume kuro.
-> Krt opozarja kuro.
-> Krt opozarja pujsa.
-> Krt razume kuro.
-> Krt razume pujsa.
+54a2820
 > Krt razume pujsa, ki opozarja kuro.
-> Krt vidi kuro.
-> Krt vidi pujsa.
+56a2823,2828
 > Krt vidi pujsa, ki gleda kuro.
 > Krt vidi pujsa, ki hrani kuro.
 > Krt vidi pujsa, ki nagovarja kuro.
 > Krt vidi pujsa, ki opazuje kuro.
 > Krt vidi pujsa, ki opozarja kuro.
 > Krt vidi pujsa, ki razume kuro.
-> Medved gleda krta.
+57a2830,2849
 > Medved gleda krta, ki hrani kuro.
 > Medved gleda krta, ki hrani pujsa.
 > Medved gleda krta, ki hrani pujsa, ki nagovarja kuro.
@@ -2855,8 +2827,7 @@
 > Medved gleda krta, ki razume kuro.
 > Medved gleda krta, ki razume pujsa.
 > Medved gleda krta, ki razume pujsa, ki opozarja kuro.
-> Medved gleda kuro.
-> Medved gleda netopirja.
+59a2852,2896
 > Medved gleda netopirja, ki hrani krta.
 > Medved gleda netopirja, ki hrani krta, ki nagovarja kuro.
 > Medved gleda netopirja, ki hrani krta, ki nagovarja pujsa.
@@ -2902,13 +2873,13 @@
 > Medved gleda netopirja, ki razume kuro.
 > Medved gleda netopirja, ki razume pujsa.
 > Medved gleda netopirja, ki razume pujsa, ki opozarja kuro.
-> Medved gleda pujsa.
+60a2898,2902
 > Medved gleda pujsa, ki hrani kuro.
 > Medved gleda pujsa, ki nagovarja kuro.
 > Medved gleda pujsa, ki opazuje kuro.
 > Medved gleda pujsa, ki opozarja kuro.
 > Medved gleda pujsa, ki razume kuro.
-> Medved gleda srno.
+61a2904,2983
 > Medved gleda srno, ki hrani krta.
 > Medved gleda srno, ki hrani krta, ki nagovarja kuro.
 > Medved gleda srno, ki hrani krta, ki nagovarja pujsa.
@@ -2989,7 +2960,7 @@
 > Medved gleda srno, ki razume netopirja, ki opozarja pujsa.
 > Medved gleda srno, ki razume pujsa.
 > Medved gleda srno, ki razume pujsa, ki opozarja kuro.
-> Medved hrani krta.
+62a2985,2993
 > Medved hrani krta, ki nagovarja kuro.
 > Medved hrani krta, ki nagovarja pujsa.
 > Medved hrani krta, ki nagovarja pujsa, ki opozarja kuro.
@@ -2999,8 +2970,7 @@
 > Medved hrani krta, ki razume kuro.
 > Medved hrani krta, ki razume pujsa.
 > Medved hrani krta, ki razume pujsa, ki opozarja kuro.
-> Medved hrani kuro.
-> Medved hrani netopirja.
+64a2996,3013
 > Medved hrani netopirja, ki nagovarja krta.
 > Medved hrani netopirja, ki nagovarja krta, ki opozarja kuro.
 > Medved hrani netopirja, ki nagovarja krta, ki opozarja pujsa.
@@ -3019,11 +2989,11 @@
 > Medved hrani netopirja, ki razume kuro.
 > Medved hrani netopirja, ki razume pujsa.
 > Medved hrani netopirja, ki razume pujsa, ki opozarja kuro.
-> Medved hrani pujsa.
+65a3015,3017
 > Medved hrani pujsa, ki nagovarja kuro.
 > Medved hrani pujsa, ki opozarja kuro.
 > Medved hrani pujsa, ki razume kuro.
-> Medved hrani srno.
+66a3019,3958
 > Medved hrani srno, ki nagovarja krta.
 > Medved hrani srno, ki nagovarja krta, ki opozarja kuro.
 > Medved hrani srno, ki nagovarja krta, ki opozarja pujsa.
@@ -3964,14 +3934,13 @@
 > Medved, ki vidi srno, razume netopirja, ki opozarja pujsa.
 > Medved, ki vidi srno, razume pujsa.
 > Medved, ki vidi srno, razume pujsa, ki opozarja kuro.
-> Medved nagovarja krta.
+67a3960,3964
 > Medved nagovarja krta, ki opozarja kuro.
 > Medved nagovarja krta, ki opozarja pujsa.
 > Medved nagovarja krta, ki razume kuro.
 > Medved nagovarja krta, ki razume pujsa.
 > Medved nagovarja krta, ki razume pujsa, ki opozarja kuro.
-> Medved nagovarja kuro.
-> Medved nagovarja netopirja.
+69a3967,3975
 > Medved nagovarja netopirja, ki opozarja krta.
 > Medved nagovarja netopirja, ki opozarja kuro.
 > Medved nagovarja netopirja, ki opozarja pujsa.
@@ -3981,10 +3950,10 @@
 > Medved nagovarja netopirja, ki razume kuro.
 > Medved nagovarja netopirja, ki razume pujsa.
 > Medved nagovarja netopirja, ki razume pujsa, ki opozarja kuro.
-> Medved nagovarja pujsa.
+70a3977,3978
 > Medved nagovarja pujsa, ki opozarja kuro.
 > Medved nagovarja pujsa, ki razume kuro.
-> Medved nagovarja srno.
+71a3980,3993
 > Medved nagovarja srno, ki opozarja krta.
 > Medved nagovarja srno, ki opozarja kuro.
 > Medved nagovarja srno, ki opozarja netopirja.
@@ -3999,7 +3968,7 @@
 > Medved nagovarja srno, ki razume netopirja, ki opozarja pujsa.
 > Medved nagovarja srno, ki razume pujsa.
 > Medved nagovarja srno, ki razume pujsa, ki opozarja kuro.
-> Medved opazuje krta.
+72a3995,4008
 > Medved opazuje krta, ki hrani kuro.
 > Medved opazuje krta, ki hrani pujsa.
 > Medved opazuje krta, ki hrani pujsa, ki nagovarja kuro.
@@ -4014,8 +3983,7 @@
 > Medved opazuje krta, ki razume kuro.
 > Medved opazuje krta, ki razume pujsa.
 > Medved opazuje krta, ki razume pujsa, ki opozarja kuro.
-> Medved opazuje kuro.
-> Medved opazuje netopirja.
+74a4011,4040
 > Medved opazuje netopirja, ki hrani krta.
 > Medved opazuje netopirja, ki hrani krta, ki nagovarja kuro.
 > Medved opazuje netopirja, ki hrani krta, ki nagovarja pujsa.
@@ -4046,12 +4014,12 @@
 > Medved opazuje netopirja, ki razume kuro.
 > Medved opazuje netopirja, ki razume pujsa.
 > Medved opazuje netopirja, ki razume pujsa, ki opozarja kuro.
-> Medved opazuje pujsa.
+75a4042,4045
 > Medved opazuje pujsa, ki hrani kuro.
 > Medved opazuje pujsa, ki nagovarja kuro.
 > Medved opazuje pujsa, ki opozarja kuro.
 > Medved opazuje pujsa, ki razume kuro.
-> Medved opazuje srno.
+76a4047,4098
 > Medved opazuje srno, ki hrani krta.
 > Medved opazuje srno, ki hrani krta, ki nagovarja kuro.
 > Medved opazuje srno, ki hrani krta, ki nagovarja pujsa.
@@ -4104,27 +4072,21 @@
 > Medved opazuje srno, ki razume netopirja, ki opozarja pujsa.
 > Medved opazuje srno, ki razume pujsa.
 > Medved opazuje srno, ki razume pujsa, ki opozarja kuro.
-> Medved opozarja krta.
-> Medved opozarja kuro.
-> Medved opozarja netopirja.
-> Medved opozarja pujsa.
-> Medved opozarja srno.
-> Medved razume krta.
+82a4105,4106
 > Medved razume krta, ki opozarja kuro.
 > Medved razume krta, ki opozarja pujsa.
-> Medved razume kuro.
-> Medved razume netopirja.
+84a4109,4111
 > Medved razume netopirja, ki opozarja krta.
 > Medved razume netopirja, ki opozarja kuro.
 > Medved razume netopirja, ki opozarja pujsa.
-> Medved razume pujsa.
+85a4113
 > Medved razume pujsa, ki opozarja kuro.
-> Medved razume srno.
+86a4115,4118
 > Medved razume srno, ki opozarja krta.
 > Medved razume srno, ki opozarja kuro.
 > Medved razume srno, ki opozarja netopirja.
 > Medved razume srno, ki opozarja pujsa.
-> Medved vidi krta.
+87a4120,4146
 > Medved vidi krta, ki gleda kuro.
 > Medved vidi krta, ki gleda pujsa.
 > Medved vidi krta, ki gleda pujsa, ki hrani kuro.
@@ -4152,8 +4114,7 @@
 > Medved vidi krta, ki razume kuro.
 > Medved vidi krta, ki razume pujsa.
 > Medved vidi krta, ki razume pujsa, ki opozarja kuro.
-> Medved vidi kuro.
-> Medved vidi netopirja.
+89a4149,4211
 > Medved vidi netopirja, ki gleda krta.
 > Medved vidi netopirja, ki gleda krta, ki hrani kuro.
 > Medved vidi netopirja, ki gleda krta, ki hrani pujsa.
@@ -4217,14 +4178,14 @@
 > Medved vidi netopirja, ki razume kuro.
 > Medved vidi netopirja, ki razume pujsa.
 > Medved vidi netopirja, ki razume pujsa, ki opozarja kuro.
-> Medved vidi pujsa.
+90a4213,4218
 > Medved vidi pujsa, ki gleda kuro.
 > Medved vidi pujsa, ki hrani kuro.
 > Medved vidi pujsa, ki nagovarja kuro.
 > Medved vidi pujsa, ki opazuje kuro.
 > Medved vidi pujsa, ki opozarja kuro.
 > Medved vidi pujsa, ki razume kuro.
-> Medved vidi srno.
+91a4220,4333
 > Medved vidi srno, ki gleda krta.
 > Medved vidi srno, ki gleda krta, ki hrani kuro.
 > Medved vidi srno, ki gleda krta, ki hrani pujsa.
@@ -4339,7 +4300,7 @@
 > Medved vidi srno, ki razume netopirja, ki opozarja pujsa.
 > Medved vidi srno, ki razume pujsa.
 > Medved vidi srno, ki razume pujsa, ki opozarja kuro.
-> Netopir gleda krta.
+92a4335,4354
 > Netopir gleda krta, ki hrani kuro.
 > Netopir gleda krta, ki hrani pujsa.
 > Netopir gleda krta, ki hrani pujsa, ki nagovarja kuro.
@@ -4360,14 +4321,13 @@
 > Netopir gleda krta, ki razume kuro.
 > Netopir gleda krta, ki razume pujsa.
 > Netopir gleda krta, ki razume pujsa, ki opozarja kuro.
-> Netopir gleda kuro.
-> Netopir gleda pujsa.
+94a4357,4361
 > Netopir gleda pujsa, ki hrani kuro.
 > Netopir gleda pujsa, ki nagovarja kuro.
 > Netopir gleda pujsa, ki opazuje kuro.
 > Netopir gleda pujsa, ki opozarja kuro.
 > Netopir gleda pujsa, ki razume kuro.
-> Netopir hrani krta.
+95a4363,4371
 > Netopir hrani krta, ki nagovarja kuro.
 > Netopir hrani krta, ki nagovarja pujsa.
 > Netopir hrani krta, ki nagovarja pujsa, ki opozarja kuro.
@@ -4377,8 +4337,7 @@
 > Netopir hrani krta, ki razume kuro.
 > Netopir hrani krta, ki razume pujsa.
 > Netopir hrani krta, ki razume pujsa, ki opozarja kuro.
-> Netopir hrani kuro.
-> Netopir hrani pujsa.
+97a4374,4509
 > Netopir hrani pujsa, ki nagovarja kuro.
 > Netopir hrani pujsa, ki opozarja kuro.
 > Netopir hrani pujsa, ki razume kuro.
@@ -4515,17 +4474,16 @@
 > Netopir, ki vidi pujsa, opazuje kuro.
 > Netopir, ki vidi pujsa, opozarja kuro.
 > Netopir, ki vidi pujsa, razume kuro.
-> Netopir nagovarja krta.
+98a4511,4515
 > Netopir nagovarja krta, ki opozarja kuro.
 > Netopir nagovarja krta, ki opozarja pujsa.
 > Netopir nagovarja krta, ki razume kuro.
 > Netopir nagovarja krta, ki razume pujsa.
 > Netopir nagovarja krta, ki razume pujsa, ki opozarja kuro.
-> Netopir nagovarja kuro.
-> Netopir nagovarja pujsa.
+100a4518,4519
 > Netopir nagovarja pujsa, ki opozarja kuro.
 > Netopir nagovarja pujsa, ki razume kuro.
-> Netopir opazuje krta.
+101a4521,4534
 > Netopir opazuje krta, ki hrani kuro.
 > Netopir opazuje krta, ki hrani pujsa.
 > Netopir opazuje krta, ki hrani pujsa, ki nagovarja kuro.
@@ -4540,22 +4498,17 @@
 > Netopir opazuje krta, ki razume kuro.
 > Netopir opazuje krta, ki razume pujsa.
 > Netopir opazuje krta, ki razume pujsa, ki opozarja kuro.
-> Netopir opazuje kuro.
-> Netopir opazuje pujsa.
+103a4537,4540
 > Netopir opazuje pujsa, ki hrani kuro.
 > Netopir opazuje pujsa, ki nagovarja kuro.
 > Netopir opazuje pujsa, ki opozarja kuro.
 > Netopir opazuje pujsa, ki razume kuro.
-> Netopir opozarja krta.
-> Netopir opozarja kuro.
-> Netopir opozarja pujsa.
-> Netopir razume krta.
+107a4545,4546
 > Netopir razume krta, ki opozarja kuro.
 > Netopir razume krta, ki opozarja pujsa.
-> Netopir razume kuro.
-> Netopir razume pujsa.
+109a4549
 > Netopir razume pujsa, ki opozarja kuro.
-> Netopir vidi krta.
+110a4551,4577
 > Netopir vidi krta, ki gleda kuro.
 > Netopir vidi krta, ki gleda pujsa.
 > Netopir vidi krta, ki gleda pujsa, ki hrani kuro.
@@ -4583,22 +4536,14 @@
 > Netopir vidi krta, ki razume kuro.
 > Netopir vidi krta, ki razume pujsa.
 > Netopir vidi krta, ki razume pujsa, ki opozarja kuro.
-> Netopir vidi kuro.
-> Netopir vidi pujsa.
+112a4580,4585
 > Netopir vidi pujsa, ki gleda kuro.
 > Netopir vidi pujsa, ki hrani kuro.
 > Netopir vidi pujsa, ki nagovarja kuro.
 > Netopir vidi pujsa, ki opazuje kuro.
 > Netopir vidi pujsa, ki opozarja kuro.
 > Netopir vidi pujsa, ki razume kuro.
-> Pujs gleda kuro.
-> Pujs hrani kuro.
-> Pujs nagovarja kuro.
-> Pujs opazuje kuro.
-> Pujs opozarja kuro.
-> Pujs razume kuro.
-> Pujs vidi kuro.
-> Srna gleda krta.
+120a4594,4613
 > Srna gleda krta, ki hrani kuro.
 > Srna gleda krta, ki hrani pujsa.
 > Srna gleda krta, ki hrani pujsa, ki nagovarja kuro.
@@ -4619,8 +4564,7 @@
 > Srna gleda krta, ki razume kuro.
 > Srna gleda krta, ki razume pujsa.
 > Srna gleda krta, ki razume pujsa, ki opozarja kuro.
-> Srna gleda kuro.
-> Srna gleda netopirja.
+122a4616,4660
 > Srna gleda netopirja, ki hrani krta.
 > Srna gleda netopirja, ki hrani krta, ki nagovarja kuro.
 > Srna gleda netopirja, ki hrani krta, ki nagovarja pujsa.
@@ -4666,13 +4610,13 @@
 > Srna gleda netopirja, ki razume kuro.
 > Srna gleda netopirja, ki razume pujsa.
 > Srna gleda netopirja, ki razume pujsa, ki opozarja kuro.
-> Srna gleda pujsa.
+123a4662,4666
 > Srna gleda pujsa, ki hrani kuro.
 > Srna gleda pujsa, ki nagovarja kuro.
 > Srna gleda pujsa, ki opazuje kuro.
 > Srna gleda pujsa, ki opozarja kuro.
 > Srna gleda pujsa, ki razume kuro.
-> Srna hrani krta.
+124a4668,4676
 > Srna hrani krta, ki nagovarja kuro.
 > Srna hrani krta, ki nagovarja pujsa.
 > Srna hrani krta, ki nagovarja pujsa, ki opozarja kuro.
@@ -4682,8 +4626,7 @@
 > Srna hrani krta, ki razume kuro.
 > Srna hrani krta, ki razume pujsa.
 > Srna hrani krta, ki razume pujsa, ki opozarja kuro.
-> Srna hrani kuro.
-> Srna hrani netopirja.
+126a4679,4696
 > Srna hrani netopirja, ki nagovarja krta.
 > Srna hrani netopirja, ki nagovarja krta, ki opozarja kuro.
 > Srna hrani netopirja, ki nagovarja krta, ki opozarja pujsa.
@@ -4702,7 +4645,7 @@
 > Srna hrani netopirja, ki razume kuro.
 > Srna hrani netopirja, ki razume pujsa.
 > Srna hrani netopirja, ki razume pujsa, ki opozarja kuro.
-> Srna hrani pujsa.
+127a4698,5106
 > Srna hrani pujsa, ki nagovarja kuro.
 > Srna hrani pujsa, ki opozarja kuro.
 > Srna hrani pujsa, ki razume kuro.
@@ -5112,14 +5055,13 @@
 > Srna, ki vidi pujsa, opazuje kuro.
 > Srna, ki vidi pujsa, opozarja kuro.
 > Srna, ki vidi pujsa, razume kuro.
-> Srna nagovarja krta.
+128a5108,5112
 > Srna nagovarja krta, ki opozarja kuro.
 > Srna nagovarja krta, ki opozarja pujsa.
 > Srna nagovarja krta, ki razume kuro.
 > Srna nagovarja krta, ki razume pujsa.
 > Srna nagovarja krta, ki razume pujsa, ki opozarja kuro.
-> Srna nagovarja kuro.
-> Srna nagovarja netopirja.
+130a5115,5123
 > Srna nagovarja netopirja, ki opozarja krta.
 > Srna nagovarja netopirja, ki opozarja kuro.
 > Srna nagovarja netopirja, ki opozarja pujsa.
@@ -5129,10 +5071,10 @@
 > Srna nagovarja netopirja, ki razume kuro.
 > Srna nagovarja netopirja, ki razume pujsa.
 > Srna nagovarja netopirja, ki razume pujsa, ki opozarja kuro.
-> Srna nagovarja pujsa.
+131a5125,5126
 > Srna nagovarja pujsa, ki opozarja kuro.
 > Srna nagovarja pujsa, ki razume kuro.
-> Srna opazuje krta.
+132a5128,5141
 > Srna opazuje krta, ki hrani kuro.
 > Srna opazuje krta, ki hrani pujsa.
 > Srna opazuje krta, ki hrani pujsa, ki nagovarja kuro.
@@ -5147,8 +5089,7 @@
 > Srna opazuje krta, ki razume kuro.
 > Srna opazuje krta, ki razume pujsa.
 > Srna opazuje krta, ki razume pujsa, ki opozarja kuro.
-> Srna opazuje kuro.
-> Srna opazuje netopirja.
+134a5144,5173
 > Srna opazuje netopirja, ki hrani krta.
 > Srna opazuje netopirja, ki hrani krta, ki nagovarja kuro.
 > Srna opazuje netopirja, ki hrani krta, ki nagovarja pujsa.
@@ -5179,26 +5120,21 @@
 > Srna opazuje netopirja, ki razume kuro.
 > Srna opazuje netopirja, ki razume pujsa.
 > Srna opazuje netopirja, ki razume pujsa, ki opozarja kuro.
-> Srna opazuje pujsa.
+135a5175,5178
 > Srna opazuje pujsa, ki hrani kuro.
 > Srna opazuje pujsa, ki nagovarja kuro.
 > Srna opazuje pujsa, ki opozarja kuro.
 > Srna opazuje pujsa, ki razume kuro.
-> Srna opozarja krta.
-> Srna opozarja kuro.
-> Srna opozarja netopirja.
-> Srna opozarja pujsa.
-> Srna razume krta.
+140a5184,5185
 > Srna razume krta, ki opozarja kuro.
 > Srna razume krta, ki opozarja pujsa.
-> Srna razume kuro.
-> Srna razume netopirja.
+142a5188,5190
 > Srna razume netopirja, ki opozarja krta.
 > Srna razume netopirja, ki opozarja kuro.
 > Srna razume netopirja, ki opozarja pujsa.
-> Srna razume pujsa.
+143a5192
 > Srna razume pujsa, ki opozarja kuro.
-> Srna vidi krta.
+144a5194,5220
 > Srna vidi krta, ki gleda kuro.
 > Srna vidi krta, ki gleda pujsa.
 > Srna vidi krta, ki gleda pujsa, ki hrani kuro.
@@ -5226,8 +5162,7 @@
 > Srna vidi krta, ki razume kuro.
 > Srna vidi krta, ki razume pujsa.
 > Srna vidi krta, ki razume pujsa, ki opozarja kuro.
-> Srna vidi kuro.
-> Srna vidi netopirja.
+146a5223,5285
 > Srna vidi netopirja, ki gleda krta.
 > Srna vidi netopirja, ki gleda krta, ki hrani kuro.
 > Srna vidi netopirja, ki gleda krta, ki hrani pujsa.
@@ -5291,7 +5226,7 @@
 > Srna vidi netopirja, ki razume kuro.
 > Srna vidi netopirja, ki razume pujsa.
 > Srna vidi netopirja, ki razume pujsa, ki opozarja kuro.
-> Srna vidi pujsa.
+147a5287,5292
 > Srna vidi pujsa, ki gleda kuro.
 > Srna vidi pujsa, ki hrani kuro.
 > Srna vidi pujsa, ki nagovarja kuro.

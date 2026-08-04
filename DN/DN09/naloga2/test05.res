@@ -1,1 +1,18 @@
-Medved razume srno.-edved razume lisico.edved razume jelena.Ìedved opozarja srno.Õedved opozarja lisico.≠edved opozarja jelena.çedved preganja srno.medved preganja lisico.Medved preganja jelena.Srna razume lisico.3rna razume jelena.rna opozarja lisico.Ûrna opozarja jelena.”rna preganja lisico.≥rna preganja jelena.Lisica razume jelena.,isica opozarja jelena.isica preganja jelena.
+Medved razume srno.
+Medved razume lisico.
+Medved razume jelena.
+Medved opozarja srno.
+Medved opozarja lisico.
+Medved opozarja jelena.
+Medved preganja srno.
+Medved preganja lisico.
+Medved preganja jelena.
+Srna razume lisico.
+Srna razume jelena.
+Srna opozarja lisico.
+Srna opozarja jelena.
+Srna preganja lisico.
+Srna preganja jelena.
+Lisica razume jelena.
+Lisica opozarja jelena.
+Lisica preganja jelena.
