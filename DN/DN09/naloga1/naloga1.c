@@ -30,6 +30,9 @@ void izpis (int** podmn, int n, int k) {
 void razbitje(int n, int k, int K, int* M, 
                 int** podmn, int index, bool* used, int start,
                 int vsota, int curVsota) {
+    
+    //printf("index=%d k=%d start=%d cur=%d\n", index, k, start, curVsota);
+    
     if (k == 0) {
         izpis(podmn, n, K);
         return;
@@ -41,12 +44,19 @@ void razbitje(int n, int k, int K, int* M,
         if (start == n) return;
         append(podmn[index], M[start], used, start);
 
-        razbitje(n, k, K, M, podmn,
+        if (M[start] == vsota) {
+            razbitje(n, k - 1, K, M, podmn,
+                     index + 1, used, 0, vsota, 0);
+        } else {
+            razbitje(n, k, K, M, podmn,
                 index, used, start + 1, vsota, M[start]);
-
+        }
+        
         back(podmn[index], used, start);
         return;
     }
+
+
 
     for (int i = start; i < n; i++) {
         if (used[i] == false) continue;
