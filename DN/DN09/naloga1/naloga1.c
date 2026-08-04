@@ -37,43 +37,37 @@ void razbitje(int n, int k, int K, int* M,
     if (index >= K) return;
 
     if (curVsota == 0) {
-        while (start < n && !used[start]) {
-        start++;
-        }
-
-        if (start == n)
-            return;
-
+        while (start < n && !used[start]) start++;
+        if (start == n) return;
         append(podmn[index], M[start], used, start);
 
         razbitje(n, k, K, M, podmn,
-                    index, used, start + 1, vsota, M[start]);
+                index, used, start + 1, vsota, M[start]);
 
         back(podmn[index], used, start);
         return;
-    } else {
-        for (int i = start; i < n; i++) {
-            if (used[i] == false) continue;
-            
-            append(podmn[index], M[i], used, i);
-            curVsota = curVsota + M[i];
+    }
 
-            if (curVsota == vsota) {
+    for (int i = start; i < n; i++) {
+        if (used[i] == false) continue;
+
+        append(podmn[index], M[i], used, i);
+        curVsota = curVsota + M[i];
+
+        if (curVsota == vsota) {
             razbitje (n, k-1, K, M, podmn,
-                        index+1, used, 0, vsota, 0);
+                    index+1, used, 0, vsota, 0);
+
         } else if (curVsota < vsota){
             razbitje(n, k, K, M, podmn,
-                        index, used, i+1, vsota, curVsota);
+                    index, used, i+1, vsota, curVsota);
         }
 
         curVsota = curVsota - M[i];
         back(podmn[index], used, i);
     }
-    }
-
-
-
 }
+
 
 int main () {
 
