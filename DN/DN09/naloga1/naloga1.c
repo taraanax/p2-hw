@@ -27,28 +27,51 @@ void izpis (int** podmn, int n, int k) {
     printf("}\n");
 }
 
-void razbitje(int n, int k, int K, int* M, int** podmn, int index, bool* used, int start, int vsota, int curVsota) {
+void razbitje(int n, int k, int K, int* M, 
+                int** podmn, int index, bool* used, int start,
+                int vsota, int curVsota) {
     if (k == 0) {
         izpis(podmn, n, K);
         return;
     }
     if (index >= K) return;
 
-    for (int i = start; i < n; i++) {
-        if (used[i] == false) continue;
+    if (curVsota == 0) {
+        while (start < n && !used[start]) {
+        start++;
+        }
 
-        append(podmn[index], M[i], used, i);
-        curVsota = curVsota + M[i];
+        if (start == n)
+            return;
 
-        if (curVsota == vsota) {
-            razbitje (n, k-1, K, M, podmn, index+1, used, 0, vsota, 0);
+        append(podmn[index], M[start], used, start);
+
+        razbitje(n, k, K, M, podmn,
+                    index, used, start + 1, vsota, M[start]);
+
+        back(podmn[index], used, start);
+        return;
+    } else {
+        for (int i = start; i < n; i++) {
+            if (used[i] == false) continue;
+            
+            append(podmn[index], M[i], used, i);
+            curVsota = curVsota + M[i];
+
+            if (curVsota == vsota) {
+            razbitje (n, k-1, K, M, podmn,
+                        index+1, used, 0, vsota, 0);
         } else if (curVsota < vsota){
-            razbitje(n, k, K, M, podmn, index, used, i+1, vsota, curVsota);
+            razbitje(n, k, K, M, podmn,
+                        index, used, i+1, vsota, curVsota);
         }
 
         curVsota = curVsota - M[i];
         back(podmn[index], used, i);
     }
+    }
+
+
 
 }
 
