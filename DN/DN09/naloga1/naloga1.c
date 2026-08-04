@@ -9,18 +9,10 @@ int targetVsota(int* M, int n, int k);
 void append(int* podmn, int st, bool* used, int index);
 void back(int* podmn, bool* used, int index);
 
-bool jeVsota(int* podmn, int* M, int n, int k, int targetVsota) {
-    int vsota = 0; 
-    for (int i = 0; i < n; i++) { 
-        vsota = vsota + podmn[i]; 
-    } 
-    if (vsota == targetVsota) return true; 
-    else return false;
-}
-
 void izpis (int** podmn, int n, int k) {
     printf("{");
     for (int i = 0; i < k; i++) {
+        if (i > 0) printf(", ");
         printf("{");
 
         int len = 0;
@@ -81,6 +73,7 @@ int main () {
     }
 
     int vsota = targetVsota(M, n, k);
+    if (vsota == 0) return 0;
 
     razbitje(n, k, k, M, podmn, 0, used, 0, vsota, 0);
 
