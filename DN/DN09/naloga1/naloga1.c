@@ -5,58 +5,37 @@
 #include <string.h>
 #include <math.h>
 
-void append(int* podmn, int st, bool* used, int index) {
-    int i = 0;
-    while(podmn[i] != 0) i++;
-    podmn[i] = st;
-    used[index] = false;
-    return;
-}
+int targetVsota(int* M, int n, int k);
+void append(int* podmn, int st, bool* used, int index);
+void back(int* podmn, bool* used, int index);
 
-void back(int* podmn, bool* used, int index) {
-    int i = 0;
-    while(podmn[i] != 0) i++;
-    podmn[i-1] = 0;
-    used[index] = true;
-    return;
-}
-
-int targetVsota(int* M, int n, int k) {
-    int vsota = 0;
-    for (int i = 0; i < n; i++) {
-        vsota = vsota + M[i];
-    }
-
-    if (vsota % k != 0) return 0;
-
-    vsota = vsota / k;
-    return vsota;
-}
-
-bool jeVsota(int* podmn, int* M, int n, int k) {
+bool jeVsota(int* podmn, int* M, int n, int k, int targetVsota) {
     int vsota = 0; 
     for (int i = 0; i < n; i++) { 
         vsota = vsota + podmn[i]; 
     } 
-    if (vsota == targetVsota(M, n, k)) return true; 
+    if (vsota == targetVsota) return true; 
     else return false;
 }
 
 void izpis (int** podmn, int n, int k) {
+    printf("{");
     for (int i = 0; i < k; i++) {
         printf("{");
 
         int len = 0;
         while (podmn[i][len] != 0) len++;
-        for (int j = 0; j < len - 2; j++) {
-            printf("%d, ", podmn[i][j]);
+        for (int j = 0; j < len; j++) {
+            if (j > 0) printf(", ");
+            printf("%d", podmn[i][j]);
         }
 
-        printf("%d}}\n", podmn[i][len-1]);
+        printf("}");
     }
+    printf("}\n");
 }
 
-void razbitje(int n, int k, int K, int* M, int** podmn, int index, bool* used, int start) {
+void razbitje(int n, int k, int K, int* M, int** podmn, int index, bool* used, int start, int vsota, int curVsota) {
     if (k == 0) {
         izpis(podmn, n, K);
         return;
@@ -67,12 +46,15 @@ void razbitje(int n, int k, int K, int* M, int** podmn, int index, bool* used, i
         if (used[i] == false) continue;
 
         append(podmn[index], M[i], used, i);
-        if (jeVsota(podmn[index], M, n, K)) {
-            razbitje (n, k-1, K, M, podmn, index+1, used, 0);
-        } else {
-            razbitje(n, k, K, M, podmn, index, used, i+1);
+        curVsota = curVsota + M[i];
+
+        if (curVsota == vsota) {
+            razbitje (n, k-1, K, M, podmn, index+1, used, 0, vsota, 0);
+        } else if (curVsota < vsota){
+            razbitje(n, k, K, M, podmn, index, used, i+1, vsota, curVsota);
         }
 
+        curVsota = curVsota - M[i];
         back(podmn[index], used, i);
     }
 
@@ -96,11 +78,45 @@ int main () {
     bool used[n];
     for (int i = 0; i < n; i++) {
         used[i] = true;
-    } 
-    razbitje(n, k, k, M, podmn, 0, used, 0);
+    }
+
+    int vsota = targetVsota(M, n, k);
+
+    razbitje(n, k, k, M, podmn, 0, used, 0, vsota, 0);
 
     free(M);
+    for (int i = 0; i < k; i++)
+        free(podmn[i]);
+
     free(podmn);
 
     return 0;
+}
+
+int targetVsota(int* M, int n, int k) {
+    int vsota = 0;
+    for (int i = 0; i < n; i++) {
+        vsota = vsota + M[i];
+    }
+
+    if (vsota % k != 0) return 0;
+
+    vsota = vsota / k;
+    return vsota;
+}
+
+void append(int* podmn, int st, bool* used, int index) {
+    int i = 0;
+    while(podmn[i] != 0) i++;
+    podmn[i] = st;
+    used[index] = false;
+    return;
+}
+
+void back(int* podmn, bool* used, int index) {
+    int i = 0;
+    while(podmn[i] != 0) i++;
+    podmn[i-1] = 0;
+    used[index] = true;
+    return;
 }
