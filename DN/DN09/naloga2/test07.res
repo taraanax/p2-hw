@@ -1,147 +1,1960 @@
-Slon gleda leva.
-Slon gleda psa.
-Slon gleda muco.
-Slon gleda tigra.
-Slon gleda ribo.
-Slon gleda zajca.
-Slon lovi leva.
-Slon lovi psa.
-Slon lovi muco.
-Slon lovi tigra.
-Slon lovi ribo.
-Slon lovi zajca.
-Slon hrani leva.
-Slon hrani psa.
-Slon hrani muco.
-Slon hrani tigra.
-Slon hrani ribo.
-Slon hrani zajca.
-Slon vidi leva.
-Slon vidi psa.
-Slon vidi muco.
-Slon vidi tigra.
-Slon vidi ribo.
-Slon vidi zajca.
-Slon prebuja leva.
-Slon prebuja psa.
-Slon prebuja muco.
-Slon prebuja tigra.
-Slon prebuja ribo.
-Slon prebuja zajca.
-Slon pozdravlja leva.
-Slon pozdravlja psa.
-Slon pozdravlja muco.
-Slon pozdravlja tigra.
-Slon pozdravlja ribo.
-Slon pozdravlja zajca.
-Slon objema leva.
-Slon objema psa.
-Slon objema muco.
-Slon objema tigra.
-Slon objema ribo.
-Slon objema zajca.
-Lev gleda psa.
-Lev gleda muco.
-Lev gleda tigra.
-Lev gleda ribo.
-Lev gleda zajca.
-Lev lovi psa.
-Lev lovi muco.
-Lev lovi tigra.
-Lev lovi ribo.
-Lev lovi zajca.
-Lev hrani psa.
-Lev hrani muco.
-Lev hrani tigra.
-Lev hrani ribo.
-Lev hrani zajca.
-Lev vidi psa.
-Lev vidi muco.
-Lev vidi tigra.
-Lev vidi ribo.
-Lev vidi zajca.
-Lev prebuja psa.
-Lev prebuja muco.
-Lev prebuja tigra.
-Lev prebuja ribo.
-Lev prebuja zajca.
-Lev pozdravlja psa.
-Lev pozdravlja muco.
-Lev pozdravlja tigra.
-Lev pozdravlja ribo.
-Lev pozdravlja zajca.
-Lev objema psa.
-Lev objema muco.
-Lev objema tigra.
-Lev objema ribo.
-Lev objema zajca.
-Pes gleda muco.
-Pes gleda tigra.
-Pes gleda ribo.
-Pes gleda zajca.
-Pes lovi muco.
-Pes lovi tigra.
-Pes lovi ribo.
-Pes lovi zajca.
-Pes hrani muco.
-Pes hrani tigra.
-Pes hrani ribo.
-Pes hrani zajca.
-Pes vidi muco.
-Pes vidi tigra.
-Pes vidi ribo.
-Pes vidi zajca.
-Pes prebuja muco.
-Pes prebuja tigra.
-Pes prebuja ribo.
-Pes prebuja zajca.
-Pes pozdravlja muco.
-Pes pozdravlja tigra.
-Pes pozdravlja ribo.
-Pes pozdravlja zajca.
-Pes objema muco.
-Pes objema tigra.
-Pes objema ribo.
-Pes objema zajca.
-Muca gleda tigra.
-Muca gleda ribo.
-Muca gleda zajca.
-Muca lovi tigra.
-Muca lovi ribo.
-Muca lovi zajca.
-Muca hrani tigra.
-Muca hrani ribo.
-Muca hrani zajca.
-Muca vidi tigra.
-Muca vidi ribo.
-Muca vidi zajca.
-Muca prebuja tigra.
-Muca prebuja ribo.
-Muca prebuja zajca.
-Muca pozdravlja tigra.
-Muca pozdravlja ribo.
-Muca pozdravlja zajca.
-Muca objema tigra.
-Muca objema ribo.
-Muca objema zajca.
-Tiger gleda ribo.
-Tiger gleda zajca.
-Tiger lovi ribo.
-Tiger lovi zajca.
-Tiger hrani ribo.
-Tiger hrani zajca.
-Tiger vidi ribo.
-Tiger vidi zajca.
-Tiger prebuja ribo.
-Tiger prebuja zajca.
-Tiger pozdravlja ribo.
-Tiger pozdravlja zajca.
-Tiger objema ribo.
-Tiger objema zajca.
-Riba gleda zajca.
-Riba lovi zajca.
-Riba hrani zajca.
-Riba vidi zajca.
-Riba prebuja zajca.
-Riba pozdravlja zajca.
-Riba objema zajca.
+slon, ki slon, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucotigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigraribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigraribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucoribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucotigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucotigraribo.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigraribo.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigraribo.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigraribo.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucoribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucoribo.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucotigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigrazajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigrazajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucotigra.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucotigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigraribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigraribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucoribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucotigra.
+.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigraribo.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  tigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  mucoribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  mucotigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribo.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  tigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  psaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  psatigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribo.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  mucoribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  psaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  psamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribo.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  mucotigrazajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  psatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  psamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigra.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigra.
+.
+.
+psa, ki pes, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigraribo.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  tigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  mucoribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  mucotigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribo.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  tigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levatigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribo.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  mucoribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribo.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  mucotigrazajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigra.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigra.
+.
+.
+muco, ki muca, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigraribo.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  tigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  psaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  psatigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribo.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  tigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levatigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribo.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psaribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribo.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psatigrazajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigra.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigra.
+.
+.
+tigra, ki tiger, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucoribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucoribo.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  mucoribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  psaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  psamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribo.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  mucoribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribo.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psaribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribo.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsamuco.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucoribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsamuco.
+.
+.
+ribo, ki riba, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucotigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigrazajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigrazajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucotigra.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  mucotigrazajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  psatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  psamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigra.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  mucotigrazajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigra.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psatigrazajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigra.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsamuco.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucotigra.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigra.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigra.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigra.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsamuco.
+.
+.
+zajca, ki zajec, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucotigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigraribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigraribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucoribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucotigra.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigra.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigra.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigra.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucoribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsamuco.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucotigra.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigra.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigra.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigra.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsamuco.
+.
+.
+.
+lev, ki lev, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucotigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigraribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigraribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucoribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucotigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucotigraribo.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigraribo.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigraribo.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigraribo.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucoribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucoribo.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucotigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigrazajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigrazajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucotigra.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucotigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigraribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigraribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucoribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucotigra.
+.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigraribo.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  tigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  mucoribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  mucotigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribo.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  tigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  psaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  psatigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribo.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  mucoribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  psaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  psamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribo.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  mucotigrazajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  psatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  psamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigra.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigra.
+.
+.
+psa, ki pes, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigraribo.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  tigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  mucoribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  mucotigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribo.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  tigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonatigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribo.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  mucoribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribo.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  mucotigrazajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigra.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigra.
+.
+.
+muco, ki muca, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigraribo.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  tigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  psaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  psatigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribo.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  tigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonatigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribo.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psaribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribo.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psatigrazajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigra.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigra.
+.
+.
+tigra, ki tiger, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucoribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucoribo.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  mucoribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  psaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  psamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribo.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  mucoribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribo.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psaribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribo.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamuco.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucoribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamuco.
+.
+.
+ribo, ki riba, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucotigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigrazajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigrazajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucotigra.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  mucotigrazajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  psatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  psamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigra.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  mucotigrazajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigra.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psatigrazajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigra.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamuco.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucotigra.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigra.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigra.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigra.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamuco.
+.
+.
+zajca, ki zajec, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucotigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigraribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigraribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucoribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucotigra.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigra.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigra.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigra.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucoribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamuco.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucotigra.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigra.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigra.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigra.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamuco.
+.
+.
+.
+pes, ki pes, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucotigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigraribozajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigraribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucoribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucotigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucotigraribo.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigraribo.
+.
+leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigraribo.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribozajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigraribo.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucoribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribozajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucoribo.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucotigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigrazajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigrazajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucotigra.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucotigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigraribo.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigraribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucoribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucotigra.
+.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigraribo.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  tigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  mucoribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  mucotigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribo.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  tigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levatigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribo.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  mucoribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribo.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  mucotigrazajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigra.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigra.
+.
+.
+leva, ki lev, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigraribo.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  tigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  mucoribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  mucotigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribo.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  tigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonatigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribo.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  mucoribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribo.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  mucotigrazajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigra.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigra.
+.
+.
+muco, ki muca, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribozajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigraribo.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  tigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levatigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribo.
+.
+leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  tigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonatigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribo.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levaribozajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribo.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levatigrazajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigra.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribo.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigra.
+.
+.
+tigra, ki tiger, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucoribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribozajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucoribo.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  mucoribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribo.
+.
+leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  mucoribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribo.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levaribozajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribo.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucozajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamuco.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucoribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribo.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamuco.
+.
+.
+ribo, ki riba, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucotigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigrazajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigrazajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucotigra.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  mucotigrazajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigra.
+.
+leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  mucotigrazajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigra.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levatigrazajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigra.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucozajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamuco.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucotigra.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigra.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigra.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigra.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamuco.
+.
+.
+zajca, ki zajec, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucotigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigraribo.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigraribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucoribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucotigra.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigra.
+.
+leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigra.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribo.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigra.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucoribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribo.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamuco.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucotigra.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigra.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigra.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigra.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamuco.
+.
+.
+.
+muca, ki muca, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsatigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigraribozajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigraribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsatigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsatigraribo.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigraribo.
+.
+leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigraribo.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribozajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigraribo.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsaribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribozajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsaribo.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsatigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigrazajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigrazajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsatigra.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsatigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigraribo.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigraribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsatigra.
+.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigraribo.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  tigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  psaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  psatigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribo.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  tigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levatigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribo.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psaribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribo.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psatigrazajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigra.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigra.
+.
+.
+leva, ki lev, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigraribo.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  tigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  psaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  psatigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribo.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  tigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonatigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribo.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psaribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribo.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psatigrazajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigra.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigra.
+.
+.
+psa, ki pes, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribozajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigraribo.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  tigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levatigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribo.
+.
+leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  tigraribozajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonatigrazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribo.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levaribozajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribo.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levatigrazajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigra.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribo.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigra.
+.
+.
+tigra, ki tiger, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsaribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribozajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsaribo.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psaribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribo.
+.
+leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psaribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribo.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levaribozajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribo.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsazajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsazajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsa.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsaribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribo.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsa.
+.
+.
+ribo, ki riba, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsatigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigrazajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigrazajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsatigra.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psatigrazajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigra.
+.
+leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psatigrazajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigra.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levatigrazajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigra.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsazajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsazajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsa.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsatigra.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigra.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigra.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigra.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsa.
+.
+.
+zajca, ki zajec, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsatigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigraribo.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigraribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsatigra.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigra.
+.
+leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigra.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribo.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigra.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsaribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribo.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsa.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsatigra.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigra.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigra.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigra.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsa.
+.
+.
+.
+tiger, ki tiger, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamucoribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucoribozajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucoribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucoribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamucoribo.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucoribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucoribo.
+.
+leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucoribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucoribo.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucoribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribozajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucoribo.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsaribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribozajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsaribo.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamucozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucozajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamuco.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamucoribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucoribo.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucoribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucoribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamuco.
+.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucoribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucoribo.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  mucoribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  psaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  psamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribo.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  mucoribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribo.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psaribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribo.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsamuco.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucoribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsamuco.
+.
+.
+leva, ki lev, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucoribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucoribo.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  mucoribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  psaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  psamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribo.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  mucoribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribo.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psaribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribo.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamuco.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucoribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamuco.
+.
+.
+psa, ki pes, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucoribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribozajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucoribo.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  mucoribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribo.
+.
+leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  mucoribozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribo.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levaribozajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribo.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucozajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamuco.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucoribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribo.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamuco.
+.
+.
+muco, ki muca, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsaribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribozajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsaribo.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psaribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribo.
+.
+leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psaribozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribo.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levaribozajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonaribozajca.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribo.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsazajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsazajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsa.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsaribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribo.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsa.
+.
+.
+ribo, ki riba, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamucozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucozajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamuco.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsamuco.
+.
+leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamuco.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucozajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamuco.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsazajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsazajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsa.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamuco.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamuco.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamuco.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamuco.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsa.
+.
+.
+zajca, ki zajec, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamucoribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucoribo.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucoribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucoribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamuco.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucoribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsamuco.
+.
+leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucoribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamuco.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucoribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribo.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamuco.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsaribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribo.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsa.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamuco.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamuco.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamuco.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamuco.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsa.
+.
+.
+.
+riba, ki riba, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamucotigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucotigrazajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucotigrazajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucotigrazajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamucotigra.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucotigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigrazajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigrazajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucotigra.
+.
+leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucotigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigrazajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigrazajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucotigra.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucotigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigrazajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigrazajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucotigra.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsatigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigrazajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigrazajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsatigra.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamucozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucozajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamuco.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamucotigra.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucotigra.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucotigra.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucotigra.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsatigra.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamuco.
+.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucotigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigrazajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigrazajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucotigra.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  mucotigrazajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  psatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  psamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigra.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  mucotigrazajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigra.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psatigrazajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigra.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsamuco.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucotigra.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigra.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigra.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigra.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsamuco.
+.
+.
+leva, ki lev, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucotigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigrazajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigrazajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucotigra.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  mucotigrazajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  psatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  psamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigra.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  mucotigrazajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigra.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psatigrazajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigra.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamuco.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucotigra.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigra.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigra.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigra.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamuco.
+.
+.
+psa, ki pes, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucotigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigrazajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigrazajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucotigra.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  mucotigrazajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigra.
+.
+leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  mucotigrazajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonamucozajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigra.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levatigrazajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigra.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucozajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamuco.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucotigra.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigra.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigra.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigra.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamuco.
+.
+.
+muco, ki muca, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsatigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigrazajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigrazajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsatigra.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psatigrazajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigra.
+.
+leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psatigrazajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigra.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigrazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levatigrazajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonatigrazajca.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigra.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsazajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsazajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsa.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsatigra.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigra.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigra.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigra.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsa.
+.
+.
+tigra, ki tiger, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamucozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucozajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamuco.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  levapsamuco.
+.
+leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucozajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamuco.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucozajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucozajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucozajca.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamuco.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsazajca.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsazajca.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsazajca.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevazajca.
+zajca, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsa.
+.
+zajca, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamuco.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamuco.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamuco.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamuco.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsa.
+.
+.
+zajca, ki zajec, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamucotigra.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucotigra.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucotigra.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucotigra.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsatigra.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamuco.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucotigra.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigra.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigra.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigra.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsamuco.
+.
+leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucotigra.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigra.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigra.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigra.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamuco.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucotigra.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigra.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigra.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigra.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamuco.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsatigra.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigra.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigra.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigra.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsa.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamuco.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamuco.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamuco.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamuco.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsa.
+.
+.
+.
+zajec, ki zajec, ki zajec, ki zajec gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamucotigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucotigraribo.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucotigraribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucotigraribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamucoribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamucotigra.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucotigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigraribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigraribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucoribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucotigra.
+.
+leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucotigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigraribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigraribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucoribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucotigra.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucotigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigraribo.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigraribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucoribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucotigra.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsatigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigraribo.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigraribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsatigra.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamucoribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucoribo.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucoribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucoribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamuco.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamucotigra.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucotigra.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucotigra.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucotigra.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsatigra.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamuco.
+.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucotigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigraribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigraribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucoribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucotigra.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigra.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigra.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigra.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucoribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsamuco.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucotigra.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigra.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigra.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigra.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsamuco.
+.
+.
+leva, ki lev, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucotigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigraribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigraribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucoribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucotigra.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigra.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigra.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigra.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucoribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamuco.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucotigra.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigra.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigra.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigra.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamuco.
+.
+.
+psa, ki pes, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucotigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigraribo.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigraribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucoribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucotigra.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigra.
+.
+leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  mucotigraribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigra.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribo.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigra.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucoribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribo.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamuco.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucotigra.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigra.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigra.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigra.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamuco.
+.
+.
+muco, ki muca, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsatigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigraribo.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigraribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsatigra.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigra.
+.
+leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psatigraribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigra.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigraribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levatigraribo.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonatigraribo.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigra.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsaribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribo.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsa.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsatigra.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigra.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigra.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigra.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsa.
+.
+.
+tigra, ki tiger, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamucoribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucoribo.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucoribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucoribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamuco.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucoribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  levapsamuco.
+.
+leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucoribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucoribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamuco.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucoribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucoribo.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucoribo.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamuco.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsaribo.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsaribo.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsaribo.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevaribo.
+ribo, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsa.
+.
+ribo, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamuco.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamuco.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamuco.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamuco.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsa.
+.
+.
+ribo, ki riba, ki riba, ki riba gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamucotigra.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucotigra.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucotigra.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucotigra.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsatigra.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamuco.
+.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamucotigra.
+ gleda lovi hrani vidi prebuja pozdravlja objema  leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigra.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigra.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigra.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  levapsamuco.
+.
+leva, ki lev, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamucotigra.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  psamucotigra.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigra.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigra.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamuco.
+.
+psa, ki pes, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamucotigra.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levamucotigra.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonamucotigra.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigra.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamuco.
+.
+muco, ki muca, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsatigra.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsatigra.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsatigra.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevatigra.
+tigra, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsa.
+.
+tigra, ki tiger, ki tiger gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsamuco.
+ gleda lovi hrani vidi prebuja pozdravlja objema  slona, ki slon gleda lovi hrani vidi prebuja pozdravlja objema  levapsamuco.
+leva, ki lev gleda lovi hrani vidi prebuja pozdravlja objema  slonapsamuco.
+psa, ki pes gleda lovi hrani vidi prebuja pozdravlja objema  slonalevamuco.
+muco, ki muca gleda lovi hrani vidi prebuja pozdravlja objema  slonalevapsa.
+.
+.
+.

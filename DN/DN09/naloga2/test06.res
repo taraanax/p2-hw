@@ -1,324 +1,90 @@
-Jazbec vidi medveda.
-Jazbec vidi srno.
-Jazbec vidi netopirja.
-Jazbec vidi krta.
-Jazbec vidi pujsa.
-Jazbec vidi kuro.
-Jazbec vidi lastovico.
-Jazbec vidi tigra.
-Jazbec gleda medveda.
-Jazbec gleda srno.
-Jazbec gleda netopirja.
-Jazbec gleda krta.
-Jazbec gleda pujsa.
-Jazbec gleda kuro.
-Jazbec gleda lastovico.
-Jazbec gleda tigra.
-Jazbec opazuje medveda.
-Jazbec opazuje srno.
-Jazbec opazuje netopirja.
-Jazbec opazuje krta.
-Jazbec opazuje pujsa.
-Jazbec opazuje kuro.
-Jazbec opazuje lastovico.
-Jazbec opazuje tigra.
-Jazbec hrani medveda.
-Jazbec hrani srno.
-Jazbec hrani netopirja.
-Jazbec hrani krta.
-Jazbec hrani pujsa.
-Jazbec hrani kuro.
-Jazbec hrani lastovico.
-Jazbec hrani tigra.
-Jazbec nagovarja medveda.
-Jazbec nagovarja srno.
-Jazbec nagovarja netopirja.
-Jazbec nagovarja krta.
-Jazbec nagovarja pujsa.
-Jazbec nagovarja kuro.
-Jazbec nagovarja lastovico.
-Jazbec nagovarja tigra.
-Jazbec razume medveda.
-Jazbec razume srno.
-Jazbec razume netopirja.
-Jazbec razume krta.
-Jazbec razume pujsa.
-Jazbec razume kuro.
-Jazbec razume lastovico.
-Jazbec razume tigra.
-Jazbec opozarja medveda.
-Jazbec opozarja srno.
-Jazbec opozarja netopirja.
-Jazbec opozarja krta.
-Jazbec opozarja pujsa.
-Jazbec opozarja kuro.
-Jazbec opozarja lastovico.
-Jazbec opozarja tigra.
-Jazbec svari medveda.
-Jazbec svari srno.
-Jazbec svari netopirja.
-Jazbec svari krta.
-Jazbec svari pujsa.
-Jazbec svari kuro.
-Jazbec svari lastovico.
-Jazbec svari tigra.
-Jazbec lovi medveda.
-Jazbec lovi srno.
-Jazbec lovi netopirja.
-Jazbec lovi krta.
-Jazbec lovi pujsa.
-Jazbec lovi kuro.
-Jazbec lovi lastovico.
-Jazbec lovi tigra.
-Medved vidi srno.
-Medved vidi netopirja.
-Medved vidi krta.
-Medved vidi pujsa.
-Medved vidi kuro.
-Medved vidi lastovico.
-Medved vidi tigra.
-Medved gleda srno.
-Medved gleda netopirja.
-Medved gleda krta.
-Medved gleda pujsa.
-Medved gleda kuro.
-Medved gleda lastovico.
-Medved gleda tigra.
-Medved opazuje srno.
-Medved opazuje netopirja.
-Medved opazuje krta.
-Medved opazuje pujsa.
-Medved opazuje kuro.
-Medved opazuje lastovico.
-Medved opazuje tigra.
-Medved hrani srno.
-Medved hrani netopirja.
-Medved hrani krta.
-Medved hrani pujsa.
-Medved hrani kuro.
-Medved hrani lastovico.
-Medved hrani tigra.
-Medved nagovarja srno.
-Medved nagovarja netopirja.
-Medved nagovarja krta.
-Medved nagovarja pujsa.
-Medved nagovarja kuro.
-Medved nagovarja lastovico.
-Medved nagovarja tigra.
-Medved razume srno.
-Medved razume netopirja.
-Medved razume krta.
-Medved razume pujsa.
-Medved razume kuro.
-Medved razume lastovico.
-Medved razume tigra.
-Medved opozarja srno.
-Medved opozarja netopirja.
-Medved opozarja krta.
-Medved opozarja pujsa.
-Medved opozarja kuro.
-Medved opozarja lastovico.
-Medved opozarja tigra.
-Medved svari srno.
-Medved svari netopirja.
-Medved svari krta.
-Medved svari pujsa.
-Medved svari kuro.
-Medved svari lastovico.
-Medved svari tigra.
-Medved lovi srno.
-Medved lovi netopirja.
-Medved lovi krta.
-Medved lovi pujsa.
-Medved lovi kuro.
-Medved lovi lastovico.
-Medved lovi tigra.
-Srna vidi netopirja.
-Srna vidi krta.
-Srna vidi pujsa.
-Srna vidi kuro.
-Srna vidi lastovico.
-Srna vidi tigra.
-Srna gleda netopirja.
-Srna gleda krta.
-Srna gleda pujsa.
-Srna gleda kuro.
-Srna gleda lastovico.
-Srna gleda tigra.
-Srna opazuje netopirja.
-Srna opazuje krta.
-Srna opazuje pujsa.
-Srna opazuje kuro.
-Srna opazuje lastovico.
-Srna opazuje tigra.
-Srna hrani netopirja.
-Srna hrani krta.
-Srna hrani pujsa.
-Srna hrani kuro.
-Srna hrani lastovico.
-Srna hrani tigra.
-Srna nagovarja netopirja.
-Srna nagovarja krta.
-Srna nagovarja pujsa.
-Srna nagovarja kuro.
-Srna nagovarja lastovico.
-Srna nagovarja tigra.
-Srna razume netopirja.
-Srna razume krta.
-Srna razume pujsa.
-Srna razume kuro.
-Srna razume lastovico.
-Srna razume tigra.
-Srna opozarja netopirja.
-Srna opozarja krta.
-Srna opozarja pujsa.
-Srna opozarja kuro.
-Srna opozarja lastovico.
-Srna opozarja tigra.
-Srna svari netopirja.
-Srna svari krta.
-Srna svari pujsa.
-Srna svari kuro.
-Srna svari lastovico.
-Srna svari tigra.
-Srna lovi netopirja.
-Srna lovi krta.
-Srna lovi pujsa.
-Srna lovi kuro.
-Srna lovi lastovico.
-Srna lovi tigra.
-Netopir vidi krta.
-Netopir vidi pujsa.
-Netopir vidi kuro.
-Netopir vidi lastovico.
-Netopir vidi tigra.
-Netopir gleda krta.
-Netopir gleda pujsa.
-Netopir gleda kuro.
-Netopir gleda lastovico.
-Netopir gleda tigra.
-Netopir opazuje krta.
-Netopir opazuje pujsa.
-Netopir opazuje kuro.
-Netopir opazuje lastovico.
-Netopir opazuje tigra.
-Netopir hrani krta.
-Netopir hrani pujsa.
-Netopir hrani kuro.
-Netopir hrani lastovico.
-Netopir hrani tigra.
-Netopir nagovarja krta.
-Netopir nagovarja pujsa.
-Netopir nagovarja kuro.
-Netopir nagovarja lastovico.
-Netopir nagovarja tigra.
-Netopir razume krta.
-Netopir razume pujsa.
-Netopir razume kuro.
-Netopir razume lastovico.
-Netopir razume tigra.
-Netopir opozarja krta.
-Netopir opozarja pujsa.
-Netopir opozarja kuro.
-Netopir opozarja lastovico.
-Netopir opozarja tigra.
-Netopir svari krta.
-Netopir svari pujsa.
-Netopir svari kuro.
-Netopir svari lastovico.
-Netopir svari tigra.
-Netopir lovi krta.
-Netopir lovi pujsa.
-Netopir lovi kuro.
-Netopir lovi lastovico.
-Netopir lovi tigra.
-Krt vidi pujsa.
-Krt vidi kuro.
-Krt vidi lastovico.
-Krt vidi tigra.
-Krt gleda pujsa.
-Krt gleda kuro.
-Krt gleda lastovico.
-Krt gleda tigra.
-Krt opazuje pujsa.
-Krt opazuje kuro.
-Krt opazuje lastovico.
-Krt opazuje tigra.
-Krt hrani pujsa.
-Krt hrani kuro.
-Krt hrani lastovico.
-Krt hrani tigra.
-Krt nagovarja pujsa.
-Krt nagovarja kuro.
-Krt nagovarja lastovico.
-Krt nagovarja tigra.
-Krt razume pujsa.
-Krt razume kuro.
-Krt razume lastovico.
-Krt razume tigra.
-Krt opozarja pujsa.
-Krt opozarja kuro.
-Krt opozarja lastovico.
-Krt opozarja tigra.
-Krt svari pujsa.
-Krt svari kuro.
-Krt svari lastovico.
-Krt svari tigra.
-Krt lovi pujsa.
-Krt lovi kuro.
-Krt lovi lastovico.
-Krt lovi tigra.
-Pujs vidi kuro.
-Pujs vidi lastovico.
-Pujs vidi tigra.
-Pujs gleda kuro.
-Pujs gleda lastovico.
-Pujs gleda tigra.
-Pujs opazuje kuro.
-Pujs opazuje lastovico.
-Pujs opazuje tigra.
-Pujs hrani kuro.
-Pujs hrani lastovico.
-Pujs hrani tigra.
-Pujs nagovarja kuro.
-Pujs nagovarja lastovico.
-Pujs nagovarja tigra.
-Pujs razume kuro.
-Pujs razume lastovico.
-Pujs razume tigra.
-Pujs opozarja kuro.
-Pujs opozarja lastovico.
-Pujs opozarja tigra.
-Pujs svari kuro.
-Pujs svari lastovico.
-Pujs svari tigra.
-Pujs lovi kuro.
-Pujs lovi lastovico.
-Pujs lovi tigra.
-Kura vidi lastovico.
-Kura vidi tigra.
-Kura gleda lastovico.
-Kura gleda tigra.
-Kura opazuje lastovico.
-Kura opazuje tigra.
-Kura hrani lastovico.
-Kura hrani tigra.
-Kura nagovarja lastovico.
-Kura nagovarja tigra.
-Kura razume lastovico.
-Kura razume tigra.
-Kura opozarja lastovico.
-Kura opozarja tigra.
-Kura svari lastovico.
-Kura svari tigra.
-Kura lovi lastovico.
-Kura lovi tigra.
-Lastovica vidi tigra.
-Lastovica gleda tigra.
-Lastovica opazuje tigra.
-Lastovica hrani tigra.
-Lastovica nagovarja tigra.
-Lastovica razume tigra.
-Lastovica opozarja tigra.
-Lastovica svari tigra.
-Lastovica lovi tigra.
+jazbec, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  medvedasrnonetopirjakrtapujsakurolastovicotigra.
+ vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  srnonetopirjakrtapujsakurolastovicotigra.
+srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  medvedanetopirjakrtapujsakurolastovicotigra.
+netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  medvedasrnokrtapujsakurolastovicotigra.
+krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  medvedasrnonetopirjapujsakurolastovicotigra.
+pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  medvedasrnonetopirjakrtakurolastovicotigra.
+kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  medvedasrnonetopirjakrtapujsalastovicotigra.
+lastovico, ki lastovica vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  medvedasrnonetopirjakrtapujsakurotigra.
+tigra, ki tiger vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  medvedasrnonetopirjakrtapujsakurolastovico.
+.
+medved, ki medved vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecasrnonetopirjakrtapujsakurolastovicotigra.
+ vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  srnonetopirjakrtapujsakurolastovicotigra.
+srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecanetopirjakrtapujsakurolastovicotigra.
+netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecasrnokrtapujsakurolastovicotigra.
+krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecasrnonetopirjapujsakurolastovicotigra.
+pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecasrnonetopirjakrtakurolastovicotigra.
+kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecasrnonetopirjakrtapujsalastovicotigra.
+lastovico, ki lastovica vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecasrnonetopirjakrtapujsakurotigra.
+tigra, ki tiger vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecasrnonetopirjakrtapujsakurolastovico.
+.
+srna, ki srna vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedanetopirjakrtapujsakurolastovicotigra.
+ vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  medvedanetopirjakrtapujsakurolastovicotigra.
+medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecanetopirjakrtapujsakurolastovicotigra.
+netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedakrtapujsakurolastovicotigra.
+krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedanetopirjapujsakurolastovicotigra.
+pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedanetopirjakrtakurolastovicotigra.
+kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedanetopirjakrtapujsalastovicotigra.
+lastovico, ki lastovica vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedanetopirjakrtapujsakurotigra.
+tigra, ki tiger vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedanetopirjakrtapujsakurolastovico.
+.
+netopir, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnokrtapujsakurolastovicotigra.
+ vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  medvedasrnokrtapujsakurolastovicotigra.
+medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecasrnokrtapujsakurolastovicotigra.
+srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedakrtapujsakurolastovicotigra.
+krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnopujsakurolastovicotigra.
+pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnokrtakurolastovicotigra.
+kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnokrtapujsalastovicotigra.
+lastovico, ki lastovica vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnokrtapujsakurotigra.
+tigra, ki tiger vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnokrtapujsakurolastovico.
+.
+krt, ki krt vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnonetopirjapujsakurolastovicotigra.
+ vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  medvedasrnonetopirjapujsakurolastovicotigra.
+medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecasrnonetopirjapujsakurolastovicotigra.
+srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedanetopirjapujsakurolastovicotigra.
+netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnopujsakurolastovicotigra.
+pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnonetopirjakurolastovicotigra.
+kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnonetopirjapujsalastovicotigra.
+lastovico, ki lastovica vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnonetopirjapujsakurotigra.
+tigra, ki tiger vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnonetopirjapujsakurolastovico.
+.
+pujs, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnonetopirjakrtakurolastovicotigra.
+ vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  medvedasrnonetopirjakrtakurolastovicotigra.
+medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecasrnonetopirjakrtakurolastovicotigra.
+srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedanetopirjakrtakurolastovicotigra.
+netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnokrtakurolastovicotigra.
+krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnonetopirjakurolastovicotigra.
+kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnonetopirjakrtalastovicotigra.
+lastovico, ki lastovica vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnonetopirjakrtakurotigra.
+tigra, ki tiger vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnonetopirjakrtakurolastovico.
+.
+kura, ki kura vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnonetopirjakrtapujsalastovicotigra.
+ vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  medvedasrnonetopirjakrtapujsalastovicotigra.
+medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecasrnonetopirjakrtapujsalastovicotigra.
+srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedanetopirjakrtapujsalastovicotigra.
+netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnokrtapujsalastovicotigra.
+krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnonetopirjapujsalastovicotigra.
+pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnonetopirjakrtalastovicotigra.
+lastovico, ki lastovica vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnonetopirjakrtapujsatigra.
+tigra, ki tiger vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnonetopirjakrtapujsalastovico.
+.
+lastovica, ki lastovica vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnonetopirjakrtapujsakurotigra.
+ vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  medvedasrnonetopirjakrtapujsakurotigra.
+medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecasrnonetopirjakrtapujsakurotigra.
+srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedanetopirjakrtapujsakurotigra.
+netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnokrtapujsakurotigra.
+krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnonetopirjapujsakurotigra.
+pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnonetopirjakrtakurotigra.
+kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnonetopirjakrtapujsatigra.
+tigra, ki tiger vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnonetopirjakrtapujsakuro.
+.
+tiger, ki tiger vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnonetopirjakrtapujsakurolastovico.
+ vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbeca, ki jazbec vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  medvedasrnonetopirjakrtapujsakurolastovico.
+medveda, ki medved vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecasrnonetopirjakrtapujsakurolastovico.
+srno, ki srna vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedanetopirjakrtapujsakurolastovico.
+netopirja, ki netopir vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnokrtapujsakurolastovico.
+krta, ki krt vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnonetopirjapujsakurolastovico.
+pujsa, ki pujs vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnonetopirjakrtakurolastovico.
+kuro, ki kura vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnonetopirjakrtapujsalastovico.
+lastovico, ki lastovica vidi gleda opazuje hrani nagovarja razume opozarja svari lovi  jazbecamedvedasrnonetopirjakrtapujsakuro.
+.

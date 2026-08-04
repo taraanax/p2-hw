@@ -1,1 +1,2 @@
-Medved vidi srno.
+medved vidi  srno.
+srna vidi  medveda.
