@@ -6,6 +6,19 @@
 
 #include "naloga1.h"
 
+int primerjava(const void *a, const void *b) {
+    VO* x = *(VO **)a;
+    VO* y = *(VO **)b;
+
+    if(x->ocena > y->ocena) return -1;
+    else if(x->ocena < y->ocena) return 1;
+    else {
+        if(x->vpisna < y->vpisna) return -1;
+        else if(x->vpisna > y->vpisna) return 1;
+    }
+    return 0;
+}
+
 VO** opravili(Student** studentje, int stStudentov, char* predmet, int* stVO) {
     
     VO** opravili = malloc(stStudentov * sizeof(VO*));
@@ -28,9 +41,15 @@ VO** opravili(Student** studentje, int stStudentov, char* predmet, int* stVO) {
     stVO[0] = k;
 
     //sortiranje
-    
+    VO** urejeno = malloc(k * sizeof(VO*));
+    for (int i = 0; i < k; i++) {
+        urejeno[i] = malloc(sizeof(VO));
+        urejeno[i] = opravili[i];
+    }
 
-    return opravili;
+    qsort(urejeno, k, sizeof(VO), primerjava);
+
+    return urejeno;
 }
 
 #ifndef test
