@@ -6,18 +6,7 @@
 
 #include "naloga1.h"
 
-int primerjava(const void *a, const void *b) {
-    VO* x = *(VO **)a;
-    VO* y = *(VO **)b;
-
-    if(x->ocena > y->ocena) return -1;
-    else if(x->ocena < y->ocena) return 1;
-    else {
-        if(x->vpisna < y->vpisna) return -1;
-        else if(x->vpisna > y->vpisna) return 1;
-    }
-    return 0;
-}
+int primerjava(const void *a, const void *b);
 
 VO** opravili(Student** studentje, int stStudentov, char* predmet, int* stVO) {
     
@@ -60,3 +49,16 @@ int main() {
 }
 
 #endif
+
+int primerjava(const void *a, const void *b) {
+    VO* x = *(VO **)a;
+    VO* y = *(VO **)b;
+
+    if(x->ocena > y->ocena) return -1;
+    else if(x->ocena < y->ocena) return 1;
+    else {
+        if(x->vpisna < y->vpisna) return -1;
+        else if(x->vpisna > y->vpisna) return 1;
+    }
+    return 0;
+}
