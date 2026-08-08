@@ -1,4 +1,4 @@
-# Ignore all .exe, .in and .out files
-*.exe
+*.res
 *.in
 *.out
+*.diff
