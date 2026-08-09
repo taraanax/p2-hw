@@ -6,15 +6,10 @@
 
 #include "naloga2.h"
 
-int UlomekToInt (Ulomek ulomek) {
-    return ulomek.st/ulomek.im;
-}
-
-Ulomek skupniIm (Ulomek ulomek, int a) {
-    ulomek.st = ulomek.st * a;
-    ulomek.im = ulomek.im * a;
-    return ulomek;
-}
+Ulomek sestej(Ulomek a, Ulomek b);
+Ulomek odstej(Ulomek a, Ulomek b);
+Ulomek pomnozi(Ulomek a, Ulomek b);
+Ulomek deli(Ulomek a, Ulomek b);
 
 Tocka projekcija(Tocka t, Premica p) {
     Ulomek x, y;
@@ -23,36 +18,16 @@ Tocka projekcija(Tocka t, Premica p) {
     x.im = 1;
     y.im = 1;
 
-    int tx = UlomekToInt(t.x);
-    int ty = UlomekToInt(t.y);
-    int k = UlomekToInt(p.k);
-    int n = UlomekToInt(p.n);
-
     if(p.navpicna)  {
         x = p.n;
         y = t.y;
         return (Tocka) {x, y};
     }
+    Ulomek ena;
+    ena.im = 1; ena.st = 1;
 
-    if(UlomekToInt(t.y) == (UlomekToInt(p.k) * UlomekToInt(t.x) + UlomekToInt(p.n))) {
-        x = t.x;
-        y = t.y;
-        return (Tocka) {x, y};
-    }
-
-    x.im = k*k + 1;
-    y.im = k*k + 1;
-
-    x.st = k*(k*tx - ty + n);
-    y.st = k*tx - ty + n;
-
-    x = skupniIm(x, t.x.im);
-    y = skupniIm(y, t.y.im);
-    t.x = skupniIm(t.x, k*k + 1);
-    t.y = skupniIm(t.y, k*k + 1);
-
-    x.st = t.x.st - x.st;
-    y.im = t.y.st + y.st;
+    x = odstej(t.x, deli (pomnozi(p.k, sestej(odstej(pomnozi(p.k, t.x), t.y), p.n)), sestej(pomnozi(p.k, p.k), ena)));
+    y = sestej(t.y, deli (sestej(odstej(pomnozi(p.k, t.x), t.y), p.n), sestej(pomnozi(p.k, p.k), ena)));
 
     return (Tocka) {x, y};
 }
@@ -64,3 +39,39 @@ int main() {
 }
 
 #endif
+
+Ulomek sestej(Ulomek a, Ulomek b) {
+    Ulomek r;
+
+    r.st = a.st * b.im + b.st * a.im;
+    r.im = a.im * b.im;
+
+    return r;
+}
+
+Ulomek odstej(Ulomek a, Ulomek b) {
+    Ulomek r;
+
+    r.st = a.st * b.im - b.st * a.im;
+    r.im = a.im * b.im;
+
+    return r;
+}
+
+Ulomek pomnozi(Ulomek a, Ulomek b) {
+    Ulomek r;
+
+    r.st = a.st * b.st;
+    r.im = a.im * b.im;
+
+    return r;
+}
+
+Ulomek deli(Ulomek a, Ulomek b) {
+    Ulomek r;
+
+    r.st = a.st * b.im;
+    r.im = a.im * b.st;
+
+    return r;
+}
