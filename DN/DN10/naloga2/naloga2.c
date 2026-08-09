@@ -94,5 +94,10 @@ Ulomek okrajsaj(Ulomek ulomek) {
     ulomek.st /= a;
     ulomek.im /= a;
 
+    if (ulomek.im < 0) {
+        ulomek.st *= -1;
+        ulomek.im *= -1;
+    }
+
     return ulomek;
 }
