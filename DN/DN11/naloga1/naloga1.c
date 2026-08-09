@@ -7,7 +7,14 @@
 #include "naloga1.h"
 
 Vozlisce* zdesetkaj(Vozlisce* zacetek, int k) {
-    // popravite / dopolnite ...
+    if (k == 1) return zacetek;
+
+    int i = k - 1;
+    while(zacetek->naslednje != NULL) {
+
+        i += k;
+    }
+    
     return NULL;
 }
 
