@@ -10,6 +10,7 @@ Ulomek sestej(Ulomek a, Ulomek b);
 Ulomek odstej(Ulomek a, Ulomek b);
 Ulomek pomnozi(Ulomek a, Ulomek b);
 Ulomek deli(Ulomek a, Ulomek b);
+Ulomek okrajsaj(Ulomek a);
 
 Tocka projekcija(Tocka t, Premica p) {
     Ulomek x, y;
@@ -28,6 +29,9 @@ Tocka projekcija(Tocka t, Premica p) {
 
     x = odstej(t.x, deli (pomnozi(p.k, sestej(odstej(pomnozi(p.k, t.x), t.y), p.n)), sestej(pomnozi(p.k, p.k), ena)));
     y = sestej(t.y, deli (sestej(odstej(pomnozi(p.k, t.x), t.y), p.n), sestej(pomnozi(p.k, p.k), ena)));
+
+    x = okrajsaj(x);
+    y = okrajsaj(y);
 
     return (Tocka) {x, y};
 }
@@ -74,4 +78,21 @@ Ulomek deli(Ulomek a, Ulomek b) {
     r.im = a.im * b.st;
 
     return r;
+}
+
+Ulomek okrajsaj(Ulomek ulomek) {
+
+    int a = ulomek.st;
+    int b = ulomek.im;
+
+    while (b != 0) {
+        int ostanek = a % b;
+        a = b;
+        b = ostanek;
+    }
+
+    ulomek.st /= a;
+    ulomek.im /= a;
+
+    return ulomek;
 }
