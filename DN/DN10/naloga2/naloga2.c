@@ -7,8 +7,13 @@
 #include "naloga2.h"
 
 Tocka projekcija(Tocka t, Premica p) {
-    // popravite / dopolnite ...
-    return (Tocka) { (Ulomek) {0, 1}, (Ulomek) {0, 1} };
+    Ulomek x, y;
+
+    if(p.navpicna)  {
+        x = p.n;
+        y = t.y;
+    }
+    return (Tocka) {x, y};
 }
 
 #ifndef test
