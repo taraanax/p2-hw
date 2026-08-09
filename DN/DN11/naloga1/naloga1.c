@@ -7,15 +7,34 @@
 #include "naloga1.h"
 
 Vozlisce* zdesetkaj(Vozlisce* zacetek, int k) {
-    if (k == 1) return zacetek;
+    if (k == 1 || zacetek == NULL) return zacetek;
 
-    int i = k - 1;
-    while(zacetek->naslednje != NULL) {
+    Vozlisce* curr = zacetek;
+    Vozlisce* prev = NULL;
 
-        i += k;
+    int i = 1;
+    while(curr != NULL) {
+        if (i % k != 0) {
+            
+            Vozlisce* temp1 = curr;
+            curr = curr->naslednje;
+
+            if (prev == NULL) {
+                zacetek = curr;
+            } else {
+                prev->naslednje = curr;
+            }
+
+            free(temp1);
+        } else {
+            prev = curr;
+            curr = curr->naslednje;
+        }
+
+        i++;
     }
     
-    return NULL;
+    return zacetek;
 }
 
 #ifndef test
