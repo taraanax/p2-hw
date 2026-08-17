@@ -14,6 +14,7 @@ int main (int argc, char *argv[]) {
     char vrstica[1000];
     int z = 0;
     bool oklepaj = false;
+
     while (fgets(vrstica, 1000, vhod) != NULL) {
 
         int presledki = 0;
@@ -26,23 +27,17 @@ int main (int argc, char *argv[]) {
             oklepaj = false;
         }
 
+        if (vrstica[presledki] == '}') {
+            if (z <= 0) z = 0;
+            else z -= 4;
+        }
+
         int i = 0;
         while(vrstica[i] != '\0') {
 
-            if (vrstica[i] == '{') {
-                if (vrstica[i + 1] == ' ') {
-                    i++;
-                    continue;
-                } else oklepaj = true;
-            }
-            if (vrstica[i] == '}') {
-                if (vrstica[i + 1] == '\0') {
-                    i++;
-                    continue;
-                } else z -= 4;
-            }
-            if (z < 0) z = 0;
+            if (vrstica[i] == '{' && vrstica[i + 1] == '\n') oklepaj = true;
             i++;
+            
         }
 
         for (int i = 0; i < z; i++) {
