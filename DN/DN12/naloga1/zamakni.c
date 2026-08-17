@@ -12,9 +12,28 @@ int main (int argc, char *argv[]) {
     if (izhod == NULL) return 1;
 
     char vrstica[1000];
+    int z = 0;
+    bool oklepaj = false;
     while (fgets(vrstica, 1000, vhod) != NULL) {
-        
-        fputs(vrstica, izhod);
+
+        int presledki = 0;
+        while (vrstica[presledki] == ' ') {
+        presledki++;
+        }
+
+        int i = 0;
+        while(vrstica[i] != '\0') {
+            if (vrstica[i] == '{') z += 4;
+            if (vrstica[i] == '}') z -= 4;
+            if (z < 0) z = 0;
+            i++;
+        }
+
+        for (int i = 0; i < z; i++) {
+        fputc(' ', izhod);
+        }
+
+        fputs(vrstica + presledki, izhod);
     }
     
     fclose(vhod);
