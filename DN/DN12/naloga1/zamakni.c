@@ -25,11 +25,16 @@ int main (int argc, char *argv[]) {
             z += 4;
             oklepaj = false;
         }
-        
+
         int i = 0;
         while(vrstica[i] != '\0') {
 
-            if (vrstica[i] == '{') oklepaj = true;
+            if (vrstica[i] == '{') {
+                if (vrstica[i + 1] == ' ') {
+                    i++;
+                    continue;
+                } else oklepaj = true;
+            }
             if (vrstica[i] == '}') {
                 if (vrstica[i + 1] == '\0') {
                     i++;
