@@ -8,7 +8,7 @@ int main (int argc, char* argv[]) {
     FILE* vhod = fopen(argv[1], "r");
     if (vhod == NULL) return 1;
 
-    char** vrstice = malloc(1000000 * sizeof(char*));
+    char** vrstice = malloc(6000000 * sizeof(char*));
     char vrstica[11];
     int i = 0;
     while (fgets(vrstica, 11, vhod) != NULL) {
