@@ -11,11 +11,11 @@ int main (int argc, char *argv[]) {
     FILE *izhod = fopen(argv[2], "w");
     if (izhod == NULL) return 1;
 
-    char vrstica[1000];
+    char vrstica[1001];
     int z = 0;
     bool oklepaj = false;
 
-    while (fgets(vrstica, 1000, vhod) != NULL) {
+    while (fgets(vrstica, 1001, vhod) != NULL) {
 
         int presledki = 0;
         while (vrstica[presledki] == ' ') {
@@ -37,7 +37,7 @@ int main (int argc, char *argv[]) {
 
             if (vrstica[i] == '{' && vrstica[i + 1] == '\n') oklepaj = true;
             i++;
-            
+
         }
 
         for (int i = 0; i < z; i++) {
