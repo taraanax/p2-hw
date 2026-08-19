@@ -2,21 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-void izpisi(unsigned char* bajt, FILE* f, int n, int m) {
-    
-    fread(bajt, 1, n, f);
-    
-
-    for (int i = 0; i < n; i++) {
-        for (int j = m; j >= 0; j--) {
-            printf("%d", (bajt[i] >> j) & 1);
-        }
-    }
-
-
-    return;
-}
-
 int main (int argc, char* argv[]) {
 
     FILE* datoteka = fopen(argv[1], "rb");
@@ -26,11 +11,21 @@ int main (int argc, char* argv[]) {
     int ostanek = (q - p) % 8;
     int celota = (q - p) / 8;
 
-    unsigned char bajt[celota];
-    unsigned char ostalo[1];
+    unsigned char bajt;
+    int i = 0;
 
-    izpisi(bajt, datoteka, celota, 7);
-    if (ostanek != 0) izpisi(ostalo, datoteka, 1, ostanek-1);
+    while (i < q && fread(&bajt, 1, 1, datoteka) != NULL) {
 
+        for (int j = 7; j >= 0; j--) {
+
+            if (i >= p && i < q) {
+                printf("%d", (bajt >> j) & 1);
+            }
+
+            i++;
+        }
+    }
+
+    fclose(datoteka);
     return 0;
 }
