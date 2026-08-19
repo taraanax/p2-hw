@@ -11,7 +11,7 @@ int main (int argc, char* argv[]) {
     unsigned char bajt;
     int i = 0;
 
-    while (i < q && fread(&bajt, 1, 1, datoteka) != NULL) {
+    while (i < q && fread(&bajt, 1, 1, datoteka) == 1) {
 
         for (int j = 7; j >= 0; j--) {
 
