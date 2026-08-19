@@ -11,7 +11,7 @@ int main (int argc, char* argv[]) {
     char temp[k];
     int bajti;
     
-    while (bajti = fread(temp, 1, k, datoteka) > 0) {
+    while ((bajti = fread(temp, 1, k, datoteka)) > 0) {
         char ime[100];
         sprintf(ime, "%s.%d", argv[1], i);
 
