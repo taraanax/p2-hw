@@ -8,9 +8,6 @@ int main (int argc, char* argv[]) {
     int p = atoi(argv[2]);
     int q = atoi(argv[3]);
 
-    int ostanek = (q - p) % 8;
-    int celota = (q - p) / 8;
-
     unsigned char bajt;
     int i = 0;
 
