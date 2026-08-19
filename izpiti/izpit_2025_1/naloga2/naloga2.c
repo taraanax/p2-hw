@@ -21,7 +21,32 @@
 // po potrebi dopolnite ...
 
 int main(int argc, char** argv) {
-    // dopolnite ...
+    
+    FILE* vhodna = fopen(argv[1], "rb");
+    FILE* izhod = fopen(argv[2], "wb");
+
+    char crka;
+    int st;
+    fscanf(vhodna, "%c%d", &crka, &st);
+    fprintf(izhod, "%c%d\n", crka, st);
+
+    int w, h;
+    fscanf(vhodna, "%d %d", &w, &h);
+    fprintf(izhod, "%d %d\n", w, h);
+
+    int cifra;
+    fscanf(vhodna, "%d", &cifra);
+    fprintf(izhod, "%d\n", cifra);
+
+    printf("w: %d | h: %d\n", w, h);
+
+    int piksli = w * h;
+    unsigned char r[piksli];
+    unsigned char g[piksli];
+    unsigned char b[piksli];
+
+    fclose(vhodna);
+    fclose(izhod);
 
     return 0;
 }
