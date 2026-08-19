@@ -27,8 +27,19 @@
 // po potrebi dopolnite ...
 
 Vozlisce* prevezi(Vozlisce* zacetek) {
-    // popravite / dopolnite ...
-    return NULL;
+    if (zacetek == NULL) return zacetek;
+    if (zacetek->nasl == NULL) return zacetek;
+    
+    Vozlisce* fst = zacetek;
+    Vozlisce* snd = zacetek->nasl;
+    Vozlisce* trd = zacetek->nasl->nasl;
+
+
+    zacetek = snd;
+    zacetek->nasl = fst;
+    zacetek->nasl->nasl = prevezi(trd);
+
+    return zacetek;
 }
 
 #ifndef test
