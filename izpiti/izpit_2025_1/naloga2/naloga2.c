@@ -38,13 +38,25 @@ int main(int argc, char** argv) {
     fscanf(vhodna, "%d", &cifra);
     fprintf(izhod, "%d\n", cifra);
 
-    printf("w: %d | h: %d\n", w, h);
+    fgetc(vhodna);
+
+    //printf("w: %d | h: %d\n", w, h);
 
     int piksli = w * h;
     unsigned char r[piksli];
     unsigned char g[piksli];
     unsigned char b[piksli];
 
+    for (int i = 0; i < piksli; i++) {
+        fread(&r[i], 1, 1, vhodna);
+        fread(&g[i], 1, 1, vhodna);
+        fread(&b[i], 1, 1, vhodna);
+    }
+
+    fwrite(r, 1, piksli, izhod);
+    fwrite(g, 1, piksli, izhod);
+    fwrite(b, 1, piksli, izhod);
+    
     fclose(vhodna);
     fclose(izhod);
 
